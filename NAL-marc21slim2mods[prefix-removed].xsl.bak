@@ -1258,13 +1258,21 @@
         <!--Revision 2.05 controlField008-35-37replace, uses replace function and regex to pinpoint 3 letter string-->
         <xsl:variable name="controlField008-35-37"
             select="normalize-space(translate(substring($controlField008, 36, 3), '|#', ''))"/>
-        <xsl:if test="$controlField008-35-37">
+  <xsl:choose>
+      <xsl:when test="not(ends-with($controlField008-35-37, '|'))">
             <language>
                 <languageTerm authority="iso639-2b" type="code">
                     <xsl:value-of select="substring($controlField008, 36, 3)"/>
                 </languageTerm>
             </language>
-        </xsl:if>
+        </xsl:when>
+      <xsl:otherwise>
+          <language>
+              <languageTerm authority="iso639-2b" type="code">
+                  <xsl:value-of select="substring($controlField008, 35, 3)"/>
+              </languageTerm>
+          </language>
+      </xsl:otherwise>
         <xsl:for-each select="datafield[@tag = 041]">
             <xsl:for-each
                 select="subfield[@code = 'a' or @code = 'b' or @code = 'd' or @code = 'e' or @code = 'f' or @code = 'g' or @code = 'h']">
@@ -3036,12 +3044,12 @@
 		<xsl:if test="@tag = 773">
 			<xsl:for-each select="subfield[@code = 'g']">
 				<part>
-				    <xsl:analyze-string select="." regex="(\d{{4}}.\w{{0,4}})(.+)" >
+				    <xsl:analyze-string select="." regex="(\d{{4,6}}.\w{{0,4}})(.+)" >
 				        <xsl:matching-substring>
 				            <!-- issue is not present-->
     				                       <detail type="volume">
     				                            <number>
-    				                                <xsl:value-of select="replace(regex-group(2), '(v\.\s)(\d+)(.*)', '$2')"/>
+    				                                <xsl:value-of select="replace(regex-group(2), '(.*, v\.\s)(\d+)(.*)', '$2')"/>
     				                            </number>
     				                            <caption>v.</caption>
     				                        </detail>
@@ -3054,7 +3062,7 @@
 				                            </detail>
 				                        </xsl:if>
     				                        <xsl:choose>
-    				                            <xsl:when test="contains(regex-group(2),'-')">
+    				                            <xsl:when test="matches(regex-group(2),'\d+\-\d+')">
     				                                <extent unit="pages">
     				                                    <start>
     				                                        <xsl:value-of select="replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$3')"/>
@@ -3067,7 +3075,7 @@
     				                            <xsl:otherwise>
     				                                <extent unit="pages">
     				                                    <total>
-    				                                        <xsl:value-of select="replace(regex-group(2), '(.*)(p.)(\d+)', '$3')"/>
+    				                                        <xsl:value-of select="replace(regex-group(2), '(.*p.)(\w{1,7})\-', '$2')"/>
     				                                    </total>
     				                                </extent>
     				                            </xsl:otherwise>

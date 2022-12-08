@@ -112,7 +112,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 27</number>
+               <number>27</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -172,6 +172,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 1240-1252.</extent>
       </physicalDescription>
@@ -251,7 +254,7 @@
          <identifier type="issn">0305-0270</identifier>
          <part>
             <detail type="volume">
-               <number>, 38</number>
+               <number>38</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -431,7 +434,7 @@
          <identifier type="issn">0921-2973</identifier>
          <part>
             <detail type="volume">
-               <number>., 35</number>
+               <number>35</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -557,7 +560,7 @@
          <identifier type="issn">1938-4254</identifier>
          <part>
             <detail type="volume">
-               <number>., 127</number>
+               <number>127</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -729,7 +732,7 @@
          <identifier type="issn">1442-9985</identifier>
          <part>
             <detail type="volume">
-               <number>., 43</number>
+               <number>43</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -890,11 +893,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 01, 499</number>
+               <number>499</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>119595-</total>
+               <total>119595</total>
             </extent>
             <text type="year">2021</text>
             <text type="month">Nov</text>
@@ -1035,7 +1038,7 @@
          <identifier type="issn">1610-7403</identifier>
          <part>
             <detail type="volume">
-               <number> 1, 2</number>
+               <number>2</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -1215,7 +1218,7 @@
          <identifier type="issn">0169-2046</identifier>
          <part>
             <detail type="volume">
-               <number>. 28, 99</number>
+               <number>99</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -1349,7 +1352,7 @@
          <identifier type="issn">1385-0237</identifier>
          <part>
             <detail type="volume">
-               <number>., 194</number>
+               <number>194</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -1549,7 +1552,7 @@
          <identifier type="issn">1618-8667</identifier>
          <part>
             <detail type="volume">
-               <number>., 27</number>
+               <number>27</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -1698,7 +1701,7 @@
          <identifier type="issn">0161-8202</identifier>
          <part>
             <detail type="volume">
-               <number>., 40</number>
+               <number>40</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -1813,7 +1816,7 @@
          <identifier type="issn">0161-8202</identifier>
          <part>
             <detail type="volume">
-               <number>., 39</number>
+               <number>39</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -1987,7 +1990,7 @@
          <identifier type="issn">1612-4669</identifier>
          <part>
             <detail type="volume">
-               <number>, 132</number>
+               <number>132</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -2126,7 +2129,7 @@
          <identifier type="issn">1470-160X</identifier>
          <part>
             <detail type="volume">
-               <number>., 80</number>
+               <number>80</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -2306,7 +2309,7 @@
          <identifier type="issn">0264-8377</identifier>
          <part>
             <detail type="volume">
-               <number>., 77</number>
+               <number>77</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -2377,6 +2380,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 428-437.</extent>
       </physicalDescription>
@@ -2517,7 +2523,7 @@
          <identifier type="issn">1035-3712</identifier>
          <part>
             <detail type="volume">
-               <number> 49</number>
+               <number> v. 49, no. 5 p.428-437</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -2716,7 +2722,7 @@
          <identifier type="issn">1366-9516</identifier>
          <part>
             <detail type="volume">
-               <number>., 26</number>
+               <number>26</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -2799,6 +2805,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <abstract>To better understand the fine-scale spatial dynamics of brown rot
                 disease and corresponding fungal genotypes, we analyzed three-dimensional spatial
                 patterns of pre-harvest fruit rot caused by Monilinia fructicola in individual peach
@@ -2880,7 +2889,7 @@
          <identifier type="issn">1535-1025</identifier>
          <part>
             <detail type="volume">
-               <number> 13</number>
+               <number> v. 13, no. 1</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -3060,7 +3069,7 @@
          <identifier type="issn">0048-9697</identifier>
          <part>
             <detail type="volume">
-               <number> 15, 521</number>
+               <number>521</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -3222,7 +3231,7 @@
          <identifier type="issn">0921-2973</identifier>
          <part>
             <detail type="volume">
-               <number>., 35</number>
+               <number>35</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -3405,7 +3414,7 @@
          <identifier type="issn">1470-160X</identifier>
          <part>
             <detail type="volume">
-               <number>., 69</number>
+               <number>69</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -3541,7 +3550,7 @@
          <identifier type="issn">0305-7364</identifier>
          <part>
             <detail type="volume">
-               <number>., 102</number>
+               <number>102</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -3693,7 +3702,7 @@
          <identifier type="issn">1612-4669</identifier>
          <part>
             <detail type="volume">
-               <number>., 137</number>
+               <number>137</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -3934,7 +3943,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>, 15</number>
+               <number>15</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -4058,7 +4067,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 24</number>
+               <number>24</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -4211,7 +4220,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number> 01, 25</number>
+               <number>25</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -4372,7 +4381,7 @@
          <identifier type="issn">0020-7128</identifier>
          <part>
             <detail type="volume">
-               <number>., 58</number>
+               <number>58</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -4524,7 +4533,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 25</number>
+               <number>25</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -4691,7 +4700,7 @@
          <identifier type="issn">2220-9964</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 9</number>
+               <number>9</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -4887,7 +4896,7 @@
          <identifier type="issn">1943-7226</identifier>
          <part>
             <detail type="volume">
-               <number>. 3, 56</number>
+               <number>56</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -5078,7 +5087,7 @@
          <identifier type="issn">1758-4469</identifier>
          <part>
             <detail type="volume">
-               <number> 19, 38</number>
+               <number>38</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -5269,11 +5278,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 472</number>
+               <number>472</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>118220-</total>
+               <total>118220</total>
             </extent>
             <text type="year">2020</text>
             <text type="month">Sept</text>
@@ -5476,11 +5485,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 472</number>
+               <number>472</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>118198-</total>
+               <total>118198</total>
             </extent>
             <text type="year">2020</text>
             <text type="month">Sept</text>
@@ -5655,7 +5664,7 @@
          <identifier type="issn">0168-6291</identifier>
          <part>
             <detail type="volume">
-               <number>., 21</number>
+               <number>21</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -5857,7 +5866,7 @@
          <identifier type="issn">0167-4366</identifier>
          <part>
             <detail type="volume">
-               <number>., 72</number>
+               <number>72</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -5917,6 +5926,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 673-683.</extent>
       </physicalDescription>
@@ -6013,7 +6025,7 @@
          <identifier type="issn">0067-1924</identifier>
          <part>
             <detail type="volume">
-               <number> 55</number>
+               <number> v. 55, no. 7 p.673-683</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -6078,6 +6090,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 451-460.</extent>
       </physicalDescription>
@@ -6160,7 +6175,7 @@
          <identifier type="issn">0067-1924</identifier>
          <part>
             <detail type="volume">
-               <number> 56</number>
+               <number> v. 56, no. 5 p.451-460</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -6313,7 +6328,7 @@
          <identifier type="issn">1085-7117</identifier>
          <part>
             <detail type="volume">
-               <number>., 19</number>
+               <number>19</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -6466,7 +6481,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>. 1, 15</number>
+               <number>15</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -6630,7 +6645,7 @@
          <identifier type="issn">1566-0621</identifier>
          <part>
             <detail type="volume">
-               <number>., 13</number>
+               <number>13</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -6771,7 +6786,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 8</number>
+               <number>8</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -6903,7 +6918,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 9</number>
+               <number>9</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -7050,7 +7065,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>, 9</number>
+               <number>9</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -7264,7 +7279,7 @@
          <identifier type="issn">1055-7903</identifier>
          <part>
             <detail type="volume">
-               <number>., 85</number>
+               <number>85</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -7481,7 +7496,7 @@
          <identifier type="issn">1055-7903</identifier>
          <part>
             <detail type="volume">
-               <number>., 85</number>
+               <number>85</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -7710,6 +7725,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 1164-1176.</extent>
       </physicalDescription>
@@ -7802,7 +7820,7 @@
          <identifier type="issn">0305-0270</identifier>
          <part>
             <detail type="volume">
-               <number>, 38</number>
+               <number>38</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -7957,7 +7975,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 167</number>
+               <number>167</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -8134,11 +8152,11 @@
          <identifier type="issn">0048-9697</identifier>
          <part>
             <detail type="volume">
-               <number> 10, 725</number>
+               <number>725</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>138448-</total>
+               <total>138448</total>
             </extent>
             <text type="year">2020</text>
             <text type="month">July</text>
@@ -8309,7 +8327,7 @@
          <identifier type="issn">0269-8463</identifier>
          <part>
             <detail type="volume">
-               <number>., 30</number>
+               <number>30</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -8501,7 +8519,7 @@
          <identifier type="issn">1752-0762</identifier>
          <part>
             <detail type="volume">
-               <number>. 4, 37</number>
+               <number>37</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -8688,7 +8706,7 @@
          <identifier type="issn">0305-7364</identifier>
          <part>
             <detail type="volume">
-               <number>, 97</number>
+               <number>97</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -8824,7 +8842,7 @@
          <identifier type="issn">0032-079X</identifier>
          <part>
             <detail type="volume">
-               <number>., 279</number>
+               <number>279</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -8980,7 +8998,7 @@
          <identifier type="issn">1612-4669</identifier>
          <part>
             <detail type="volume">
-               <number>, 141</number>
+               <number>141</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -9136,7 +9154,7 @@
          <identifier type="issn">0921-2973 0921-2973</identifier>
          <part>
             <detail type="volume">
-               <number>., 31</number>
+               <number>31</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -9298,7 +9316,7 @@
          <identifier type="issn">1100-9233</identifier>
          <part>
             <detail type="volume">
-               <number>., 13</number>
+               <number>13</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -9506,11 +9524,11 @@
          <identifier type="issn">0034-4257</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 231</number>
+               <number>231</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>111233-</total>
+               <total>111233</total>
             </extent>
             <text type="year">2019</text>
             <text type="month">Sept</text>
@@ -9699,11 +9717,11 @@
          <identifier type="issn">0034-4257</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 231</number>
+               <number>231</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>111232-</total>
+               <total>111232</total>
             </extent>
             <text type="year">2019</text>
             <text type="month">Sept</text>
@@ -9928,11 +9946,11 @@
          <identifier type="issn">0034-4257</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 231</number>
+               <number>231</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>111238-</total>
+               <total>111238</total>
             </extent>
             <text type="year">2019</text>
             <text type="month">Sept</text>
@@ -10061,7 +10079,7 @@
          <identifier type="issn">1439-1791</identifier>
          <part>
             <detail type="volume">
-               <number>., 12</number>
+               <number>12</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -10118,6 +10136,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 75-90.</extent>
       </physicalDescription>
@@ -10171,7 +10192,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number> 15</number>
+               <number> v. 15, no. 3 p.75-90</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -10343,7 +10364,7 @@
          <identifier type="issn">0923-4861</identifier>
          <part>
             <detail type="volume">
-               <number>., 27</number>
+               <number>27</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -10562,7 +10583,7 @@
          <identifier type="issn">1943-7226</identifier>
          <part>
             <detail type="volume">
-               <number>. 16, 57</number>
+               <number>57</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -10777,7 +10798,7 @@
          <identifier type="issn">0022-1333</identifier>
          <part>
             <detail type="volume">
-               <number>., 93</number>
+               <number>93</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -11003,11 +11024,11 @@
          <identifier type="issn">0925-8574</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 149</number>
+               <number>149</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>105810-</total>
+               <total>105810</total>
             </extent>
             <text type="year">2020</text>
             <text type="month">Apr</text>
@@ -11069,6 +11090,9 @@
          <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
          <issuance>continuing</issuance>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+      </language>
       <physicalDescription>
          <extent>p. 297-307.</extent>
       </physicalDescription>
@@ -11189,7 +11213,7 @@
          <identifier type="issn">1036-9872</identifier>
          <part>
             <detail type="volume">
-               <number> 37</number>
+               <number> v. 37, no. 3 p.297-307</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -11372,11 +11396,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 01, 507</number>
+               <number>507</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>119980-</total>
+               <total>119980</total>
             </extent>
             <text type="year">2022</text>
             <text type="month">Mar</text>
@@ -11603,7 +11627,7 @@
          <identifier type="issn">1617-4615</identifier>
          <part>
             <detail type="volume">
-               <number>, 287</number>
+               <number>287</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -11782,11 +11806,11 @@
          <identifier type="issn">1754-5048</identifier>
          <part>
             <detail type="volume">
-               <number>., 47</number>
+               <number>47</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>100974-</total>
+               <total>100974</total>
             </extent>
             <text type="year">2020</text>
             <text type="month">Oct</text>
@@ -11936,7 +11960,7 @@
          <identifier type="issn">0015-7546</identifier>
          <part>
             <detail type="volume">
-               <number>, 81</number>
+               <number>81</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -12222,11 +12246,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 01, 497</number>
+               <number>497</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>119480-</total>
+               <total>119480</total>
             </extent>
             <text type="year">2021</text>
             <text type="month">Oct</text>
@@ -12439,7 +12463,7 @@
          <identifier type="issn">0168-1923</identifier>
          <part>
             <detail type="volume">
-               <number> 30, 148</number>
+               <number>148</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -12532,7 +12556,7 @@
          <identifier type="issn"/>
          <part>
             <detail type="volume">
-               <number>., 16</number>
+               <number>16</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -12696,7 +12720,7 @@
          <identifier type="issn">1672-9072</identifier>
          <part>
             <detail type="volume">
-               <number>, 50</number>
+               <number>50</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -12870,7 +12894,7 @@
          <identifier type="issn">0167-4366</identifier>
          <part>
             <detail type="volume">
-               <number>, 79</number>
+               <number>79</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -13085,7 +13109,7 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number> 15, 368</number>
+               <number>368</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -13281,7 +13305,7 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number> 01, 367</number>
+               <number>367</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -13504,7 +13528,7 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number> 01, 369</number>
+               <number>369</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -13795,7 +13819,7 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 380</number>
+               <number>380</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -13982,7 +14006,7 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number> 01, 369</number>
+               <number>369</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -14120,7 +14144,7 @@
          <identifier type="issn">1407-009X</identifier>
          <part>
             <detail type="volume">
-               <number>. 2, 70</number>
+               <number>70</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -14332,7 +14356,7 @@
          <identifier type="issn">0048-9697</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 584</number>
+               <number>584</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -14565,11 +14589,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 494</number>
+               <number>494</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>119319-</total>
+               <total>119319</total>
             </extent>
             <text type="year">2021</text>
             <text type="month">Aug</text>
@@ -14705,7 +14729,7 @@
          <identifier type="issn">0032-079X</identifier>
          <part>
             <detail type="volume">
-               <number>., 365</number>
+               <number>365</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -14856,7 +14880,7 @@
          <identifier type="issn">0921-2973</identifier>
          <part>
             <detail type="volume">
-               <number>., 35</number>
+               <number>35</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -15024,7 +15048,7 @@
          <identifier type="issn">1064-2293</identifier>
          <part>
             <detail type="volume">
-               <number>., 53</number>
+               <number>53</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -15158,7 +15182,7 @@
          <identifier type="issn">0012-9658</identifier>
          <part>
             <detail type="volume">
-               <number>., 96</number>
+               <number>96</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -15364,7 +15388,7 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 1, 285</number>
+               <number>285</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -15512,7 +15536,7 @@
          <identifier type="issn">0028-646X</identifier>
          <part>
             <detail type="volume">
-               <number>, 211</number>
+               <number>211</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -15680,7 +15704,7 @@
          <identifier type="issn">0022-1694</identifier>
          <part>
             <detail type="volume">
-               <number>. 30, 349</number>
+               <number>349</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -15866,7 +15890,7 @@
          <identifier type="issn">2150-8925</identifier>
          <part>
             <detail type="volume">
-               <number>, 13</number>
+               <number>13</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -15874,7 +15898,7 @@
                <caption>no.</caption>
             </detail>
             <extent unit="pages">
-               <total>, v. 13, no. 6 p.e4079-</total>
+               <total>e4079</total>
             </extent>
             <text type="year">2022</text>
             <text type="month">June</text>
@@ -16033,7 +16057,7 @@
          <identifier type="issn">2150-8925</identifier>
          <part>
             <detail type="volume">
-               <number>., 13</number>
+               <number>13</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -16041,7 +16065,7 @@
                <caption>no.</caption>
             </detail>
             <extent unit="pages">
-               <total>., v. 13, no. 2 p.e3931-</total>
+               <total>e3931</total>
             </extent>
             <text type="year">2022</text>
             <text type="month">Feb</text>
@@ -16205,7 +16229,7 @@
          <identifier type="issn">0031-0182</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 446</number>
+               <number>446</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
@@ -16350,7 +16374,7 @@
          <identifier type="issn">0032-0862</identifier>
          <part>
             <detail type="volume">
-               <number>., 61</number>
+               <number>61</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -16491,7 +16515,7 @@
          <identifier type="issn">0931-1890</identifier>
          <part>
             <detail type="volume">
-               <number>., 23</number>
+               <number>23</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -16749,11 +16773,11 @@
          <identifier type="issn">0034-4257</identifier>
          <part>
             <detail type="volume">
-               <number>., 264</number>
+               <number>264</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>112587-</total>
+               <total>112587</total>
             </extent>
             <text type="year">2021</text>
             <text type="month">Oct</text>
@@ -16903,7 +16927,7 @@
          <identifier type="issn">1566-0621</identifier>
          <part>
             <detail type="volume">
-               <number>., 18</number>
+               <number>18</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -17053,7 +17077,7 @@
          <identifier type="issn">0962-1083</identifier>
          <part>
             <detail type="volume">
-               <number>., 18</number>
+               <number>18</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -17349,7 +17373,7 @@
          <identifier type="issn">1354-1013</identifier>
          <part>
             <detail type="volume">
-               <number>, 24</number>
+               <number>24</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
@@ -17533,11 +17557,11 @@
          <identifier type="issn">0378-1127</identifier>
          <part>
             <detail type="volume">
-               <number>. 15, 494</number>
+               <number>494</number>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
-               <total>119315-</total>
+               <total>119315</total>
             </extent>
             <text type="year">2021</text>
             <text type="month">Aug</text>
@@ -17720,7 +17744,7 @@
          <identifier type="issn">1526-498X</identifier>
          <part>
             <detail type="volume">
-               <number>., 68</number>
+               <number>68</number>
                <caption>v.</caption>
             </detail>
             <detail type="issue">
