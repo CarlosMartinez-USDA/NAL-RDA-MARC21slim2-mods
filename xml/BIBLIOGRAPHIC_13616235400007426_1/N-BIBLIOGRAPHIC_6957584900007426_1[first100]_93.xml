@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Comparative spatial analysis of the sooty blotch/flyspeck disease
+                complex, bullâ&#x80;&#x99;s eye and bitter rots of apples</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">P.</namePart>
+      <namePart type="family">Spolti</namePart>
+      <displayForm>Spolti, P.</displayForm>
+      <affiliation>Departamento de Fitossanidade, Faculdade de Agronomia, Universidade
+                Federal do Rio Grande do Sul, 91540â&#x80;&#x90;000, Porto Alegre, RS Proterra Consultoria
+                AgronÃ´mica Ltda. 95200â&#x80;&#x90;000, Vacaria, RS Embrapa Mandioca e Fruticultura,
+                44380â&#x80;&#x90;000, Cruz da Almas, BA, Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">R. M.</namePart>
+      <namePart type="family">Valdebenitoâ&#x80;&#x90;Sanhueza</namePart>
+      <displayForm>Valdebenitoâ&#x80;&#x90;Sanhueza, R. M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">F. F.</namePart>
+      <namePart type="family">Laranjeira</namePart>
+      <displayForm>Laranjeira, F. F.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">E. M.</namePart>
+      <namePart type="family">Del Ponte</namePart>
+      <displayForm>Del Ponte, E. M.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2012-04</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 271-280.</extent>
+      </physicalDescription>
+      <abstract>The incidence of sooty blotch/flyspeck (SBFS) and bitter and bullâ&#x80;&#x99;s
+                eye rots were assessed in a Fuji apple orchard during two seasons. Using a regular
+                sampling design, 252 trees were selected and 20 fruits per tree were sampled at
+                harvest and scored for disease incidence. For bitter and bullâ&#x80;&#x99;s eye rots,
+                additional assessments were made on all symptomless fruit after a 30â&#x80;&#x90;day period of
+                storage. Randomness in the spatial pattern was assessed using betaâ&#x80;&#x90;binomial
+                analysis of incidence data for three sampling scales (one, three or six adjacent
+                trees as sampling units) and using Spatial Analysis by Distance Indices (sadie) for
+                disease counts for the 3â&#x80;&#x90;tree sampling scale. sadie was also used for testing
+                spatial associations between a pair of diseases, between years for the same disease
+                or between rotted and latently infected fruit. Using a toroidalâ&#x80;&#x90;shifts procedure,
+                360 maps of disease counts were created based on the observed data, which were
+                further analysed using sadie. Most datasets showed an aggregated spatial pattern,
+                which was more consistent for the two fruit rots than SBFS, which showed distinct
+                patterns depending on the year or method of analysis. The two fruit rots were
+                spatially associated in most situations but SBFS and bullâ&#x80;&#x99;s eye rot were
+                dissociated in one season. Results from virtual orchards showed that the patterns
+                observed in the original maps may accurately represent those in similar
+                appleâ&#x80;&#x90;growing areas. Hypotheses regarding aspects of ecology and epidemiology of
+                pathogens studied and potential efficacy of control measures in the region are
+                discussed.</abstract>
+      <subject authority="atg">
+         <topic>apples</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bulls</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>control methods</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>disease incidence</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>epidemiological studies</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>eyes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruit trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruits</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>orchards</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant rots</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>storage time</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1111/j.1365-3059.2011.02524.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Plant pathology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Blackwell Publishing Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">0032-0862</identifier>
+         <identifier type="local">Journal:jnl44596</identifier>
+         <part>
+            <text>2012 Apr., v. 61, no. 2 p.271-280</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-3059.2011.02524.x</identifier>
+      <identifier type="control">9916309867307426</identifier>
+      <identifier type="agricola">IND44684483</identifier>
+      <extension>
+         <identifier type="local">agid:414854</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">120315</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118075443.0</recordChangeDate>
+         <recordIdentifier>9916309867307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

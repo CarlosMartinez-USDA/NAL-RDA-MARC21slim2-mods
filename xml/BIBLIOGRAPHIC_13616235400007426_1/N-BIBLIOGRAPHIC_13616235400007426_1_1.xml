@@ -1,0 +1,3500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and location</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">K.W.</namePart>
+         <namePart type="family">McCravy</namePart>
+         <displayForm>McCravy, K.W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">C.W.</namePart>
+         <namePart type="family">Berisford</namePart>
+         <displayForm>Berisford, C.W.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1998-04</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 355-359.</extent>
+      </physicalDescription>
+      <abstract>Patterns of parasitism by Trichogramma spp. relative to density and location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg densities were adjusted by temporarily enclosing trees in fine mesh screen cages and introducing different numbers of tip moths. After exposing eggs to naturally occurring parasitoids, all shoots were removed, and eggs were counted and evaluated for parasitism. Tip moth egg densities ranged from 203 to 2,579 per tree for the spring generation, and from 1 to 89 per tree for the summer generation. Tip moths deposited significantly greater numbers of eggs on needles than shoots on high- versus low-egg-density trees. Overall parasitism rates were 37.2 and 43.3% for spring- and summer-generation eggs, respectively. Parasitism was density independent at the whole-tree level in both generations, but spring-generation parasitism was strongly inversely density dependent in the top whorl. Numbers of eggs per needle fascicle ranged from 1 to 15 for spring-generation trees. Actual numbers of parasitized eggs per discovered fascicle (one on which parasitism occurred) increased with egg density, but the percentage of parasitized eggs decreased. Egg density had no effect on fascicle discovery. These factors produced an inversely density-dependent relationship between egg parasitism and density at the fascicle level. Eggs located on shoots suffered significantly greater parasitism rates than those on needles. Implications of these results are discussed.</abstract>
+      <note>2019-12-04</note>
+      <subject authority="atg">
+         <topic>parasitism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>parasitoids</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Rhyacionia frustrana</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ova</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>host-parasite relationships</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>conifer needles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seasonal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus taeda</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Trichogramma</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shoots</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Georgia</geographic>
+      </subject>
+      <subject>
+         <topic>parasites</topic>
+      </subject>
+      <subject>
+         <topic>host location</topic>
+      </subject>
+      <subject>
+         <topic>parasites of insect pests</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1093/ee/27.2.355</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Environmental entomology</title>
+         </titleInfo>
+         <identifier type="issn">0046-225X</identifier>
+         <part>
+            <text>1998 Apr., v. 27, no. 2 p.355-359</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1093/ee/27.2.355</identifier>
+      <identifier type="control">9916288966107426</identifier>
+      <identifier type="agricola">IND21811969</identifier>
+      <extension>
+         <note type="saleTape">19990101 19990111 00000000</note>
+         <note type="indexer">IND NZM </note>
+         <note type="publicationSource">Other US</note>
+         <note type="ai">agid:1408166 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">981119</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118121758.0</recordChangeDate>
+         <recordIdentifier>9916288966107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Frequent, low-amplitude disturbances drive high tree turnover rates on a remote, cyclone-prone Polynesian island</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Edward L.</namePart>
+         <namePart type="family">Webb</namePart>
+         <displayForm>Webb, Edward L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Joshua O.</namePart>
+         <namePart type="family">Seamon</namePart>
+         <displayForm>Seamon, Joshua O.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Siaifoi</namePart>
+         <namePart type="family">Fa'aumu</namePart>
+         <displayForm>Fa'aumu, Siaifoi</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1240-1252.</extent>
+      </physicalDescription>
+      <abstract>Aim How important are frequent, low-intensity disturbances to tree community dynamics of a cyclone-prone forest? We tested the following hypotheses concerning the ‘inter-cataclysm' period on a remote Polynesian island: (1) tree turnover would be high and recruitment rates would be significantly higher than mortality; (2) low-intensity disturbance would result in a marginal increase in tree mortality in the short term; (3) turnover would vary among species and would be associated with plant traits linked to differences in life history; and (4) mortality and recruitment events would be spatially non-random. Location Tutuila, a volcanic island in the Samoan Archipelago, Polynesia. Methods We censused the tree (stem diameter ≥ 10 cm) community in 3.9 ha of tropical forest three times over a 10-year period, 1998-2008. We calculated annual mortality, recruitment and turnover rates for 36 tree species. We tested for non-random spatial patterns and predictors of mortality, and non-random spatial patterns of tree recruitment. A 2004 cyclone passing within 400 km allowed us to measure the effects of a non-cataclysmic disturbance on vital rates. Results Annual turnover was 2.8% and annual recruitment was 3.6%; these are some of the highest rates in the tropics, and likely to be a response to a cyclone that passed &lt; 50 km from Tutuila in 1991. Species turnover rates over 10 years were negatively correlated with wood specific gravity, and positively correlated with annual stem diameter increment. Mortality was spatially aggregated, and a function of site, species and an individual's growth rate. Recruitment was highest on ground with low slope. The low-magnitude cyclone disturbance in 2004 defoliated 29% of all trees, but killed only 1.8% of trees immediately and increased annual mortality over 5 years by 0.7%. Main conclusions The inter-cataclysm period on Tutuila is characterized by frequent, low-amplitude disturbances that promote high rates of tree recruitment and create a dynamic, non-equilibrium or disturbed island disequilibrium tree community. Species with low wood density and fast growth rates have enhanced opportunities for recruitment between cataclysms, but also higher probabilities of dying. Our results suggest that increases in the frequency of cyclone activity could shift relative abundances towards disturbance-specialist species and new forest turnover rates.</abstract>
+      <note>Includes references</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>correlation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>life history</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wood density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>specific gravity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject>
+         <topic>recruitment</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1111/j.1365-2699.2011.02505.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of biogeography</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Blackwell Publishing Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">0305-0270</identifier>
+         <part>
+            <text>2011 July, v. 38, no. 7 p.1240-1252</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-2699.2011.02505.x</identifier>
+      <identifier type="control">9916289322707426</identifier>
+      <identifier type="agricola">IND44591654</identifier>
+      <extension>
+         <note type="ai">agid:644025 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">110617</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118052810.0</recordChangeDate>
+         <recordIdentifier>9916289322707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Burn weather and three-dimensional fuel structure determine post-fire tree mortality</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Sean M. A.</namePart>
+         <namePart type="family">Jeronimo</namePart>
+         <displayForm>Jeronimo, Sean M. A.</displayForm>
+         <affiliation>School of Environmental and Forest Sciences, College of the Environment, University of Washington, Box 352100, Seattle, WA, 98195, USA. jeronimo@uw.edu</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">James A.</namePart>
+         <namePart type="family">Lutz</namePart>
+         <displayForm>Lutz, James A.</displayForm>
+         <affiliation>Wildland Resources Department, Quinney College of Natural Resources, Utah State University, 5230 Old Main Hill, Logan, UT, 84322, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Van</namePart>
+         <namePart type="family">R. Kane</namePart>
+         <displayForm>R. Kane, Van</displayForm>
+         <affiliation>School of Environmental and Forest Sciences, College of the Environment, University of Washington, Box 352100, Seattle, WA, 98195, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Andrew J.</namePart>
+         <namePart type="family">Larson</namePart>
+         <displayForm>Larson, Andrew J.</displayForm>
+         <affiliation>W.A. Franke College of Forestry and Conservation, University of Montana, 32 Campus Drive, Missoula, MT, 59802, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jerry F.</namePart>
+         <namePart type="family">Franklin</namePart>
+         <displayForm>Franklin, Jerry F.</displayForm>
+         <affiliation>School of Environmental and Forest Sciences, College of the Environment, University of Washington, Box 352100, Seattle, WA, 98195, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2020-04</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 859-878.</extent>
+      </physicalDescription>
+      <abstract>CONTEXT: Post-fire tree mortality is a spatially structured process driven by interacting factors across multiple scales. However, empirical models of fire-caused tree mortality are generally not spatially explicit, do not differentiate among scales, and do not differentiate immediate from delayed mortality. OBJECTIVES: We aimed to quantify cross-scale linkages between forest structure—including spatial patterns of trees—and the progression of mortality 1–4 years post-fire in terms of rates, causes, and underlying demography. METHODS: We used data from a long-term study site in the Sierra Nevada, California to build a post-fire tree mortality model predicted by lidar-measured estimates of structure. We calculated structural metrics at scales from individual trees to 90 × 90 m neighborhoods and combined them with metrics for topography, site water balance, and burn weather to predict immediate and delayed post-fire tree mortality. RESULTS: Mortality rates decreased while average diameter of newly killed trees increased each year post-fire. Burn weather predictors as well as interactive terms across scales improved model fit and parsimony. Including landscape-scale information improved finer-scale predictions but not vice versa. The amount of fuel, fuel configuration, and burning conditions predicted total mortality at broader scales while tree group-scale fuel connectivity, tree species fire tolerance, and local stresses predicted the fine-scale distribution, timing, and agents of mortality. CONCLUSIONS: Landscape-scale conditions provide the template upon which finer-scale variation in post-fire tree mortality is arranged. Post-fire forest structure is associated with the etiologies of different mortality agents, and so landscape-level heterogeneity is a key part of ecosystem stability and resilience.</abstract>
+      <subject authority="atg">
+         <topic>burning</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>demography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecological balance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>empirical models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire resistance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fuels</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mountains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>weather</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>California</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1007/s10980-020-00983-0</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Landscape ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">0921-2973</identifier>
+         <identifier type="local">Journal:jnl3870067</identifier>
+         <part>
+            <text>2020 Apr., v. 35, no. 4 p.859-878</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10980-020-00983-0</identifier>
+      <identifier type="control">9916289329007426</identifier>
+      <identifier type="agricola">IND606884549</identifier>
+      <extension>
+         <note type="ai">agid:6884549 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200412</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118052742.0</recordChangeDate>
+         <recordIdentifier>9916289329007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Geographic Variation in Songs of the Tree Pipit (Anthus trivialis) at Two Spatial Scales</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Tereza</namePart>
+         <namePart type="family">Petruskováá</namePart>
+         <displayForm>Petruskováá, Tereza</displayForm>
+         <affiliation>Department of Ecology, Faculty of Science, Charles University in Prague, Viniččnáá 7, CZ-12844 Prague 2, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Tomasz S.</namePart>
+         <namePart type="family">Osiejuk</namePart>
+         <displayForm>Osiejuk, Tomasz S.</displayForm>
+         <affiliation>Department of Behavioural Ecology, Institute of Environmental Biology, Faculty of Biology, Adam Mickiewicz University, Umultowska 89, PL-61614 Poznańń, Poland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Adam</namePart>
+         <namePart type="family">Petrusek</namePart>
+         <displayForm>Petrusek, Adam</displayForm>
+         <affiliation>Department of Ecology, Faculty of Science, Charles University in Prague, Viniččnáá 7, CZ-12844 Prague 2, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2010-04</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 274-282.</extent>
+      </physicalDescription>
+      <abstract>We studied geographic as well as individual variation of songs in five Czech populations of the Tree Pipit (Motacillidae: Anthus trivialis), a passerine bird with a medium-sized syllable repertoire and complex song. We focused on repertoire composition at the level of syllables (the smallest invariant song units) and of structures that are potentially important in recognition among individuals (i.e., bi-syllables, or regular repetitions of two different syllables) and among populations (introductory phrases). We tested the hypotheses that the repertoires reflect local dialects (i.e., different male origins) and that within-site similarities of male repertoires are distance dependent. The populations studied differed significantly in all analyzed characteristics. Male origin explained ∼∼18% of the variation in individual syllable repertoires. However, no clear within-site geographic structure in repertoire similarity was observed, either between closest neighbors or on larger scales. We observed a tendency for increased syllable sharing among males in a small and dense isolated population, which is consistent with recent studies that suggest the existence of strong effects of habitat fragmentation on geographic patterns of song variation. High individual variation was observed in bi-syllable repertoires, but whether this facilitates individual recognition is unknown and in need of further study.</abstract>
+      <subject>
+         <topic>Anthus trivialis</topic>
+      </subject>
+      <subject>
+         <topic>complex song</topic>
+      </subject>
+      <subject>
+         <topic>individual recognition</topic>
+      </subject>
+      <subject>
+         <topic>local dialects</topic>
+      </subject>
+      <subject>
+         <topic>repertoire similarity</topic>
+      </subject>
+      <subject>
+         <topic>Tree Pipit</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1525%2Fauk.2009.09077</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Auk</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>University of California Press</publisher>
+         </originInfo>
+         <identifier type="issn">1938-4254</identifier>
+         <part>
+            <text>2010 Apr., v. 127, no. 2 p.274-282</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1525/auk.2009.09077</identifier>
+      <identifier type="control">9916290441907426</identifier>
+      <identifier type="agricola">IND601306789</identifier>
+      <extension>
+         <note type="ai">agid:1306789 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151127</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055346.0</recordChangeDate>
+         <recordIdentifier>9916290441907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Is the spatial pattern of a tree population in a seasonally dry tropical climate explained by density‐dependent mortality?</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Andréa Pereira</namePart>
+         <namePart type="family">Silveira</namePart>
+         <displayForm>Silveira, Andréa Pereira</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Fernando Roberto</namePart>
+         <namePart type="family">Martins</namePart>
+         <displayForm>Martins, Fernando Roberto</displayForm>
+         <affiliation>Department of Plant Biology, Institute of Biology, University of Campinas – UNICAMP, Campinas, SP, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Bruno Sousa</namePart>
+         <namePart type="family">Menezes</namePart>
+         <displayForm>Menezes, Bruno Sousa</displayForm>
+         <affiliation>Graduate Course in Ecology and Natural Resources, Department of Biology, Federal University of Ceará – UFC, Fortaleza, CE, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Francisca Soares</namePart>
+         <namePart type="family">Araújo</namePart>
+         <displayForm>Araújo, Francisca Soares</displayForm>
+         <affiliation>Graduate Course in Ecology and Natural Resources, Department of Biology, Federal University of Ceará – UFC, Fortaleza, CE, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2018-04</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 191-202.</extent>
+      </physicalDescription>
+      <abstract>Spatial pattern of tropical plants is initially generated by limited seed dispersal, but the role of density‐dependent and independent mechanisms as modifiers of these patterns across ontogeny is poorly understood. We investigated whether density‐dependent mortality (DDM) and environmental heterogeneity can drive spatial pattern across the ontogeny of a tree in a seasonally dry tropical climate. We used Moran's I correlograms and spatial analysis by distance indices (SADIE) to assess the spatial patterns of the pre‐ and post‐germinative stages of Cordia oncocalyx (Boraginaceae), an abundant tree endemic in the deciduous thorny woodland in the northeastern Brazilian semiarid region. We also used RDA to analyse the effect of DDM and environmental heterogeneity (measured by microtopography and canopy openness) in the mortality and recruitment. Seeds, seedlings, juveniles and adults showed aggregated spatial patterns; infants and immatures were randomly distributed; adults, seeds and seedlings attracted each other while adult, juveniles and immatures repulsed each other. Infant and seedling mortality rates were related to DDM and the recruitment from infant to juvenile was more influenced by spatial heterogeneity. Attraction was determined by local dispersal; repulsion was related to DDM and environment heterogeneity, which allowed the return to aggregation in adult stage. Together, these results indicated that spatial pattern can change across ontogeny, in which the initial stages are responsive to DDM and the final stages are influenced by spatial heterogeneity.</abstract>
+      <note>JOURNAL ARTICLE</note>
+      <subject authority="atg">
+         <topic>Cordia</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>adults</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>immatures</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>infants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>juveniles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microrelief</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ontogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed dispersal</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seedlings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>semiarid zones</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>woodlands</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1111/aec.12556</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Austral ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>John Wiley &amp; Sons, Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1442-9985</identifier>
+         <identifier type="local">Journal:jnl59958</identifier>
+         <part>
+            <text>2018 Apr., v. 43, no. 2 p.191-202</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/aec.12556</identifier>
+      <identifier type="control">9916290782307426</identifier>
+      <identifier type="agricola">IND605920367</identifier>
+      <extension>
+         <note type="ai">agid:5920367 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">180327</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055703.0</recordChangeDate>
+         <recordIdentifier>9916290782307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Long-term impacts of road disturbance on old-growth coast redwood forests</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Cody R.</namePart>
+         <namePart type="family">Dangerfield</namePart>
+         <displayForm>Dangerfield, Cody R.</displayForm>
+         <affiliation>Department of Wildland Resources, Utah State University, 5200 Old Main Hill, Logan, UT 843222, United States</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Steve L.</namePart>
+         <namePart type="family">Voelker</namePart>
+         <displayForm>Voelker, Steve L.</displayForm>
+         <affiliation>College of Forest Resources and Environmental Science, Michigan Technological University, 178 Noblet Building, Houghton, MI 49931, United States</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christopher A.</namePart>
+         <namePart type="family">Lee</namePart>
+         <displayForm>Lee, Christopher A.</displayForm>
+         <affiliation>California Department of Forestry and Fire Protection, 118 S. Fortuna Blvd., Fortuna, CA 95540, United States</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+            <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2021-11</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <abstract>In forest ecosystems, road expansions and other landcover changes create abrupt artificial boundaries that alter the microclimate along the forest edge, potentially impacting growth and physiology of bordering trees. To understand how previous landcover changes and road installations have affected coast redwoods (Sequoia sempervirens), we used dendroecological methods to contrast tree-ring growth patterns and stable isotopes (Δ¹³C) of redwoods before and after a known disturbance event, the expansion of Highway 101 in the 1950s, that bisected several old-growth stands of Humboldt Redwoods State Park. Increment cores were extracted from redwoods in old-growth stands that bordered the highway and other forest edges (secondary forests and agricultural fields) as well as two control areas. Disturbance detection methods and dendroclimatic modeling were then employed to determine whether the expansion led to growth suppression and elevated water stress. Tree-ring growth data indicated that the construction of Highway 101 disproportionately impacted the growth of trees that were within 30 m of the highway and that these effects were particularly elevated in trees that currently exhibit crown dieback. Similarly, climatic modeling of tree-ring Δ¹³C data indicated that highway adjacent trees also experienced elevated water stress for several decades following the construction of the highway. By analyzing tree-ring data of redwoods within Humboldt Redwoods State Park, here we provide critical insight to the temporal and spatial implications of the habitat fragmentation and road installation that has been nearly ubiquitous in the redwood distribution since Euro-American settlement.</abstract>
+      <subject authority="atg">
+         <topic>Sequoia sempervirens</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>administrative management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coasts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendroecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dieback</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land cover</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microclimate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>physiology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>state parks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>water stress</topic>
+      </subject>
+      <subject>
+         <topic>Growth suppressions</topic>
+      </subject>
+      <subject>
+         <topic>Disturbance</topic>
+      </subject>
+      <subject>
+         <topic>Carbon isotope discrimination</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2021.119595</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2021 Nov. 01, v. 499 p.119595-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2021.119595</identifier>
+      <identifier type="control">9916290827507426</identifier>
+      <identifier type="agricola">IND607482949</identifier>
+      <extension>
+         <note type="ai">agid:7482949 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">210911</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118060928.0</recordChangeDate>
+         <recordIdentifier>9916290827507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>Crown Shape of an Evergreen Oak, Quercus glauca, in a Hardwood Community</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Hiroki</namePart>
+         <namePart type="family">Itô</namePart>
+         <displayForm>Itô, Hiroki</displayForm>
+         <affiliation>Kansai Research Center, Forestry and Forest Products Research Institute, Kyoto 612, Japan</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Akihiro</namePart>
+         <namePart type="family">Sumida</namePart>
+         <displayForm>Sumida, Akihiro</displayForm>
+         <affiliation>Kansai Research Center, Forestry and Forest Products Research Institute, Kyoto 612, Japan</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Yuji</namePart>
+         <namePart type="family">Isagi</namePart>
+         <displayForm>Isagi, Yuji</displayForm>
+         <affiliation>Kansai Research Center, Forestry and Forest Products Research Institute, Kyoto 612, Japan</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Koichi</namePart>
+         <namePart type="family">Kamo</namePart>
+         <displayForm>Kamo, Koichi</displayForm>
+         <affiliation>Forestry and Forest Products Research Institute, Ibaraki 305, Japan</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+            <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1997-05</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 85-88.</extent>
+      </physicalDescription>
+      <abstract>The spatial pattern of the crown spread of Quercus glauca in a hardwood community was investigated in order to consider the effect of the patterns on its survival in a secondary hardwood community. The shape of a crown was defined by the spatial spread of the leaves (PCM crown), and by the spread of their branches (elliptic cylinder crown). The stem volume growth rate of a tree was strongly correlated with the corresponding total leaf area, which was then significantly correlated with the defined crown volume. This indicated that the stem volume growth depended on the crown volume as well as the total leaf area. An increase in leaf area was largely attained by the spatial volume of the crown, not by an increase in the leaf area density. The leaves inside the crown began to spread horizontally relative to the crown size as the total leaf area and tree size increased. On the other hand, for the crowns representing the branch spread, the crown shape (crown width/depth ratio) did not differ by internal leaf area and tree size. Such a spatial pattern was likely to be adaptive for a species that dominates at a mid-stage of secondary sere.</abstract>
+      <note>NAL-AP-2-clean</note>
+      <subject authority="atg">
+         <topic>Quercus glauca</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>hardwood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaf area</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>research</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject>
+         <topic>crown shape</topic>
+      </subject>
+      <subject>
+         <topic>hardwood community</topic>
+      </subject>
+      <subject>
+         <topic>probe cylinder method</topic>
+      </subject>
+      <subject>
+         <topic>stem volume growth</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1007/BF02348474</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Taylor &amp; Francis</publisher>
+         </originInfo>
+         <identifier type="issn">1610-7403</identifier>
+         <identifier type="local">Journal:jnl3870061</identifier>
+         <part>
+            <text>1997 May 1, v. 2, no. 2 p.85-88</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/BF02348474</identifier>
+      <identifier type="control">9916291268107426</identifier>
+      <identifier type="agricola">IND606945091</identifier>
+      <extension>
+         <note type="ai">agid:6945091 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200513</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118060858.0</recordChangeDate>
+         <recordIdentifier>9916291268107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Assessing riparian vegetation structure and the influence of land use using landscape metrics and geostatistical tools</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Maria R.</namePart>
+         <namePart type="family">Fernandes</namePart>
+         <displayForm>Fernandes, Maria R.</displayForm>
+         <affiliation>Forest Research Centre, Instituto Superior de Agronomia, Tapada da Ajuda, 1349-017 Lisbon, Portugal</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Francisca C.</namePart>
+         <namePart type="family">Aguiar</namePart>
+         <displayForm>Aguiar, Francisca C.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Maria T.</namePart>
+         <namePart type="family">Ferreira</namePart>
+         <displayForm>Ferreira, Maria T.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+            <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011-02</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 166-177.</extent>
+      </physicalDescription>
+      <abstract>Riparian areas are among the most threatened habitats in the world, due to human activities and land use in adjacent areas. In this study we sought to identify landscape metrics for describing the spatial patterns of riparian vegetation affected by land use. We also hypothesize that land use in the immediate vicinity of the riparian area (considered as a 30-m buffer) can have a greater effect on the structure of riparian vegetation than that in an enlarged buffer (i.e. 200m). The study was conducted in the highly humanized River Tagus watershed (Central Portugal; Western Iberia), along over 80km of river stretches. Riparian vegetation and land use data were obtained from high-resolution digital images (RGB-NIR 0.5m×0.5m, spring 2005). Patch analyst was used to calculate landscape metrics related to the spatial configuration, isolation, inter-connectivity, and distribution of patches of three riparian cover classes (tree, shrub, and herbaceous). We quantified and accounted for the global and local spatial autocorrelation of data. Data treatment included redundancy analysis and geostatistic methods. Results showed that only a combined interpretation of various landscape metrics can consistently describe the spatial patterns of riparian vegetation. Riparian vegetation near agricultural areas (irrigation crops, rice fields, orchards, and vineyards), presented a low number of much smaller riparian tree patches with less complex shapes, and a low interspersion of the patch distribution. We found that proximal land use affects the structure of riparian vegetation more than distal land use – an important consideration for the establishment of streamside protection buffers.</abstract>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>buffers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>crops</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>digital images</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geostatistics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>humans</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>irrigation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>orchards</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>paddies</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>riparian areas</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rivers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shrubs</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spring</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vegetation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vegetation structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vineyards</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>watersheds</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Iberian Peninsula</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Portugal</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1016/j.landurbplan.2010.11.001</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Landscape and urban planning</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0169-2046</identifier>
+         <part>
+            <text>2011 Feb. 28, v. 99, no. 2 p.166-177</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.landurbplan.2010.11.001</identifier>
+      <identifier type="control">9916291392207426</identifier>
+      <identifier type="agricola">IND600840224</identifier>
+      <extension>
+         <note type="ai">agid:840224 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">141101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118062513.0</recordChangeDate>
+         <recordIdentifier>9916291392207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Spatial and temporal patterns of rowan (Sorbus aucuparia L.) regeneration in West Carpathian subalpine spruce forest</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Magdalena</namePart>
+         <namePart type="family">Żywiec</namePart>
+         <displayForm>Żywiec, Magdalena</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Mateusz</namePart>
+         <namePart type="family">Ledwoń</namePart>
+         <displayForm>Ledwoń, Mateusz</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008-02</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 283-291.</extent>
+      </physicalDescription>
+      <abstract>Non-random seed shadows are commonly seen in plant species whose seeds are dispersed by animals, in particular by birds. The behaviour of birds can influence the spatial pattern of seed dispersal and, consequently, the entire regeneration process of fleshy-fruited trees. This study examined regeneration patterns in a fleshy-fruited tree species, rowan (Sorbus aucuparia L.), growing in West Carpathian subalpine spruce forests, focussing on two problems: the temporal relationship between rowan regeneration and gap formation, and the spatial relationship between rowan regeneration and stand structure. It was found that rowan seedlings and saplings were recruited in advance of gap formation. Establishment of new rowan individuals in gaps was infrequent, but gaps enhanced their regeneration nearby under spruce canopy, where they occurred densely in a narrow belt about 15 m wide. Inside spruce stands, the highest density of young rowans was directly under crowns, especially near trunk bases. Few rowan saplings were found growing under mature rowan trees. The presence of a rowan seedling and sapling bank determines whether rowans fill spruce stand gaps. Dense rowan groves can develop mainly in extensive but slowly expanding gaps.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>Picea</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Sorbus aucuparia</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>birds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>groves</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>saplings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed dispersal</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seedlings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand structure</topic>
+      </subject>
+      <subject>
+         <topic>Dispersal limitations</topic>
+      </subject>
+      <subject>
+         <topic>Fleshy-fruited tree</topic>
+      </subject>
+      <subject>
+         <topic>Gap regeneration</topic>
+      </subject>
+      <subject>
+         <topic>Seedling bank</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1007/s11258-007-9291-z</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Plant ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">1385-0237</identifier>
+         <part>
+            <text>2008 Feb., v. 194, no. 2 p.283-291</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s11258-007-9291-z</identifier>
+      <identifier type="control">9916292077007426</identifier>
+      <identifier type="agricola">IND43985474</identifier>
+      <extension>
+         <note type="ai">agid:569706 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">071209</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118063606.0</recordChangeDate>
+         <recordIdentifier>9916292077007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Tree canopy change and neighborhood stability: A comparative analysis of Washington, D.C. and Baltimore, MD</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Wen-Ching</namePart>
+         <namePart type="family">Chuang</namePart>
+         <displayForm>Chuang, Wen-Ching</displayForm>
+         <affiliation>National Research Council, U.S. Environmental Protection Agency, 26 W. Martin Luther King Drive, Cincinnati, OH 45268, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christopher G.</namePart>
+         <namePart type="family">Boone</namePart>
+         <displayForm>Boone, Christopher G.</displayForm>
+         <affiliation>School of Sustainability, Arizona State University, 800 South Cady Mall, Tempe, AZ 85287, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Dexter H.</namePart>
+         <namePart type="family">Locke</namePart>
+         <displayForm>Locke, Dexter H.</displayForm>
+         <affiliation>National Socio-Environmental Synthesis Center (SESYNC), 1 Park Places, Suite 300, Annapolis, MD 21401, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">J Morgan</namePart>
+         <namePart type="family">Grove</namePart>
+         <displayForm>Grove, J Morgan</displayForm>
+         <affiliation>USDA Forest Service, 5523 Research Park Drive, Baltimore, MD 21201, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Ali</namePart>
+         <namePart type="family">Whitmer</namePart>
+         <displayForm>Whitmer, Ali</displayForm>
+         <affiliation>Georgetown University, 3700 O Street NW, Washington, DC 20057, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Geoffrey</namePart>
+         <namePart type="family">Buckley</namePart>
+         <displayForm>Buckley, Geoffrey</displayForm>
+         <affiliation>Department of Geography, Ohio University, Athens, OH 45701, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Sainan</namePart>
+         <namePart type="family">Zhang</namePart>
+         <displayForm>Zhang, Sainan</displayForm>
+         <affiliation>United Nations Population Fund, 220 E 42nd St, New York, NY 10017, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2017-10</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 363-372.</extent>
+      </physicalDescription>
+      <abstract>Trees provide important health, ecosystem, and aesthetic services in urban areas, but they are unevenly distributed. Some neighborhoods have abundant tree canopy and others nearly none. We analyzed how neighborhood characteristics and changes in income over time related to the distribution of urban tree canopy in Washington, D.C. and Baltimore, MD. We used stepwise multiple regression analysis to identify strong predictors of UTC, from variables found in neighborhoods with different patterns of wealth-stability over time. We then built spatial lag models to predict variation in UTC cover, using the results of a Principal Component Analysis of the socioeconomic, demographic, and housing characteristics of the two cities. We found that: (1) stable-wealthy neighborhoods were more likely to have more, and more consistent, tree canopy cover than other neighborhood types; (2) decreases and increases in income were negatively associated with UTC in Washington, D.C. but not Baltimore, where income stability in both wealthy and impoverished neighborhoods was a significant predictor of UTC; and (3) the association of high socioeconomic status with UTC coverage varied between the two cities.</abstract>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <accessCondition type="restriction on access">CHORUS License Information</accessCondition>
+      <subject authority="atg">
+         <topic>aesthetics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>income</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>principal component analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>regression analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>socioeconomic status</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urban areas</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>District of Columbia</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Maryland</geographic>
+      </subject>
+      <subject>
+         <topic>Urban tree canopy (UTC)</topic>
+      </subject>
+      <subject>
+         <topic>Neighborhood stability</topic>
+      </subject>
+      <subject>
+         <topic>Spatial lag regression</topic>
+      </subject>
+      <subject>
+         <topic>GIS</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.ufug.2017.03.030</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Urban forestry &amp; urban greening</title>
+         </titleInfo>
+         <name>
+            <namePart/>
+         </name>
+         <originInfo>
+            <publisher>Elsevier GmbH</publisher>
+         </originInfo>
+         <identifier type="issn">1618-8667</identifier>
+         <identifier type="local">Journal:jnl893556</identifier>
+         <part>
+            <text>2017 Oct., v. 27 p.363-372</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.ufug.2017.03.030 10.1016/j.ufug.2017.03.030</identifier>
+      <identifier type="control">9916292503407426</identifier>
+      <identifier type="agricola">IND605730866</identifier>
+      <extension>
+         <note type="ai">agid:5730866 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190415</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118064941.0</recordChangeDate>
+         <recordIdentifier>9916292503407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Extreme mitochondrial population subdivision in southern Appalachian paleoendemic spiders (Araneae: Hypochilidae: Hypochilus), with implications for species delimitation</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Robin</namePart>
+         <namePart type="family">Keith</namePart>
+         <displayForm>Keith, Robin</displayForm>
+         <affiliation>Conservation Education Division, San Diego Zoo Institute for Conservation Research, Escondido, California 92027, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Marshal</namePart>
+         <namePart type="family">Hedin</namePart>
+         <displayForm>Hedin, Marshal</displayForm>
+         <affiliation>Department of Biology, San Diego State University, San Diego, California 92182-4614, USA. E-mail:</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2012-08</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 167-181.</extent>
+      </physicalDescription>
+      <abstract>A prior study of molecular phylogenetic relationships in southern Appalachian Hypochilus taxa revealed unusually high intraspecific mitochondrial sequence divergences, but was limited by small intraspecific sample sizes. A subsequent in-depth population genetic study focused on a single species (H. thorelli Marx 1888), revealing genetic patterns consistent with extremely limited female-based gene flow among rock-outcrop limited populations. Here we extend the study of mitochondrial population genetic structuring to four remaining Appalachian Hypochilus species. Genetic inferences are based on a sample of COI mitochondrial sequences generated for over 250 specimens from 85 sampled locations. This geographic sample comprehensively covers the geographic distributions of all described taxa. Phylogenetic, network-based, and genealogical sorting index analyses reveal ubiquitous genetic structuring in all Hypochilus taxa. A majority of sampled locations possess limited genetic variation, with site-specific haplotypes forming genealogically exclusive “microclades”, consistent with limited female-based gene flow at the spatial scales sampled. At deeper phylogenetic levels, four of five described species are recovered as monophyletic on mitochondrial gene trees. Hypochilus pococki Platnick 1987 is recovered as paraphyletic, and is fragmented into five genetically divergent, allopatric phylogroups. These phylogroups, and multiple clades within one of the H. pococki phylogroups, are also recovered as distinct clusters in a generalized mixed Yule-coalescent (GMYC) analysis, suggesting the possibility of multiple cryptic species in the Appalachian fauna. However, a qualitative survey of male palpal variation fails to reveal morphological differences that distinguish these highly divergent genetic lineages. We suggest that a nuclear gene tree perspective is ultimately needed to resolve this contrast.</abstract>
+      <subject authority="atg">
+         <topic>Hypochilus pococki</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fauna</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>founder effect</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>gene flow</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographical distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>haplotypes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>males</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>monophyly</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>paraphyly</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surveys</topic>
+      </subject>
+      <subject>
+         <topic>Cryptic species</topic>
+      </subject>
+      <subject>
+         <topic>genealogical sorting index</topic>
+      </subject>
+      <subject>
+         <topic>GMYC model</topic>
+      </subject>
+      <subject>
+         <topic>population subdivision</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1636%2FA11-49.1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of arachnology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>American Arachnological Society</publisher>
+         </originInfo>
+         <identifier type="issn">0161-8202</identifier>
+         <part>
+            <text>2012 Aug., v. 40, no. 2 p.167-181</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1636/A11-49.1</identifier>
+      <identifier type="control">9916292637007426</identifier>
+      <identifier type="agricola">IND601250309</identifier>
+      <extension>
+         <note type="ai">agid:1250309 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118065345.0</recordChangeDate>
+         <recordIdentifier>9916292637007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Aggregations of Sphodros rufipes (Araneae: Atypidae) in an urban forest</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Steven B.</namePart>
+         <namePart type="family">Reichling</namePart>
+         <displayForm>Reichling, Steven B.</displayForm>
+         <affiliation>Memphis Zoo, 2000 Prentiss Place, Memphis, Tennessee 38112 USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christopher</namePart>
+         <namePart type="family">Baker</namePart>
+         <displayForm>Baker, Christopher</displayForm>
+         <affiliation>Memphis Zoo, 2000 Prentiss Place, Memphis, Tennessee 38112 USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christina</namePart>
+         <namePart type="family">Swatzell</namePart>
+         <displayForm>Swatzell, Christina</displayForm>
+         <affiliation>Pace Law School, 78 North Broadway, White Plains, New York 10603 USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2011-12</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 503-505.</extent>
+      </physicalDescription>
+      <abstract>A large population of Sphodros rufipes (Latreille 1829) was discovered in a municipal park in Memphis, Tennessee. We examined potential stem diameter preference, frequency of web attachment to available tree species and the spatial distribution patterns of spiders and potential attachment structures. A wide range of structure diameters were utilized for web attachment. The association of pursewebs to tree taxa was independent of the frequency of tree taxa occurrence. The spacing of vegetation stems and trunks was approximately random, but spiders exhibited a nonrandom, aggregated distribution, which was more pronounced in subadults than adults. The factors influencing S. rufipes to occur in aggregations cannot be explained by the spatial proximity of potential attachment structures in the forest.</abstract>
+      <subject>
+         <topic>Purseweb spider</topic>
+      </subject>
+      <subject>
+         <topic>random distribution</topic>
+      </subject>
+      <subject>
+         <topic>aggregations</topic>
+      </subject>
+      <subject>
+         <topic>density</topic>
+      </subject>
+      <subject>
+         <topic>tree preference</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1636%2FP10-29.1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of arachnology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>American Arachnological Society</publisher>
+         </originInfo>
+         <identifier type="issn">0161-8202</identifier>
+         <part>
+            <text>2011 Dec., v. 39, no. 3 p.503-505</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1636/P10-29.1</identifier>
+      <identifier type="control">9916292689107426</identifier>
+      <identifier type="agricola">IND601250285</identifier>
+      <extension>
+         <note type="ai">agid:1250285 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118065457.0</recordChangeDate>
+         <recordIdentifier>9916292689107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>“sun-effect”: microclimatic alterations predispose forest edges to bark beetle infestations</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Markus</namePart>
+         <namePart type="family">Kautz</namePart>
+         <displayForm>Kautz, Markus</displayForm>
+         <affiliation>Department of Ecology and Ecosystem Management, Institute of Animal Ecology, Technische Universität München, Hans-Carl-von-Carlowitz-Platz 2, 85350, Freising, Germany, kautz@wzw.tum.de</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Reinhard</namePart>
+         <namePart type="family">Schopf</namePart>
+         <displayForm>Schopf, Reinhard</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Joachim</namePart>
+         <namePart type="family">Ohser</namePart>
+         <displayForm>Ohser, Joachim</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2013-05</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 453-465.</extent>
+      </physicalDescription>
+      <abstract>Bark beetle dispersal and host selection behaviour are a complex and poorly understood process, resulting in specific spatio-temporal infestation patterns in forests. Aerial images from the Bavarian Forest National Park (Germany) provide a high-resolution, that is, tree-scale data set for the period 2001–2010, including information about Ips typographus (Col., Curculio., Scolytinae) infestation, the application of sanitary logging, natural forest edges and the area of living spruce susceptible to bark beetle infestation. We combined methods of GIS and image analysis to investigate the infestation probabilities at three types of forest edges under spatial and temporal aspects and compared them to the corresponding probabilities at the stand interior. Our results showed a pronounced infestation predisposition of such edge trees delimiting infestation patches cleared by sanitary logging measures, in particular at the south-facing edge sector. In contrast, edges adjacent to non-cleared infestation were revealed as less attractive for subsequent infestations, but nonetheless more attractive than permanent forest edges or the stand interior. Additionally, we measured near-bark surface air temperature to determine microclimatic differences at those edge- or non-edge sites and related them to predisposition results. Finally, our study emphasized favourable microclimatic conditions—summarized as the “sun-effect”—as a decisive factor enhancing the local infestation probability at recent forest edges in multiple ways. Both insect- and host tree-related reactions to suddenly altered microclimate are supposed to bias arbitrary colonization behaviour at patch and tree level, thereby mainly explaining observed infestation patterns. From the forester’s point of view, our results may contribute to precise bark beetle risk assessment and thus facilitate decision making in forest management.</abstract>
+      <subject authority="atg">
+         <topic>Curculio</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Ips typographus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bark beetles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest types</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>foresters</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographic information systems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>hosts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>image analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>logging</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microclimate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national parks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>probability</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>risk assessment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surface temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Germany</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1007/s10342-013-0685-2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>European journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer-Verlag</publisher>
+         </originInfo>
+         <identifier type="issn">1612-4669</identifier>
+         <part>
+            <text>2013 May, v. 132, no. 3 p.453-465</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10342-013-0685-2</identifier>
+      <identifier type="control">9916292955007426</identifier>
+      <identifier type="agricola">IND500649921</identifier>
+      <extension>
+         <note type="ai">agid:422262 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">130414</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118071015.0</recordChangeDate>
+         <recordIdentifier>9916292955007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Interpreting multiscale domains of tree cover disturbance patterns in North America</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Kurt</namePart>
+         <namePart type="family">Riitters</namePart>
+         <displayForm>Riitters, Kurt</displayForm>
+         <affiliation>Southern Research Station, United States Department of Agriculture, Forest Service, 3041 Cornwallis Road, Research Triangle Park, NC, 27709, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jennifer K.</namePart>
+         <namePart type="family">Costanza</namePart>
+         <displayForm>Costanza, Jennifer K.</displayForm>
+         <affiliation>Department of Forestry and Environmental Resources, North Carolina State University, Raleigh, NC, 27695, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Brian</namePart>
+         <namePart type="family">Buma</namePart>
+         <displayForm>Buma, Brian</displayForm>
+         <affiliation>Department of Natural Sciences, University of Alaska Southeast, Juneau, AK, 99801, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2017-09</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 147-152.</extent>
+      </physicalDescription>
+      <abstract>Spatial patterns at multiple observation scales provide a framework to improve understanding of pattern-related phenomena. However, the metrics that are most sensitive to local patterns are least likely to exhibit consistent scaling relations with increasing extent (observation scale). A conceptual framework based on multiscale domains (i.e., geographic locations exhibiting similar scaling relations) allows the use of sensitive pattern metrics, but more work is needed to understand the actual patterns represented by multiscale domains. The objective of this study was to improve the interpretation of scale-dependent patterns represented by multiscale domains. Using maps of tree cover disturbance covering North American forest biomes from 2000 to 2012, each 0.09-ha location was described by the proportion and contagion of disturbance in its neighborhood, for 10 neighborhood extents from 0.81ha to 180km2. A k-means analysis identified 13 disturbance profiles based on the similarity of disturbance proportion and contagion across neighborhood extent. A wall to wall map of multiscale domains was produced by assigning each location (disturbed and undisturbed) to its nearest disturbance profile in multiscale pattern space. The multiscale domains were interpreted as representing two aspects of local patterns – the proximity of a location to disturbance, and the interior-exterior relationship of a location relative to nearby disturbed areas.</abstract>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <accessCondition type="restriction on access">CHORUS License Information</accessCondition>
+      <accessCondition type="restriction on access">CHORUS License Information</accessCondition>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>North America</geographic>
+      </subject>
+      <subject>
+         <topic>Scale</topic>
+      </subject>
+      <subject>
+         <topic>Scale domains</topic>
+      </subject>
+      <subject>
+         <topic>Landscape pattern</topic>
+      </subject>
+      <subject>
+         <topic>Disturbance profile</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.ecolind.2017.05.022</url>
+      </location>
+      <location>
+         <url displayLabel="electronic resource">http://handle.nal.usda.gov/10113/5692187</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological indicators</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1470-160X</identifier>
+         <identifier type="local">Journal:6196</identifier>
+         <part>
+            <text>2017 Sept., v. 80 p.147-152</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.ecolind.2017.05.022 10.1016/j.ecolind.2017.05.022 10.1016/j.ecolind.2017.05.022</identifier>
+      <identifier type="control">9916293063507426</identifier>
+      <identifier type="agricola">IND605692187</identifier>
+      <extension>
+         <note type="ai">agid:5692187 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190412</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118070617.0</recordChangeDate>
+         <recordIdentifier>9916293063507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Spatiotemporal characterization of megaregional poly-centrality: Evidence for new urban hypotheses and implications for polycentric policies</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Yuhao</namePart>
+         <namePart type="family">Feng</namePart>
+         <displayForm>Feng, Yuhao</displayForm>
+         <affiliation>School of Resource and Environmental Sciences, Wuhan University, Wuhan, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Shufan</namePart>
+         <namePart type="family">Wu</namePart>
+         <displayForm>Wu, Shufan</displayForm>
+         <affiliation>School of Resource and Environmental Sciences, Wuhan University, Wuhan, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Peixin</namePart>
+         <namePart type="family">Wu</namePart>
+         <displayForm>Wu, Peixin</displayForm>
+         <affiliation>School of Resource and Environmental Sciences, Wuhan University, Wuhan, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Shiliang</namePart>
+         <namePart type="family">Su</namePart>
+         <displayForm>Su, Shiliang</displayForm>
+         <affiliation>School of Resource and Environmental Sciences, Wuhan University, Wuhan, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Min</namePart>
+         <namePart type="family">Weng</namePart>
+         <displayForm>Weng, Min</displayForm>
+         <affiliation>School of Resource and Environmental Sciences, Wuhan University, Wuhan, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Meng</namePart>
+         <namePart type="family">Bian</namePart>
+         <displayForm>Bian, Meng</displayForm>
+         <affiliation>School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2018-09</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 712-731.</extent>
+      </physicalDescription>
+      <abstract>Poly-centrality is an essential feature of megaregions and is generally considered an important source of megaregional vitality and competitiveness. Numerous studies have highlighted the growing trends of poly-centrality across different megaregions worldwide. However, with accelerated urbanization, some observations suggest that the existing polycentric urban theories must be improved and that decision-makers require more knowledge on the potential trends, spatial characteristics and influencing factors of polycentric development to implement sustainable regional governance under this context. This paper proposes a series of hypotheses on spatiotemporal dynamics of polycentric megaregion evolution and verifies them in an empirical study on the Megaregion around Hangzhou Bay (MAHB). A new algorithm, which is applicable for long time series data, is proposed to evaluate and monitor the status of polycentric development in MAHB. In particular, landscape metrics and average nearest neighbor analysis are employed in the first stage of our algorithm which is designed to implement data compression. Then, the gravity model, minimum spanning tree (MST) and weighed betweenness centrality indicator form the second stage which aims to construct and explore the polycentric megaregional network. Results show that: (1) the speed and patterns of built-up land expansion significantly affect the number and distribution of megaregion centers; (2) the value of poly-centrality reaches a maximum in approximately 2013 and then declines, which can be well fitted by a Gaussian curve; and (3) the variation of poly-centrality is successively dominated by an increase and decrease in the number of centers with urbanization. This paper renews the assumptions in current polycentric evolution models and provides evidences for single-peaked change of megaregion center number instead of “wave-like”, “scaling-up” or monotonous change proposed in existing urban theories. The proposed algorithm and assumed mechanisms can also be applied to model and explore poly-centrality dynamics of other megaregions around the world. The results are believed to provide critical implications for polycentric policies.</abstract>
+      <subject authority="atg">
+         <topic>algorithms</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>governance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>issues and policy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>time series analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urbanization</topic>
+      </subject>
+      <subject>
+         <topic>Polycentric structure</topic>
+      </subject>
+      <subject>
+         <topic>Megaregion</topic>
+      </subject>
+      <subject>
+         <topic>Urban expansion</topic>
+      </subject>
+      <subject>
+         <topic>Land use change modeling</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.landusepol.2018.06.022</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Land use policy</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">0264-8377</identifier>
+         <identifier type="local">Journal:12412</identifier>
+         <part>
+            <text>2018 Sept., v. 77 p.712-731</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.landusepol.2018.06.022</identifier>
+      <identifier type="control">9916293466107426</identifier>
+      <identifier type="agricola">IND606119146</identifier>
+      <extension>
+         <note type="ai">agid:6119146 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190719</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118073608.0</recordChangeDate>
+         <recordIdentifier>9916293466107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Predicting spatial and seasonal patterns of wildlife&amp;#x2013;vehicle collisions in high-risk areas&lt;a href="#FN1"&gt;&lt;sup&gt;&amp;#x2020;&lt;/sup&gt;&lt;/a&gt;</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Hanh K. D.</namePart>
+         <namePart type="family">Nguyen</namePart>
+         <displayForm>Nguyen, Hanh K. D.</displayForm>
+         <affiliation>School of Technology, Environments and Design, University of Tasmania, Sandy Bay, Tas. 7005, Australia; and School of Natural Sciences, University of Tasmania, Sandy Bay, Tas. 7005, Australia.</affiliation>
+      </name>
+      <name type="personal">
+         <namePart type="given">Matthew W.</namePart>
+         <namePart type="family">Fielding</namePart>
+         <displayForm>Fielding, Matthew W.</displayForm>
+         <affiliation>School of Natural Sciences, University of Tasmania, Sandy Bay, Tas. 7005, Australia; and ARC Centre of Excellence for Australian Biodiversity and Heritage, Hobart, Tas. 7005, Australia.</affiliation>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jessie C.</namePart>
+         <namePart type="family">Buettel</namePart>
+         <displayForm>Buettel, Jessie C.</displayForm>
+         <affiliation>School of Natural Sciences, University of Tasmania, Sandy Bay, Tas. 7005, Australia; and ARC Centre of Excellence for Australian Biodiversity and Heritage, Hobart, Tas. 7005, Australia.</affiliation>
+      </name>
+      <name type="personal">
+         <namePart type="given">Barry W.</namePart>
+         <namePart type="family">Brook</namePart>
+         <displayForm>Brook, Barry W.</displayForm>
+         <affiliation>School of Natural Sciences, University of Tasmania, Sandy Bay, Tas. 7005, Australia; and ARC Centre of Excellence for Australian Biodiversity and Heritage, Hobart, Tas. 7005, Australia.</affiliation>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 428-437.</extent>
+      </physicalDescription>
+      <abstract>Context Vehicle collisions with wildlife can injure or kill animals, threaten human safety, and threaten the viability of rare species. This has led to a focus in road-ecology research on identifying the key predictors of &amp;#x2018;road-kill&amp;#x2019; risk, with the goal of guiding management to mitigate its impact. However, because of the complex and context-dependent nature of the causes of risk exposure, modelling road-kill data in ways that yield consistent recommendations has proven challenging. Aim Here we used a multi-model machine-learning approach to identify the spatio-temporal predictors, such as traffic volume, road shape, surrounding vegetation and distance to human settlements, associated with road-kill risk. Methods We collected data on the location, identity and wildlife body size of each road mortality across four seasons along eight roads in southern Tasmania, a &amp;#x2018;road-kill hotspot&amp;#x2019; of management concern. We focused on three large-bodied and frequently affected crepuscular Australian marsupial herbivore species, the rufous-bellied pademelon (Thylogale billardierii), Bennett&amp;#x2019;s wallaby (Macropus rufogriseus) and the bare-nosed wombat (Vombatus ursinus). We fit the point-location data using &amp;#x2018;lasso-regularisation&amp;#x2019; of a logistic generalised linear model (LL-GLM) and out-of-bag optimisation of a decision-tree-based &amp;#x2018;random forests&amp;#x2019; (RF) algorithm for optimised predictions. Results The RF model, with high-level feature interactions, yielded superior out-of-sample prediction results to the linear additive model, with a RF classification accuracy of 84.8% for the 871 road-kill observations and a true skill statistic of 0.708, compared with 61.2% and 0.205 for the LL-GLM. The lasso rejected road visibility and human density, ranking roadside vegetation type and presence of barrier fencing as the most influential predictors of road-kill locality. Conclusions Forested areas with no roadside barrier fence along curved sections of road posed the highest risk to animals. Seasonally, the frequency of wildlife&amp;#x2013;vehicle collisions increased notably for females during oestrus, when they were more dispersive and so had a higher encounter rate with roads. Implications These findings illustrate the value of using a combination of attributive and predictive modelling using machine learning to rank and interpret a complexity of possible predictors of road-kill risk, as well as offering a guide to practical management interventions that can mitigate road-related hazards.</abstract>
+      <subject authority="atg">
+         <topic>Macropus rufogriseus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Thylogale billardierii</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Vombatus ursinus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>algorithms</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>artificial intelligence</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>body size</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>estrus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>herbivores</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>humans</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>linear models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rare species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>research</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>risk</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>road kills</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roadside plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roadsides</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>traffic</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>viability</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wildlife</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Tasmania</geographic>
+      </subject>
+      <subject>
+         <topic>collision risk</topic>
+      </subject>
+      <subject>
+         <topic>habitat features</topic>
+      </subject>
+      <subject>
+         <topic>lasso regression</topic>
+      </subject>
+      <subject>
+         <topic>predictive modelling</topic>
+      </subject>
+      <subject>
+         <topic>random forest</topic>
+      </subject>
+      <subject>
+         <topic>road-kill trends</topic>
+      </subject>
+      <subject>
+         <topic>seasonal influence</topic>
+      </subject>
+      <subject>
+         <topic>sex bias</topic>
+      </subject>
+      <subject>
+         <topic>wildlife road mortality</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1071/WR21018</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Wildlife research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>CSIRO Publishing</publisher>
+         </originInfo>
+         <identifier type="issn">1035-3712</identifier>
+         <identifier type="local">Journal:jnl3957321</identifier>
+         <part>
+            <text>2022, v. 49, no. 5 p.428-437</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1071/WR21018</identifier>
+      <identifier type="control">9916293508507426</identifier>
+      <identifier type="agricola">IND607843491</identifier>
+      <extension>
+         <note type="ai">agid:7843491 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220726</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118073709.0</recordChangeDate>
+         <recordIdentifier>9916293508507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Temporal homogenization of functional and beta diversity in bird communities of the Swiss Alps</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Vicente</namePart>
+         <namePart type="family">García‐Navas</namePart>
+         <displayForm>García‐Navas, Vicente</displayForm>
+         <affiliation>Department of Evolutionary Biology and Environmental Studies, University of Zurich, Zurich, Switzerland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Thomas</namePart>
+         <namePart type="family">Sattler</namePart>
+         <displayForm>Sattler, Thomas</displayForm>
+         <affiliation>Swiss Ornithological Institute, Sempach, Switzerland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Hans</namePart>
+         <namePart type="family">Schmid</namePart>
+         <displayForm>Schmid, Hans</displayForm>
+         <affiliation>Swiss Ornithological Institute, Sempach, Switzerland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Arpat</namePart>
+         <namePart type="family">Ozgul</namePart>
+         <displayForm>Ozgul, Arpat</displayForm>
+         <affiliation>Department of Evolutionary Biology and Environmental Studies, University of Zurich, Zurich, Switzerland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2020-08</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 900-911.</extent>
+      </physicalDescription>
+      <abstract>AIM: Describing the spatio‐temporal dynamics of biotic communities is critical for understanding how environmental change can affect biodiversity. Mountains are especially susceptible to such changes (e.g., climate change) and, consequently, have been identified as ecosystems of conservation concern. With their sharp physical and ecological transitions, altitudinal gradients allow examining the influence of different climatic conditions and land use types on species assemblages across small spatial extents, and thus, they constitute natural laboratories to study diversity–environment relationships. LOCATION: Switzerland. METHODS: We take advantage of long‐term (20 years) monitoring data and an extensive trait dataset (100 traits) to examine spatial patterns, temporal trends, and spatio‐temporal dynamics in functional and beta diversity of bird communities in the Swiss Alps. RESULTS: Functional diversity indices showed a congruent pattern over time and across space; most indices decreased over the study period and were strongly correlated with altitude. In agreement with studies from the tropics, we found that communities in the lowlands were functionally over‐dispersed, whereas communities at higher elevations were functionally clustered. High‐altitude communities exhibited high functional originality, low levels of niche differentiation and a high turnover rate. Beta diversity declined over the study period. CONCLUSIONS: Our findings suggest that pastoral abandonment does not result in an increase in avian functional diversity as most species colonizing woody‐encroached grasslands are functionally redundant, whereas alpine meadows are inhabited by species exhibiting a high degree of habitat specialization and unique functional traits. Hence, the tree line constitutes a boundary between two well‐differentiated functional groups: one representing a functional continuum from lowlands dominated by agricultural landscape to high‐mountain forests, and the other one composed of alpine communities. Overall, this study reveals a process of biotic homogenization (i.e., increasing functional similarity) across the last two decades in the Swiss Alps, coinciding with the recently reported increases in the abundance of generalist species.</abstract>
+      <note>JOURNAL ARTICLE</note>
+      <subject authority="atg">
+         <topic>agricultural land</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>alpine meadows</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>altitude</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biocenosis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>birds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climatic factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecological differentiation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>functional diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>homogenization</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>lowlands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>monitoring</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mountains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>pastoralism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>treeline</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropics</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Alps region</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Switzerland</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1111/ddi.13076</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Diversity &amp; distributions</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>John Wiley &amp; Sons, Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1366-9516</identifier>
+         <identifier type="local">Journal:jnl3867071</identifier>
+         <part>
+            <text>2020 Aug., v. 26, no. 8 p.900-911</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/ddi.13076</identifier>
+      <identifier type="control">9916293779707426</identifier>
+      <identifier type="agricola">IND607011170</identifier>
+      <extension>
+         <note type="ai">agid:7011170 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200707</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118074045.0</recordChangeDate>
+         <recordIdentifier>9916293779707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Spatial Patterns of Brown Rot Epidemics and Development of Microsatellite Markers for Analyzing Fine-Scale Genetic Structure of Monilinia fructicola Populations Within Peach Tree Canopies</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">S. E.</namePart>
+         <namePart type="family">Everhart</namePart>
+         <displayForm>Everhart, S. E.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">A.</namePart>
+         <namePart type="family">Askew</namePart>
+         <displayForm>Askew, A.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">L.</namePart>
+         <namePart type="family">Seymour</namePart>
+         <displayForm>Seymour, L.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">T. C.</namePart>
+         <namePart type="family">Glenn</namePart>
+         <displayForm>Glenn, T. C.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">H.</namePart>
+         <namePart type="family">Scherm</namePart>
+         <displayForm>Scherm, H.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <abstract>To better understand the fine-scale spatial dynamics of brown rot disease and corresponding fungal genotypes, we analyzed three-dimensional spatial patterns of pre-harvest fruit rot caused by Monilinia fructicola in individual peach tree canopies and developed microsatellite markers for canopy-level population genetics analyses. Using a magnetic digitizer, high-resolution maps of fruit rot development in five representative trees were generated, and M. fructicola was isolated from each affected fruit. To characterize disease aggregation, nearestneighbor distances among symptomatic fruit were calculated and compared with appropriate random simulations. Within-canopy disease aggregation correlated negatively with the number of diseased fruit per tree (r = −0.827, P = 0.0009), i.e., aggregation was greatest when the number of diseased fruit was lowest. Sixteen microsatellite primers consistently amplified polymorphic regions in a geographically diverse test population of 47 M. fructicola isolates. None of the test isolates produced identical multilocus genotypes, and the number of alleles per locus ranged from 2 to 16. We are applying these markers to determine fine-scale population structure of the pathogen within and among canopies.</abstract>
+      <subject authority="atg">
+         <topic>Monilinia fructicola</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>alleles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>brown rot disease</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>disease outbreaks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruits</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fungi</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic markers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genotype</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>loci</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>magnetism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microsatellite repeats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>pathogens</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>peaches</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant rots</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population genetics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1094/PHP-2012-0723-04-RS</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Plant health progress</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>The American Phytopathological Society</publisher>
+         </originInfo>
+         <identifier type="issn">1535-1025</identifier>
+         <identifier type="local">Journal:6160</identifier>
+         <part>
+            <text>2012, v. 13, no. 1</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1094/PHP-2012-0723-04-RS</identifier>
+      <identifier type="control">9916293999907426</identifier>
+      <identifier type="agricola">IND606224679</identifier>
+      <extension>
+         <note type="ai">agid:6224679 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">181130</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118082718.0</recordChangeDate>
+         <recordIdentifier>9916293999907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Methodology to assess and map the potential development of forest ecosystems exposed to climate change and atmospheric nitrogen deposition: A pilot study in Germany</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Winfried</namePart>
+         <namePart type="family">Schröder</namePart>
+         <displayForm>Schröder, Winfried</displayForm>
+         <affiliation>University of Vechta, Chair of Landscape Ecology, P.O.B. 1553, 49377 Vechta, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Stefan</namePart>
+         <namePart type="family">Nickel</namePart>
+         <displayForm>Nickel, Stefan</displayForm>
+         <affiliation>University of Vechta, Chair of Landscape Ecology, P.O.B. 1553, 49377 Vechta, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Martin</namePart>
+         <namePart type="family">Jenssen</namePart>
+         <displayForm>Jenssen, Martin</displayForm>
+         <affiliation>Waldkunde-Institut Eberswalde GmbH, Hohensaatener Dorfstraße 27, 16259 Bad Freienwalde, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jan</namePart>
+         <namePart type="family">Riediger</namePart>
+         <displayForm>Riediger, Jan</displayForm>
+         <affiliation>University of Vechta, Chair of Landscape Ecology, P.O.B. 1553, 49377 Vechta, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+            <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2015-07</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 108-122.</extent>
+      </physicalDescription>
+      <abstract>A methodology for mapping ecosystems and their potential development under climate change and atmospheric nitrogen deposition was developed using examples from Germany. The methodology integrated data on vegetation, soil, climate change and atmospheric nitrogen deposition. These data were used to classify ecosystem types regarding six ecological functions and interrelated structures. Respective data covering 1961–1990 were used for reference. The assessment of functional and structural integrity relies on comparing a current or future state with an ecosystem type-specific reference. While current functions and structures of ecosystems were quantified by measurements, potential future developments were projected by geochemical soil modelling and data from a regional climate change model.The ecosystem types referenced the potential natural vegetation and were mapped using data on current tree species coverage and land use. In this manner, current ecosystem types were derived, which were related to data on elevation, soil texture, and climate for the years 1961–1990. These relations were quantified by Classification and Regression Trees, which were used to map the spatial patterns of ecosystem type clusters for 1961–1990. The climate data for these years were subsequently replaced by the results of a regional climate model for 1991–2010, 2011–2040, and 2041–2070. For each of these periods, one map of ecosystem type clusters was produced and evaluated with regard to the development of areal coverage of ecosystem type clusters over time. This evaluation of the structural aspects of ecological integrity at the national level was added by projecting potential future values of indicators for ecological functions at the site level by using the Very Simple Dynamic soil modelling technique based on climate data and two scenarios of nitrogen deposition as input. The results were compared to the reference and enabled an evaluation of site-specific ecosystem changes over time which proved to be both, positive and negative.</abstract>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecological function</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>meteorological data</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>nitrogen</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil texture</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vegetation</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Germany</geographic>
+      </subject>
+      <subject>
+         <topic>Ecological functions</topic>
+      </subject>
+      <subject>
+         <topic>Ecosystem classification</topic>
+      </subject>
+      <subject>
+         <topic>Soil modelling</topic>
+      </subject>
+      <subject>
+         <topic>Climate modelling</topic>
+      </subject>
+      <subject>
+         <topic>Mapping</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1016/j.scitotenv.2015.03.048</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Science of the total environment</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0048-9697</identifier>
+         <part>
+            <text>2015 July 15, v. 521-522 p.108-122</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.scitotenv.2015.03.048</identifier>
+      <identifier type="control">9916294081907426</identifier>
+      <identifier type="agricola">IND605457126</identifier>
+      <extension>
+         <note type="ai">agid:5457126 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">160902</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118082002.0</recordChangeDate>
+         <recordIdentifier>9916294081907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Spatial patterns of nineteenth century fire severity persist after fire exclusion and a twenty-first century wildfire in a mixed conifer forest landscape, Southern Cascades, USA</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Alan H.</namePart>
+         <namePart type="family">Taylor</namePart>
+         <displayForm>Taylor, Alan H.</displayForm>
+         <affiliation>Department of Geography and Earth and Environmental Systems Institute, The Pennsylvania State University, University Park, PA, 16802, USA. aht1@psu.edu</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Catherine</namePart>
+         <namePart type="family">Airey-Lauvaux</namePart>
+         <displayForm>Airey-Lauvaux, Catherine</displayForm>
+         <affiliation>Department of Geography, The Pennsylvania State University, University Park, PA, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Becky</namePart>
+         <namePart type="family">Estes</namePart>
+         <displayForm>Estes, Becky</displayForm>
+         <affiliation>Pacific Southwest Region, USDA Forest Service, Placerville, CA, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Lucas</namePart>
+         <namePart type="family">Harris</namePart>
+         <displayForm>Harris, Lucas</displayForm>
+         <affiliation>Department of Geography, The Pennsylvania State University, University Park, PA, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Carl N.</namePart>
+         <namePart type="family">Skinner</namePart>
+         <displayForm>Skinner, Carl N.</displayForm>
+         <affiliation>Pacific Southwest Research Station, USDA Forest Service, Redding, CA, USA</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 2777-2790.</extent>
+      </physicalDescription>
+      <abstract>CONTEXT: Spatial patterns of fire severity are influenced by fire-vegetation patch dynamics and topography. Since the late nineteenth century, fire exclusion has increased fuels and recent fire severity patterns may diverge from historical patterns. OBJECTIVES: We used data from a 2008 wildfire burning in a landscape with known nineteenth century fire severity patterns to answer the following questions: (1) Were the spatial patterns of fire severity and fire effects after the 2008 fire similar to those in the late nineteenth century? (2) What factors were most important in controlling spatial patterns of fire severity in 2008? METHODS: Fire severity patterns in the late nineteenth century were identified by Beaty and Taylor (J Veg Sci 18:879, 2001) using dendroecology. Plots were remeasured after the 2008 fire and geospatial layers of vegetation type, topography, fire weather, daily fire extent and fire severity were used to identify controls on 2008 fire severity. RESULTS: Fire severity in 2008 varied in ways similar to the nineteenth century. Tree mortality and bark char in plots were lowest on lower slopes and southwest facing slopes, intermediate on middle slopes, and highest on upper slopes and northeast slopes. At the landscape scale, vegetation type, elevation, slope aspect, slope position and weather were the variables controlling fire severity. CONCLUSIONS: Spatial patterns of fire severity persisted, despite more than a century of fire exclusion. Our findings suggest that wildfires burning under moderate conditions even with a warming climate can help reduce the fire deficit and promote forest resilience in fire prone landscapes.</abstract>
+      <note>NAL-AP-2-clean</note>
+      <subject authority="atg">
+         <topic>bark</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coniferous forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendroecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire severity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire weather</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscape ecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wildfires</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1007/s10980-020-01118-1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Landscape ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">0921-2973</identifier>
+         <identifier type="local">Journal:jnl3870067</identifier>
+         <part>
+            <text>2020 Dec., v. 35, no. 12 p.2777-2790</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10980-020-01118-1</identifier>
+      <identifier type="control">9916294355507426</identifier>
+      <identifier type="agricola">IND607181595</identifier>
+      <extension>
+         <note type="ai">agid:7181595 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">210113</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118081832.0</recordChangeDate>
+         <recordIdentifier>9916294355507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <nonSort>The </nonSort>
+         <title>extent of edge effects in fragmented landscapes: Insights from satellite measurements of tree cover</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Mateus</namePart>
+         <namePart type="family">Dantas de Paula</namePart>
+         <displayForm>Dantas de Paula, Mateus</displayForm>
+         <affiliation>Helmoltz Center for Environmental Research UFZ Leipzig, Department of Ecological Modelling, Permoserstr. 15, 04318 Leipzig, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jürgen</namePart>
+         <namePart type="family">Groeneveld</namePart>
+         <displayForm>Groeneveld, Jürgen</displayForm>
+         <affiliation>Helmoltz Center for Environmental Research UFZ Leipzig, Department of Ecological Modelling, Permoserstr. 15, 04318 Leipzig, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Andreas</namePart>
+         <namePart type="family">Huth</namePart>
+         <displayForm>Huth, Andreas</displayForm>
+         <affiliation>Helmoltz Center for Environmental Research UFZ Leipzig, Department of Ecological Modelling, Permoserstr. 15, 04318 Leipzig, Germany</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2016-10</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 196-204.</extent>
+      </physicalDescription>
+      <abstract>Due to deforestation, intact tropical forest areas are increasingly transformed into a mixture of remaining forest patches and human modified areas. These forest fragments suffer from edge effects, which cause changes in ecological and ecosystem processes, undermining habitat quality and the offer of ecosystem services. Even though detailed and long term studies were developed on the topic of edge effects at local scale, understanding edge effect characteristics in fragmented forests on larger scales and finding indicators for its impact is crucial for predicting habitat loss and developing management options. Here we evaluate the spatial and temporal dimensions of edge effects in large areas using remote sensing. First we executed a neighborhood pixel analysis in 11 LANDSAT Tree Cover (LTC) scenes (180×185km each, 8 in the tropics and 3 in temperate forested areas) using tree cover as an indicator of habitat quality and in relation to edge distance. Second, we executed a temporal analysis of LTC in a smaller area in the Brazilian Amazon forest where one larger forest fragment (25,890ha) became completely fragmented in 5years. Our results show that for all 11 scenes pixel neighborhood variation of LTC is much higher in the vicinity of forest edges, becoming lower towards the forest interior. This analysis suggests a maximum distance for edge effects and can indicate the location of unaffected core areas. However, LTC patterns in relation to fragment edge distance vary according to the analyzed region, and maximum edge distance may differ according to local conditions. Our temporal analysis illustrates the change in tree cover patterns after 5years of fragmentation, becoming on average lower close to the edge (between 50 and 100m). Although it is still unclear which are the main causes of LTC edge variability within and between regions, LANDSAT Tree Cover could be used as an accessible and efficient discriminator of edge and interior forest habitats in fragmented landscapes, and become invaluable for deriving qualitative spatial and temporal information of ecological and ecosystem processes.</abstract>
+      <subject authority="atg">
+         <topic>Landsat</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>deforestation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystem services</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat destruction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>humans</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropics</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Amazonia</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Brazil</geographic>
+      </subject>
+      <subject>
+         <topic>Edge effects</topic>
+      </subject>
+      <subject>
+         <topic>Remote sensing</topic>
+      </subject>
+      <subject>
+         <topic>LANDSAT Tree Cover</topic>
+      </subject>
+      <subject>
+         <topic>Fragmented forests</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.ecolind.2016.04.018</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological indicators</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1470-160X</identifier>
+         <identifier type="local">Journal:6196</identifier>
+         <part>
+            <text>2016 Oct., v. 69 p.196-204</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.ecolind.2016.04.018</identifier>
+      <identifier type="control">9916294677307426</identifier>
+      <identifier type="agricola">IND605248866</identifier>
+      <extension>
+         <note type="ai">agid:5248866 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190412</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118085537.0</recordChangeDate>
+         <recordIdentifier>9916294677307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Development of a Local Size Hierarchy Causes Regular Spacing of Trees in an Even-aged Abies Forest: Analyses Using Spatial Autocorrelation and the Mark Correlation Function</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Satoshi N.</namePart>
+         <namePart type="family">Suzuki</namePart>
+         <displayForm>Suzuki, Satoshi N.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Naoki</namePart>
+         <namePart type="family">Kachi</namePart>
+         <displayForm>Kachi, Naoki</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jun-Ichirou</namePart>
+         <namePart type="family">Suzuki</namePart>
+         <displayForm>Suzuki, Jun-Ichirou</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008-09</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 435-441.</extent>
+      </physicalDescription>
+      <abstract>BACKGROUND AND AIMS: During the development of an even-aged plant population, the spatial distribution of individuals often changes from a clumped pattern to a random or regular one. The development of local size hierarchies in an Abies forest was analysed for a period of 47 years following a large disturbance in 1959. METHODS: In 1980 all trees in an 8 x 8 m plot were mapped and their height growth after the disturbance was estimated. Their mortality and growth were then recorded at 1- to 4-year intervals between 1980 and 2006. Spatial distribution patterns of trees were analysed by the pair correlation function. Spatial correlations between tree heights were analysed with a spatial autocorrelation function and the mark correlation function. The mark correlation function was able to detect a local size hierarchy that could not be detected by the spatial autocorrelation function alone. KEY RESULTS: The small-scale spatial distribution pattern of trees changed from clumped to slightly regular during the 47 years. Mortality occurred in a density-dependent manner, which resulted in regular spacing between trees after 1980. The spatial autocorrelation and mark correlation functions revealed the existence of tree patches consisting of large trees at the initial stage. Development of a local size hierarchy was detected within the first decade after the disturbance, although the spatial autocorrelation was not negative. Local size hierarchies that developed persisted until 2006, and the spatial autocorrelation became negative at later stages (after about 40 years). CONCLUSIONS: This is the first study to detect local size hierarchies as a prelude to regular spacing using the mark correlation function. The results confirm that use of the mark correlation function together with the spatial autocorrelation function is an effective tool to analyse the development of a local size hierarchy of trees in a forest.</abstract>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>Abies</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Abies</topic>
+         <topic>growth &amp; development</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Ecosystem</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Monte Carlo Method</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Population Density</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Trees</topic>
+         <topic>growth &amp; development</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Japan</geographic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1093/aob/mcn113</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Annals of botany</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Oxford University Press</publisher>
+         </originInfo>
+         <identifier type="issn">0305-7364</identifier>
+         <part>
+            <text>2008 Sept., v. 102, no. 3 p.435-441</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">18599560 PMC2701798 10.1093/aob/mcn113</identifier>
+      <identifier type="control">9916295512607426</identifier>
+      <identifier type="agricola">IND44090965</identifier>
+      <extension>
+         <note type="ai">agid:450801 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">080815</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118094802.0</recordChangeDate>
+         <recordIdentifier>9916295512607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Species-specific spatial structure, species coexistence and mortality pattern in natural, uneven-aged Scots pine (Pinus sylvestris L.)-dominated forest</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Janusz</namePart>
+         <namePart type="family">Szmyt</namePart>
+         <displayForm>Szmyt, Janusz</displayForm>
+         <affiliation>Department of Silviculture, Faculty of Forestry, Poznan University of Life Sciences, Wojska Polskiego 69, 60-625, Poznan, Poland. jszmyt@up.poznan.pl</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Stefan</namePart>
+         <namePart type="family">Tarasiuk</namePart>
+         <displayForm>Tarasiuk, Stefan</displayForm>
+         <affiliation>Department of Silviculture, Warsaw University of Life Sciences-SGGW, Nowoursynowska 159, 02-776, Warsaw, Poland</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2018-02</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1-16.</extent>
+      </physicalDescription>
+      <abstract>Complexity of uneven-aged forests results from the heterogeneity of their structure reflected among others by the spatial pattern of their components. Forest structure is usually modified by various processes operating at different scales and time. Structure and processes are not independent, and both are important drivers of forest dynamics. The impact of natural processes on forest structure manifested in the specific spatial pattern of trees can be quantified by point pattern analysis applied to long-term repeatedly measured stem-mapped plots. Such studies are relatively scarce in the literature although they provide better insight into the mechanisms affecting forest dynamics. Our study is focused on the spatiotemporal analysis of the structure of mixed uneven-aged Scots pine-dominated forest located at the Kampinoski National Park (Poland). Univariate analysis showed that the initial pattern of all live trees was initially random and it shifted toward more uniform with forest aging. Spatial patterns of individual tree species varied from that stated for all forest community. We observed changes in spatial pattern of Scots pine and common oak from random toward more clumped (pine) or uniform (oak) pattern. In case of black alder and common birch, the initial aggregated pattern was maintained over the examined 14-year period of the forest succession. Bivariate analysis showed that the most common interspecific association between pairs of tree species was spatial segregation (pine vs. alder, alder vs. birch and oak vs. birch) followed by spatial independence (pine vs. oak and oak vs. alder). The positive association was stated only for pine and birch and only for certain spatial scales (&gt; 5 m). Simultaneously, at small distances they showed reciprocal repulsion. Changes in spatial relationships between tree species were negligible over 14-year period of forest succession. Our results confirmed the density-dependent mortality process in the uneven-aged Scots pine-dominated forest over 14-year period of forest development. Our study showed that spatial interactions between individuals along with species-specific ecological requirements should be incorporated into realistic models of forest development, helping to manage the forest ecosystems toward their greater structural complexity.</abstract>
+      <subject authority="atg">
+         <topic>Alnus glutinosa</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Betula</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus sylvestris</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bivariate analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest dynamics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest succession</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national parks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Poland</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1007/s10342-017-1084-x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>European journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Berlin Heidelberg</publisher>
+         </originInfo>
+         <identifier type="issn">1612-4669</identifier>
+         <identifier type="local">Journal:jnl3870054</identifier>
+         <part>
+            <text>2018 Feb., v. 137, no. 1 p.1-16</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10342-017-1084-x</identifier>
+      <identifier type="control">9916295558607426</identifier>
+      <identifier type="agricola">IND605951161</identifier>
+      <extension>
+         <note type="ai">agid:5951161 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">180619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118103100.0</recordChangeDate>
+         <recordIdentifier>9916295558607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Environmental correlates for tropical tree diversity and distribution patterns in Borneo</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">J.W Ferry</namePart>
+         <namePart type="family">Slik</namePart>
+         <displayForm>Slik, J.W Ferry</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Niels</namePart>
+         <namePart type="family">Raes</namePart>
+         <displayForm>Raes, Niels</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Shin-Ichiro</namePart>
+         <namePart type="family">Aiba</namePart>
+         <displayForm>Aiba, Shin-Ichiro</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Francis Q.</namePart>
+         <namePart type="family">Brearley</namePart>
+         <displayForm>Brearley, Francis Q.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Charles H.</namePart>
+         <namePart type="family">Cannon</namePart>
+         <displayForm>Cannon, Charles H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Erik</namePart>
+         <namePart type="family">Meijaard</namePart>
+         <displayForm>Meijaard, Erik</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Hidetoshi</namePart>
+         <namePart type="family">Nagamasu</namePart>
+         <displayForm>Nagamasu, Hidetoshi</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Reuben</namePart>
+         <namePart type="family">Nilus</namePart>
+         <displayForm>Nilus, Reuben</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Gary</namePart>
+         <namePart type="family">Paoli</namePart>
+         <displayForm>Paoli, Gary</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Axel D.</namePart>
+         <namePart type="family">Poulsen</namePart>
+         <displayForm>Poulsen, Axel D.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Douglas</namePart>
+         <namePart type="family">Sheil</namePart>
+         <displayForm>Sheil, Douglas</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Eizi</namePart>
+         <namePart type="family">Suzuki</namePart>
+         <displayForm>Suzuki, Eizi</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Johan L.C.H.</namePart>
+         <namePart type="family">van Valkenburg</namePart>
+         <displayForm>van Valkenburg, Johan L.C.H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Campbell O.</namePart>
+         <namePart type="family">Webb</namePart>
+         <displayForm>Webb, Campbell O.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Peter</namePart>
+         <namePart type="family">Wilkie</namePart>
+         <displayForm>Wilkie, Peter</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Stephan</namePart>
+         <namePart type="family">Wulffraat</namePart>
+         <displayForm>Wulffraat, Stephan</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2009-05</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 523-532.</extent>
+      </physicalDescription>
+      <abstract>Identify environmental correlates for tropical tree diversity and composition. Borneo, Southeast Asia. A GIS-environmental database with 5 arc minute (c. 10 x 10 km) resolution was combined with tree inventory data. Tree diversity, phylogenetic diversity (PD) and the two main compositional gradients were determined for 46 tree inventories. Akaike's information criterion and a data jackknifing procedure were used to select 50 explanatory models for diversity and composition gradients. The average of these models was used as our final diversity and compositional model. We applied Moran's I to detect spatial autocorrelation of residuals. Tree diversity, PD and the two main compositional gradients in Borneo were all significantly correlated with the environment. Tree diversity correlated negatively with elevation, soil depth, soil coarseness (texture) and organic carbon content, whereas it correlated positively with soil C:N ratio, soil pH, moisture storage capacity and annual rainfall. Tree PD was correlated positively with elevation and temperature seasonality and was largely determined by gymnosperms. However, angiosperm PD also correlated positive with elevation. Compositional patterns were strongly correlated with elevation but soil texture, cation-exchange-capacity, C:N ratio, C and N content and drainage were also important next to rainfall seasonality and El Niño Southern Oscillation drought impact. Although elevation is the most important correlate for diversity and compositional gradients in Borneo, significant additional variability is explained by soil characteristics (texture, carbon content, pH, depth, drainage and nutrient status) and climate (annual rainfall, rainfall seasonality and droughts). The identified environmental correlates for diversity and composition gradients correspond to those found in other tropical regions of the world. Differences between the regions are mainly formed by differences in the relative importance of the environmental variables in explaining diversity and compositional gradients.</abstract>
+      <subject authority="atg">
+         <topic>El Nino</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon nitrogen ratio</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cation exchange capacity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>databases</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drainage</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inventories</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>nitrogen content</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rain</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil depth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil pH</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil texture</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>texture</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropics</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Borneo</geographic>
+      </subject>
+      <subject>
+         <topic>floristics</topic>
+      </subject>
+      <subject>
+         <topic>phylogenetic diversity</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1111/j.1472-4642.2009.00557.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Diversity &amp; distributions</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Oxford, UK : Blackwell Publishing Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1366-9516</identifier>
+         <part>
+            <text>2009 May, v. 15, no. 3 p.523-532</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1472-4642.2009.00557.x</identifier>
+      <identifier type="control">9916296015207426</identifier>
+      <identifier type="agricola">IND44189455</identifier>
+      <extension>
+         <note type="saleTape">20090410 20090508 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <note type="ai">agid:2167407 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">090410</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118102628.0</recordChangeDate>
+         <recordIdentifier>9916296015207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Age-class distribution and spatial patterns in an old-growth hemlock-hardwood forest</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">L.E.</namePart>
+         <namePart type="family">Frelich</namePart>
+         <displayForm>Frelich, L.E.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">L.J.</namePart>
+         <namePart type="family">Graumlich</namePart>
+         <displayForm>Graumlich, L.J.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1994-09</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1939-1947.</extent>
+      </physicalDescription>
+      <abstract>The frequency of canopy disturbance over the past 150 years was reconstructed on a 5-ha study area dominated by a patchy mosaic of old-growth sugar maple (Acer saccharum Marsh.) and eastern hemlock (Tsuga canadensis (L.) Carr.) forest in the Sylvania Wilderness Area in western Upper Michigan. The study area was divided into a 10-m grid system and one tree was cored near the center of each grid cell so that the spatial patterns of tree cohorts could be examined. The canopy turnover rate, averaged over all species and 150 years was 5.4% per decade, with a corresponding canopy residence time of 186 years. Canopy-residence times do not vary much between sugar maple (170 years) and hemlock (167 years), but yellow birch has a much longer canopy-residence time (232 years). Canopy-residence times calculated for individual decades over the last 150 years varied from 81 to 556 years. The spatial pattern of gaps of various ages is caused by disturbances in light intensity (2-12% canopy removal) that occur nearly every decade, each of which creates several to many small gaps scattered across the study area. As a result, the study area has a fine-grained random spatial mixture of age-classes at all distance classes from 5 m to &gt; 100 m. This mixture is stable throughout the mesic forest in the study area. None of the cohorts resulting from disturbance correspond spatially to patches dominated by either hemlock or sugar maple. Apparently, the dynamics of patch formation by gap-creating disturbances operate independently from the dynamics of the much larger monodominant patches. In forests such as the northern hardwood--hemlock type, where several tree lifetimes pass between any two large-scale catastrophic disturbances, spatial and temporal stability of the patch-dynamic processes (quasi equilibrium) may exist for periods of several decades in areas of &lt; 1 ha, and several thousand years for landscapes &gt; 10000 ha in size.</abstract>
+      <note>Summary in French.</note>
+      <subject authority="atg">
+         <topic>Acer saccharum</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Tsuga canadensis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy gaps</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree age</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Michigan</geographic>
+      </subject>
+      <subject>
+         <topic>patterns</topic>
+      </subject>
+      <subject>
+         <topic>natural disturbance</topic>
+      </subject>
+      <subject>
+         <topic>patch dynamics</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1139/x94-249</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Canadian journal of forest research =</title>
+         </titleInfo>
+         <identifier type="issn">0045-5067</identifier>
+         <part>
+            <text>1994 Sept., v. 24, no. 9 p.1939-1947</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1139/x94-249</identifier>
+      <identifier type="control">9916296266307426</identifier>
+      <identifier type="agricola">IND20466157</identifier>
+      <extension>
+         <note type="saleTape">19950802 19950807 00000000</note>
+         <note type="indexer">IND JYB </note>
+         <note type="publicationSource">Non-US</note>
+         <note type="ai">agid:1405822 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">950628</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118110431.0</recordChangeDate>
+         <recordIdentifier>9916296266307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Seed regeneration of Scots pine in boreal forest stands dominated by lichen and feather moss</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Ingeborg</namePart>
+         <namePart type="family">Steijlen</namePart>
+         <displayForm>Steijlen, Ingeborg</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Marie-Charlotte</namePart>
+         <namePart type="family">Nilsson</namePart>
+         <displayForm>Nilsson, Marie-Charlotte</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Olle</namePart>
+         <namePart type="family">Zackrisson</namePart>
+         <displayForm>Zackrisson, Olle</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">onc</placeTerm>
+            <placeTerm type="text">Ontario</placeTerm>
+         </place>
+         <dateIssued encoding="w3cdtf" keyDate="yes">1995-05</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 713-723.</extent>
+      </physicalDescription>
+      <abstract>Six old-growth, late postfire Scots pine (Pinussylvestris L.) dominated forest stands of the Vaccinium–Cladina type were selected along a latitudinal gradient in northern Sweden. In two of the stands, Scots pine seedlings that had naturally regenerated during the last 40 years were surveyed in relation to field- and bottom-layer vegetation. The most abundant forest floor species, viz. Cladina spp., occupied 41% of the ground cover and dominated the microhabitat of Scots pine seedlings &lt;10 years old. The second most common species, Pleuroziumschreberi (Bird.) Mitt., which occupied 10 and 20% of the ground cover at the two sites, was, in contrast, only found to cover less than 3% of the microhabitat of the seedlings &lt; 10 years old. With increasing age of seedlings (&gt;10 years), however, the cover of Cladina spp. significantly decreased and the cover of P. schreberi and various ericaceous species slightly increased. Thus Scots pine seedlings initially establish in lichen-dominated vegetation but as they develop P. schreberi and ericaceous species gradually become more abundant in the ground vegetation. The relationships between natural establishment patterns and microhabitat were further empirically tested by sowing seeds of Scots pine in patches of Cladina spp. and patches of P. schreberi. Seeding was performed in six sites during 3 consecutive years. A significant higher number of established Scots pine seedlings were found in Cladina spp. vegetation than in P. schreberi dominated vegetation, and Scots pine seedlings in P. schreberi experienced a significantly higher mortality. Laboratory studies indicated a negative chemical influence by P. schreberi on Scots pine seed germination but not on radicle growth of pregerminated seeds. The negative influence of P. schreberi on Scots pine seed germination and seedling survival in the field experiments is interpreted as an effect of moisture factors, chemical interference, and barriers of nutrient availability. Age structures of naturally established Scots pine showed evidence of continuous regeneration over the last 40 years. The study emphasizes the importance of biotically mediated regeneration patterns in explaining spatial stand structure and temporal dynamics in northern boreal Scots pine forest ecosystems during prolonged absence of fire. Tree regeneration tends not to be associated with mesoscale characteristics such as gaps and tip-up mounds, but rather with microhabitat conditions. The results have implications for predicting the effect of climatic warming.</abstract>
+      <subject authority="atg">
+         <topic>Pinus sylvestris</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>boreal forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>natural regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microhabitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Vaccinium</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed germination</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Cladonia</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Sweden</geographic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1139/x95-079</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Canadian journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>NRC Research Press</publisher>
+         </originInfo>
+         <identifier type="issn">0045-5067</identifier>
+         <identifier type="local">Journal:jnl2003</identifier>
+         <part>
+            <text>1995 May 01, v. 25, no. 5 p.713-723</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1139/x95-079</identifier>
+      <identifier type="control">9916296283507426</identifier>
+      <identifier type="agricola">IND20474081</identifier>
+      <extension>
+         <note type="ai">agid:1405847 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">160807</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118110409.0</recordChangeDate>
+         <recordIdentifier>9916296283507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Summer rainfall variability in European Mediterranean mountains from the sixteenth to the twentieth century reconstructed from tree rings</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">D.</namePart>
+         <namePart type="family">Ruiz-Labourdette</namePart>
+         <displayForm>Ruiz-Labourdette, D.</displayForm>
+         <affiliation>Departamento de Ecología, Universidad Complutense de Madrid, 28040, Madrid, Spain, diego.ruiz@bio.ucm.es</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">M.</namePart>
+         <namePart type="family">Génova</namePart>
+         <displayForm>Génova, M.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">M. F.</namePart>
+         <namePart type="family">Schmitz</namePart>
+         <displayForm>Schmitz, M. F.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">R.</namePart>
+         <namePart type="family">Urrutia</namePart>
+         <displayForm>Urrutia, R.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">F. D.</namePart>
+         <namePart type="family">Pineda</namePart>
+         <displayForm>Pineda, F. D.</displayForm>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2014-09</dateIssued>
+         <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1627-1639.</extent>
+      </physicalDescription>
+      <abstract>Since the end of the last glacial period, European Mediterranean mountains have provided shelter for numerous species of Eurosiberian and Boreal origin. Many of these species, surviving at the southern limit of their range in Europe and surrounded by Mediterranean ones, are relatively intolerant to summer drought and are in grave danger of loss, as a result of increasingly long and frequent droughts in this region. This is the case of the Scots pine (Pinus sylvestris) and the Austrian pine (Pinus nigra ssp. salzmannii) which are found on Central Iberian Peninsula at the edge of their natural range. We used a tree ring network of these two species to reconstruct past variations in summer rainfall. The reconstruction, based upon a tree ring composite chronology of the species, dates back to 1570 (adjusted R ² = 0.49, P &lt; 0.000001) and captures interannual to decadal scale variability in summer precipitation. We studied the spatial representativeness of the rainfall patterns and described the occurrence rate of extremes of this precipitation. To identify associations between macroclimatic factors and tree radial growth, we employed a principal component analysis to calculate the resultant of the relationship between the growth data of both species, using this resultant as a dependent variable of a multiple regression whose independent variables are monthly mean temperature and precipitation from the average records. Spatial correlation patterns between instrumental precipitation datasets for southern Europe and reconstructed values for the 1950–1992 period indicate that the reconstruction captures the regional signal of drought variability in the study region (the origin of this precipitation is convective: thermal low pressure zones induced in the inland northeastern areas of the Iberian Peninsula). There is a clear increase in the recurrence of extreme dry events as from the beginning of twentieth century and an abrupt change to drier conditions. There appears to be a tendency toward recurrent exceptionally dry summers, which could involve a significant change for the Eurosiberian refugee species.</abstract>
+      <subject authority="atg">
+         <topic>Pinus nigra subsp. nigra</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus sylvestris</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mountains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>principal component analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rain</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>summer</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Iberian Peninsula</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1007/s00484-013-0766-4</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>International journal of biometeorology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer-Verlag</publisher>
+         </originInfo>
+         <identifier type="issn">0020-7128</identifier>
+         <part>
+            <text>2014 Sept., v. 58, no. 7 p.1627-1639</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">24317795 10.1007/s00484-013-0766-4</identifier>
+      <identifier type="control">9916296296907426</identifier>
+      <identifier type="agricola">IND600811744</identifier>
+      <extension>
+         <note type="ai">agid:811744 </note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">140822</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118111202.0</recordChangeDate>
+         <recordIdentifier>9916296296907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bprefix-removed%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         version="3.5"
+         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+      <titleInfo>
+         <title>Spatial variation in tree regeneration in the forest-tundra ecotone, Rocky Mountain National Park, Colorado</title>
+      </titleInfo>

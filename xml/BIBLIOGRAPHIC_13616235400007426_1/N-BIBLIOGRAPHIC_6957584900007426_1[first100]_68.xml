@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Pathogen life-cycle leaves footprint on the spatial distribution of
+                recruitment of their host plants</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Antonio J.</namePart>
+      <namePart type="family">Perea</namePart>
+      <displayForm>Perea, Antonio J.</displayForm>
+      <affiliation>Depto. Biología Animal, Biología Vegetal y Ecología. Universidad de
+                Jaén, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">José L.</namePart>
+      <namePart type="family">Garrido</namePart>
+      <displayForm>Garrido, José L.</displayForm>
+      <affiliation>Depto. Microbiología del Suelo y Sistemas Simbióticos. Estación
+                Experimental del Zaidín, Consejo Superior de Investigaciones Científicas (EEZ-CSIC),
+                Granada, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jose M.</namePart>
+      <namePart type="family">Fedriani</namePart>
+      <displayForm>Fedriani, Jose M.</displayForm>
+      <affiliation>Depto. Biología de la Conservación, Estación Biológica de Doñana,
+                Consejo Superior de Investigaciones Científicas (EBD-CSIC), Sevilla,
+                Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Pedro J.</namePart>
+      <namePart type="family">Rey</namePart>
+      <displayForm>Rey, Pedro J.</displayForm>
+      <affiliation>Depto. Biología Animal, Biología Vegetal y Ecología. Universidad de
+                Jaén, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Julio M.</namePart>
+      <namePart type="family">Alcántara</namePart>
+      <displayForm>Alcántara, Julio M.</displayForm>
+      <affiliation>Depto. Biología Animal, Biología Vegetal y Ecología. Universidad de
+                Jaén, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-10</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>Interactions between established and recruiting plants play an
+                important role in species coexistence in natural plant communities. However, our
+                knowledge on the particular ecological drivers of these interactions is still
+                limited. We use spatial point pattern analysis to study the spatial patterns of
+                recruitment and infection in two plant-pathogen systems, each involving a fungus
+                with a different life cycle: the pair Quercus faginea-Trabutia quercina and the
+                triad Crataegus monogyna-Gymnosporangium sp.-Juniperus oxycedrus. Our results show
+                that T. quercina, an autoecious fungus, may act as a stabilizing mechanism in the
+                population dynamics of Q. faginea. In turn, the effect of the heteroecious
+                Gymnosporangium sp. on C. monogyna recruitment was more related to distance from the
+                alternate host J. oxycedrus than to distance from conspecifics. These results
+                demonstrate that the complexity of pathogen life cycle may impact recruitment and
+                the development of interspecific plant-plant interactions in real plant
+                communities.</abstract>
+      <subject authority="atg">
+         <topic>Crataegus monogyna</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Gymnosporangium</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus faginea</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fungi</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>host plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaves</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant communities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant pathogens</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population dynamics</topic>
+      </subject>
+      <subject>
+         <topic>Canopy-recruit interactions</topic>
+      </subject>
+      <subject>
+         <topic>Distance-dependent recruitment</topic>
+      </subject>
+      <subject>
+         <topic>Forest community dynamics</topic>
+      </subject>
+      <subject>
+         <topic>Indirect interactions</topic>
+      </subject>
+      <subject>
+         <topic>Janzen-Connell</topic>
+      </subject>
+      <subject>
+         <topic>Phyllachoraceae</topic>
+      </subject>
+      <subject>
+         <topic>Plant species coexistence</topic>
+      </subject>
+      <subject>
+         <topic>Point pattern analysis</topic>
+      </subject>
+      <subject>
+         <topic>Pucciniaceae</topic>
+      </subject>
+      <subject>
+         <topic>Tree recruitment</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.funeco.2020.100974</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Fungal ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1754-5048</identifier>
+         <identifier type="local">Journal:J000000080</identifier>
+         <identifier type="local">Journal:J000000080</identifier>
+         <part>
+            <text>2020 Oct., v. 47 p.100974-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.funeco.2020.100974</identifier>
+      <identifier type="control">9916304974307426</identifier>
+      <identifier type="agricola">IND607014186</identifier>
+      <extension>
+         <identifier type="local">agid:7014186</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">201024</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118115723.0</recordChangeDate>
+         <recordIdentifier>9916304974307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

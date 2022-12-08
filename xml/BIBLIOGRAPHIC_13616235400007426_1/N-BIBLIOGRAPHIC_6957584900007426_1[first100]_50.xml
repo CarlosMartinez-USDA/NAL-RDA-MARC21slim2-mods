@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Assessment of Gini-, entropy- and ratio-based classification trees
+                for groundwater potential modelling and prediction</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Omid</namePart>
+      <namePart type="family">Rahmati</namePart>
+      <displayForm>Rahmati, Omid</displayForm>
+      <affiliation>Soil Conservation and Watershed Management Research Department,
+                Kurdistan Agricultural and Natural Resources Research and Education Center, AREEO,
+                Sanandaj, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mohammadtaghi</namePart>
+      <namePart type="family">Avand</namePart>
+      <displayForm>Avand, Mohammadtaghi</displayForm>
+      <affiliation>Department of Watershed Management Engineering, College of Natural
+                Resources, Tarbiat Modares University, Tehran, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peyman</namePart>
+      <namePart type="family">Yariyan</namePart>
+      <displayForm>Yariyan, Peyman</displayForm>
+      <affiliation>Department of Surveying Engineering, Saghez Branch, Islamic Azad
+                University, Saghez, Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">John P.</namePart>
+      <namePart type="family">Tiefenbacher</namePart>
+      <displayForm>Tiefenbacher, John P.</displayForm>
+      <affiliation>Department of Geography, Texas State University, San Marcos, Texas,
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ali</namePart>
+      <namePart type="family">Azareh</namePart>
+      <displayForm>Azareh, Ali</displayForm>
+      <affiliation>Department of Geography, University of Jiroft, Kerman,
+                Iran</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dieu Tien</namePart>
+      <namePart type="family">Bui</namePart>
+      <displayForm>Bui, Dieu Tien</displayForm>
+      <affiliation>Geographic Information Science Research Group, Ton Duc Thang
+                University, Ho Chi Minh City, Viet Nam</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-08</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 3397-3415.</extent>
+      </physicalDescription>
+      <abstract>Artificial-intelligence and machine-learning algorithms are gaining
+                the attention of researchers in the field of groundwater modelling. This study
+                explored and assessed a new approach based on Gini-, entropy- and ratio-based
+                classification trees to predict spatial patterns of groundwater potential in a
+                mountainous region of Iran. To do this, a springs inventory was undertaken, and 362
+                springs were identified in the study area. A set of geo-environmental and
+                topo-hydrological factors (slope, aspect, elevation, topographic wetness index,
+                distance from fault, distance from river, precipitation, land use, lithology, plan
+                curvature and roughness index) were used as predictors of groundwater. Results
+                showed that Gini (AUC = 0.865) achieved the best results, followed by entropy (AUC =
+                0.847) and ratio (AUC = 0.859). Lithology was determined to be the variable with the
+                best association with groundwater in the study area. These results indicate that all
+                three algorithms provide robust models of groundwater potential in this mountainous
+                region. HighlightsGini, entropy and ratio were investigated for groundwater
+                potential mapping. Eleven groundwater-affecting factors were considered. Lithology
+                is the most important factor for groundwater potential mapping Gini based decision
+                tree is the best, followed by entropy and ratio models</abstract>
+      <subject authority="atg">
+         <topic>artificial intelligence</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision support systems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>entropy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>groundwater</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inventories</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>lithology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mountains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rivers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roughness</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Iran</geographic>
+      </subject>
+      <subject>
+         <topic>Groundwater potential</topic>
+      </subject>
+      <subject>
+         <topic>GIS</topic>
+      </subject>
+      <subject>
+         <topic>data mining</topic>
+      </subject>
+      <subject>
+         <topic>classification-tree analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1080/10106049.2020.1861664</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Geocarto international</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Taylor &amp; Francis</publisher>
+         </originInfo>
+         <identifier type="issn">1752-0762</identifier>
+         <identifier type="local">Journal:12366</identifier>
+         <identifier type="local">Journal:12366</identifier>
+         <part>
+            <text>2022 Aug. 4, v. 37, no. 12 p.3397-3415</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1080/10106049.2020.1861664</identifier>
+      <identifier type="control">9916299605707426</identifier>
+      <identifier type="agricola">IND607857672</identifier>
+      <extension>
+         <identifier type="local">agid:7857672</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220728</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061308.0</recordChangeDate>
+         <recordIdentifier>9916299605707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

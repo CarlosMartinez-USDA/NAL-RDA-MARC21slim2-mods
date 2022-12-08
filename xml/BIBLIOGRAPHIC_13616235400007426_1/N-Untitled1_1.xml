@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Fire ecology and management</title>
+      <subTitle>past, present, and future of US forested ecosystems</subTitle>
+   </titleInfo>
+   <name type="personal">
+      <namePart type="given">Cathryn H.</namePart>
+      <namePart type="family">Greenberg</namePart>
+      <displayForm>Greenberg, Cathryn H.</displayForm>
+      <role>
+         <roleTerm type="text">editor</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="date">1954-</namePart>
+      <namePart type="given">Beverly S.</namePart>
+      <namePart type="family">Collins</namePart>
+      <displayForm>Collins, Beverly S.</displayForm>
+      <role>
+         <roleTerm type="text">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">encyclopedia</genre>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="">Electronic books.</genre>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+      <issuance>monographic</issuance>
+      <originInfo displayLabel="publisher">
+         <place>
+            <placeTerm type="text">Cham, Switzerland :Springer,2021</placeTerm>
+         </place>
+         <publisher>Springer</publisher>
+         <dateIssued>2021</dateIssued>
+      </originInfo>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form authority="marccategory">electronic resource</form>
+         <form authority="marcsmd">remote</form>
+         <extent>1 online resource (xvii, 502 pages) : illustrations (some color).</extent>
+         <form type="media" authority="rdamedia">computer</form>
+         <form type="carrier" authority="rdacarrier">online resource</form>
+      </physicalDescription>
+      <abstract>This edited volume presents original scientific research and
+                knowledge synthesis covering the past, present, and potential future fire ecology of
+                major US forest types, with implications for forest management in a changing
+                climate. The editors and authors highlight broad patterns among ecoregions and
+                forest types, as well as detailed information for individual ecoregions, for fire
+                frequencies and severities, fire effects on tree mortality and regeneration, and
+                levels of fire-dependency by plant and animal communities. The foreword addresses
+                emerging ecological and fire management challenges for forests, in relation to
+                sustainable development goals as highlighted in recent government reports. An
+                introductory chapter highlights patterns of variation in frequencies, severities,
+                scales, and spatial patterns of fire across ecoregions and among forested ecosystems
+                across the US in relation to climate, fuels, topography and soils, ignition sources
+                (lightning or anthropogenic), and vegetation. Separate chapters by respected experts
+                delve into the fire ecology of major forest types within US ecoregions, with a focus
+                on the level of plant and animal fire-dependency, and the role of fire in
+                maintaining forest composition and structure. The regional chapters also include
+                discussion of historic natural (lightning-ignited) and anthropogenic (Native
+                American; settlers) fire regimes, current fire regimes as influenced by recent
+                decades of fire suppression and land use history, and fire management in relation to
+                ecosystem integrity and restoration, wildfire threat, and climate change. The
+                summary chapter combines the major points of each chapter, in a synthesis of US-wide
+                fire ecology and forest management into the future. This book provides current,
+                organized, readily accessible information for the conservation community, land
+                managers, scientists, students and educators, and others interested in how fire
+                behaviour and effects on structure and composition differ among ecoregions and
+                forest types, and what that means for forest management today and in the future.
+                .</abstract>
+      <tableOfContents>Chapter 1. Introduction to Fire Ecology across USA Forested
+                Ecosystems: Past, Present, and Future (Cathryn H. Greenberg, Beverly S. Collins,
+                Scott Goodrick, Michael C. Stambaugh, and Gary R. Wein) -- Chapter 2. The Role of
+                Fire in the Dynamics of Piedmont Vegetation (Joanna Spooner, Robert K. Peet, Michael
+                P. Schafale, Alan S. Weakley and Thomas R. Wentworth) -- Chapter 3. Fire Ecology and
+                Fire Management of Southeastern Coastal Plain Pine Ecosystems (Jeff S. Glitzenstein,
+                J. Stephen Brewer, Ronald. E. Masters, J. Morgan Varner, and J. Kevin Hiers) --
+                Chapter 4. Fire Ecology and Management in Eastern Broadleaf and Appalachian Forests
+                (Mary A. Arthur, J. Morgan Varner, Charles W. Lafon, Heather D. Alexander, Daniel C.
+                Dey, Craig A. Harper, Sally P. Horn, Todd F. Hutchinson, Tara L. Keyser, Marcus A.
+                Lashley, Christopher E. Moorman, and Callie J. Schweitzer) -- Chapter 5. Fire
+                Ecology and Management of Forest Ecosystems in the Western Central Hardwoods and
+                Prairie-Forest Border (Michael C. Stambaugh, Benjamin O. Knapp, and Daniel C. Dey)
+                -- Chapter 6. Fire in Floodplain Forests of the Southeastern USA hy (Paul R. Gagnon,
+                Loretta L. Battaglia, Brice B. Hanberry, William H. Conner, and Sammy L. King) --
+                Chapter 7. History and Future of Fire in Hardwood and Conifer Forests of the Great
+                Lakes-Northeastern Forest Region, USA(Lee E. Frelich, Craig G. Lorimer, and Michael
+                C. Stambaugh) -- Chapter 8. Fire Ecology of Rocky Mountain Forests(Sharon M. Hood,
+                Brian J. Harvey, Paula J. Fornwalt, Cameron E. Naficy, Winslow D. Hansen, Kimberley
+                T. Davis, Mike A. Battaglia, Camille Stevens-Rumann, Victoria Saab) -- Chapter 9.
+                Fire Ecology of the North American Mediterranean-Climate Zone(Hugh D. Safford,
+                Ramona J. Butz, Gabrielle N. Bohlman, Michelle Coppoletta, Becky L. Estes, Shana E.
+                Gross, Kyle E. Merriam, Marc D. Meyer, Nicole A. Molinari, and Amarina Wuenschel) --
+                Chapter 10. Fire Ecology and Management in Pacific Northwest Forests(Matthew J.
+                Reilly, Jessica E. Halofsky, Meg A. Krawchuk, Daniel C. Donato, Paul F. Hessburg,
+                James Johnston, Andrew Merschel, Mark E. Swanson, Joshua S. Halofsky, and Thomas A.
+                Spies) -- Chapter 11. Fire Ecology and Management of Southwestern Forests(Peter Z.
+                Fulé, Catrin M. Edgeley, Carol L. Chambers, Serra Hoagland, Blanca Céspedes) --
+                Chapter 12. Fire and Forests in the 21st Century: Managing Resilience under Changing
+                Climates and Fire Regimes in USA Forests(James M. Vose, David L. Peterson,
+                Christopher J. Fettig, Jessica E. Halofsky, J. Kevin Hiers, Robert E. Keane, Rachel
+                Loehman, and Michael C. Stambaugh).</tableOfContents>
+      <note type="statement of responsibility" altRepGroup="00">Cathryn H</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <note>Online resource; title from PDF title page (SpringerLink, viewed
+                October 5, 2021).</note>
+      <subject authority="lcsh">
+         <topic>Forest fires</topic>
+         <topic>Environmental aspects</topic>
+      </subject>
+      <classification authority="lcc">SD421</classification>
+      <classification authority="nal">QH545.F5 F55 2021</classification>
+      <location>
+         <url displayLabel="SpringerLink" usage="primary">https://doi.org/10.1007/978-3-030-73267-7</url>
+      </location>
+      <location>
+         <url displayLabel="EBSCOhost">https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=3049503</url>
+      </location>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Managing forest ecosystems ; v. 39</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="isbn">9783030732677</identifier>
+      <identifier type="isbn">3030732673</identifier>
+      <identifier type="isbn" invalid="yes">9783030732660</identifier>
+      <identifier type="doi">10.1007/978-3-030-73267-7</identifier>
+      <identifier type="control">9915461366507426</identifier>
+      <identifier type="agricola">CAT31444502</identifier>
+      <identifier type="oclc">1273411585</identifier>
+      <extension>
+         <note type="saleTape">20211027 00000000 00000000</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <descriptionStandard>rda pn</descriptionStandard>
+         <recordContentSource authority="marcorg">GW5XE</recordContentSource>
+         <recordCreationDate encoding="marc">211005</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221101232430.0</recordChangeDate>
+         <recordIdentifier>9915461366507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Characteristics of tree damage by the grey red-backed vole (Myodes
+                rufocanus bedfordiae) in a deciduous forest in Hokkaido, Japan</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Akira</namePart>
+      <namePart type="family">Unno</namePart>
+      <displayForm>Unno, Akira</displayForm>
+      <affiliation>Hokkaido Forestry Research Institute, Kousyunai, Bibai, Hokkaido
+                079-0198, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Keisuke</namePart>
+      <namePart type="family">Nakata</namePart>
+      <displayForm>Nakata, Keisuke</displayForm>
+      <affiliation>Hokkaido Forestry Research Institute, Kousyunai, Bibai, Hokkaido
+                079-0198, Japan</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2010-08</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 259-264.</extent>
+      </physicalDescription>
+      <abstract>In deciduous forests, tree seeds and seedlings are frequently exposed
+                to high predation by small rodents, and this predation can have an important effect
+                on forest regeneration. However, damage to large trees by small rodents has not been
+                studied, except for damage observed during timber production. To determine factors
+                affecting damage to large trees by the grey red-backed vole (Myodes rufocanus
+                bedfordiae), the characteristics and spatial patterns of tree damage by voles at
+                vole wintering sites were examined over 3 years in a deciduous forest in Hokkaido.
+                This study found that the location of damaged trees was related to vole wintering
+                sites. Vole damage was affected by tree species. Damaged trees were heavily
+                concentrated in small areas. Leaning trees and trees that had suffered previous
+                damage were more likely to be damaged. However, the diameter at breast height was
+                not significantly related to vole damage. These differences in susceptibility to
+                vole damage may result in different tree mortality.</abstract>
+      <subject authority="atg">
+         <topic>deciduous forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>predation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seedlings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>timber production</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree damage</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>voles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wintering grounds</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Japan</geographic>
+      </subject>
+      <subject>
+         <topic>Deciduous forest</topic>
+      </subject>
+      <subject>
+         <topic>Grey red-backed vole</topic>
+      </subject>
+      <subject>
+         <topic>Tree characteristics</topic>
+      </subject>
+      <subject>
+         <topic>Vole damage</topic>
+      </subject>
+      <subject>
+         <topic>Vole wintering sites</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1007/s10310-010-0182-0</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Taylor &amp; Francis</publisher>
+         </originInfo>
+         <identifier type="issn"/>
+         <identifier type="local">Journal:jnl3870061</identifier>
+         <identifier type="local">Journal:jnl3870061</identifier>
+         <part>
+            <text>2010 Aug. 1, v. 15, no. 4 p.259-264</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10310-010-0182-0</identifier>
+      <identifier type="control">9916298709607426</identifier>
+      <identifier type="agricola">IND44407140</identifier>
+      <extension>
+         <identifier type="local">agid:2313810</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200513</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055618.0</recordChangeDate>
+         <recordIdentifier>9916298709607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

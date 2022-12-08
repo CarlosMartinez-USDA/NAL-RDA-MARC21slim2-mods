@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Comparative efficiency and accuracy of variable area transects versus
+                square plots for sampling tree diversity and density</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Cheryl D</namePart>
+      <namePart type="family">Nath</namePart>
+      <displayForm>Nath, Cheryl D </displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Raphaël</namePart>
+      <namePart type="family">Pélissier</namePart>
+      <displayForm>Pélissier, Raphaël </displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Claude</namePart>
+      <namePart type="family">Garcia</namePart>
+      <displayForm>Garcia, Claude </displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2010-06</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 223-236.</extent>
+      </physicalDescription>
+      <abstract>Agroforestry systems have been recognized as areas with high
+                conservation potential, and there is a need to quickly assess the biodiversity and
+                tree stocking density available in these systems. However, it is not clear if the
+                commonly used fixed area plot is most efficient for sampling such landscapes, or if
+                a different method could provide equivalent data with less effort. Thus, a field and
+                simulation-based study was carried out to compare the efficiency and accuracy of a
+                variable area transect versus the fixed area square plot. Field efficiency tests
+                were carried out in three habitat types, robusta coffee plantations, arabica coffee
+                plantations and a privately owned forest fragment, in Kodagu, southern India. A
+                simulation study of bias, precision and accuracy of the two methods for tree density
+                estimation also was carried out using various spatial distribution patterns and
+                densities. The variable area transect was significantly more efficient per unit
+                effort in the field than the fixed area square plot. In the simulation tests both
+                methods performed equally well under random spatial distribution. However, under
+                simulated aggregated distribution both methods were positively biased (square plot
+                up to 12% at low density, variable area transect 9-12% at all densities), and under
+                simulated regular distribution the variable area transect was slightly negatively
+                biased (−5 to −7% at medium to high density). The variable area transect thus can be
+                recommended over the square plot for rapid assessment of tree diversity and density,
+                when the vegetation is expected to be randomly dispersed.</abstract>
+      <note>Includes references</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>agroforestry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>private forestry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>field experimentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coffee products</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>simulation models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>botanical composition</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Coffea arabica</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>specialty crops</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>accuracy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>experimental design</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Coffea canephora</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>precision</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>India</geographic>
+      </subject>
+      <subject>
+         <topic>methodology</topic>
+      </subject>
+      <subject>
+         <topic>species diversity</topic>
+      </subject>
+      <subject>
+         <topic>biodiversity</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F140</topic>
+         <topic>Plant Production (Miscellaneous Crops)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F300</topic>
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>X100</topic>
+         <topic>Mathematics and Statistics</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1007/s10457-009-9255-5</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Agroforestry systems</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">0167-4366</identifier>
+         <identifier type="local">Journal:jnl34245</identifier>
+         <part>
+            <text>2010 June, v. 79, no. 2 p.223-236</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10457-009-9255-5</identifier>
+      <identifier type="control">9916306942907426</identifier>
+      <identifier type="agricola">IND44370663</identifier>
+      <extension>
+         <note type="saleTape">20100804 20100903 00000000</note>
+         <note type="indexer">IND 2CT 2010/06/29</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:784675</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100514</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118060231.0</recordChangeDate>
+         <recordIdentifier>9916306942907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

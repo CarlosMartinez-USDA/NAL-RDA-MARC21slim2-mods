@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Chloroplast DNA phylogeography reveals the island colonisation route
+                of Eucalyptus urophylla (Myrtaceae)</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Kitt G.</namePart>
+      <namePart type="family">Payn</namePart>
+      <displayForm>Payn, Kitt G.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">William S.</namePart>
+      <namePart type="family">Dvorak</namePart>
+      <displayForm>Dvorak, William S.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander A.</namePart>
+      <namePart type="family">Myburg</namePart>
+      <displayForm>Myburg, Alexander A.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+      <issuance>continuing</issuance>
+      <physicalDescription>
+         <extent>p. 673-683.</extent>
+      </physicalDescription>
+      <abstract>We present a study of the colonisation patterns of a tropical tree
+                species among an island archipelago. Eucalyptus urophylla (S.T.Blake) is an
+                economically important plantation species endemic to the volcanic slopes of seven
+                islands in eastern Indonesia. In the present study, we investigated the geographical
+                distribution of chloroplast DNA sequence variation in E. urophylla to gain insight
+                into its historical seed-migration routes. DNA sequence data were obtained from 198
+                plants from which 20 haplotypes were identified. A moderate to high level of
+                chloroplast genetic differentiation (GST = 0.581, NST = 0.724) and significant
+                phylogeographic structure (NST &gt; GST; P &lt; 0.01) were observed, suggesting low
+                levels of recurrent seed-mediated gene flow among the islands. The highest levels of
+                haplotype diversity were observed on the eastern islands of Wetar and Timor. The two
+                most westerly islands, Flores and Lomblen, were fixed for what appeared to be the
+                ancestral haplotype. Chloroplast haplotype diversity therefore exhibited a
+                decreasing trend from east to west in the species' range, consistent with an
+                east-to-west colonisation route across the seven islands. Environmental factors that
+                may have contributed to the contemporary spatial distribution of chloroplast DNA
+                haplotypes include island paleogeology, ocean currents, fluctuations in sea levels
+                and possible hybridisation events.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>Eucalyptus urophylla</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest plantations</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>montane forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographical distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chloroplast DNA</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>nucleotide sequences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>haplotypes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>gene flow</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>indigenous species</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Indonesia</geographic>
+      </subject>
+      <subject>
+         <topic>colonization</topic>
+      </subject>
+      <subject>
+         <topic>molecular sequence data</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F200</topic>
+         <topic>Plant Breeding and Genetics</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>K001</topic>
+         <topic>Forestry Related</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F700</topic>
+         <topic>Plant Taxonomy, Collection, and Geography</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1071/BT07056</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Australian journal of botany</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>CSIRO Publishing</publisher>
+         </originInfo>
+         <identifier type="issn">0067-1924</identifier>
+         <identifier type="local">Journal:jnl44712</identifier>
+         <part>
+            <text>2007, v. 55, no. 7 p.673-683</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1071/BT07056</identifier>
+      <identifier type="control">9916298171307426</identifier>
+      <identifier type="agricola">IND44108641</identifier>
+      <extension>
+         <note type="saleTape">20081114 20081206 00000000</note>
+         <note type="indexer">IND 2CT 2008/10/21</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:738338</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">081001</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118054303.0</recordChangeDate>
+         <recordIdentifier>9916298171307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

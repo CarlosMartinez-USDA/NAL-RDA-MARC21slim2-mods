@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Understory plant diversity under variable overstory cover in
+                Mediterranean forests at different spatial scales</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ela</namePart>
+      <namePart type="family">Zangy</namePart>
+      <displayForm>Zangy, Ela</displayForm>
+      <affiliation>Institute of Plant Sciences, ARO – Volcani Center, Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jaime</namePart>
+      <namePart type="family">Kigel</namePart>
+      <displayForm>Kigel, Jaime</displayForm>
+      <affiliation>The Robert H Smith Faculty of Agriculture, Food and Environment, the
+                Hebrew University of Jerusalem, Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shabtai</namePart>
+      <namePart type="family">Cohen</namePart>
+      <displayForm>Cohen, Shabtai</displayForm>
+      <affiliation>Institute of Soil, Water and Environmental Sciences, Environmental
+                Physics and Irrigation, ARO – Volcani Center, Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yossef</namePart>
+      <namePart type="family">Moshe</namePart>
+      <displayForm>Moshe, Yossef</displayForm>
+      <affiliation>Institute of Plant Sciences, ARO – Volcani Center, Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mor</namePart>
+      <namePart type="family">Ashkenazi</namePart>
+      <displayForm>Ashkenazi, Mor</displayForm>
+      <affiliation>Institute of Plant Sciences, ARO – Volcani Center, Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ori</namePart>
+      <namePart type="family">Fragman-Sapir</namePart>
+      <displayForm>Fragman-Sapir, Ori</displayForm>
+      <affiliation>Jerusalem Botanical Gardens, the Hebrew University of Jerusalem,
+                Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yagil</namePart>
+      <namePart type="family">Osem</namePart>
+      <displayForm>Osem, Yagil</displayForm>
+      <affiliation>Institute of Plant Sciences, ARO – Volcani Center, Israel</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-08</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>Mediterranean forest ecosystems are of high conservation value and
+                therefore increasingly managed to restore and promote their natural biodiversity and
+                complexity. The present study aimed to assess plant species diversity of
+                East-Mediterranean conifer forests as affected by overstory cover manipulation at
+                multiple spatial scales. Understanding this interaction in water-limited forest
+                ecosystems is particularly challenging as overstory-understory relations involve
+                both water and light constrains. The experiment was conducted in a mature (40y)
+                planted Pinus halepensis forest in the Jerusalem Mountains of Israel. Understory
+                plant community structure was monitored for five years in sixteen experimental plots
+                (0.5 ha) representing a range of overstory cover levels (leaf area index-LAI = 0–4
+                m²m⁻²) created by tree thinning. Light and water availability in the forest
+                understory were monitored using fisheye camera (irradiance), predawn leaf water
+                potential (PLWP) of dominant species and soil water content (SWC) measurements.
+                Plant diversity was measured at increasing spatial scales (grain sizes,
+                0.01–400 m²), using hierarchical nested sampling. Irradiance and SWC increased with
+                decreasing LAI while PLWP was not affected. Stand-level understory richness (α
+                diversity) increased linearly with decreasing LAI, indicating a consistent, positive
+                resource availability-diversity relationship. The results pointed towards strong
+                dependency of species richness on light availability as compared to its dependency
+                on water availability that was less definite. Understory species composition varied
+                across LAI levels (β diversity at the forest level) indicating species turnover,
+                mainly between annual herbs benefiting from reduced overstory cover vs. woody
+                species benefiting from higher cover. The relationships between overstory cover and
+                understory richness and composition were rank-invariant across grain sizes. These
+                relationships were stronger at the larger (10, 100, 400 m²) compared to the smaller
+                (0.01, 0.1, 1 m²) grain sizes. The 10-m² grain-size, corresponding to the crown
+                projection area of individual trees, showed the strongest relationship. Observed
+                patterns of overstory cover–understory richness suggest that resource availability,
+                rather than spatial resource heterogeneity, was the main factor shaping understory
+                diversity. Furthermore, grain-size effects on this relationship support
+                “environmental filtering” rather than “resource density” as the main mechanism
+                through which reduced overstory cover promoted understory diversity.'Synthesis and
+                applications’: Our findings demonstrate the importance of overstory cover as a key
+                factor determining plant diversity in water-limited East-Mediterranean forests. We
+                highlight the important role of spatial heterogeneity of overstory cover at both the
+                stand (intra-plot) and forest (inter-plot) scales and support dynamic variable
+                thinning as a management strategy to enhance forest biodiversity and
+                complexity.</abstract>
+      <note>NAL-AP-2-clean</note>
+      <subject authority="atg">
+         <topic>Pinus halepensis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>administrative management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cameras</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>community structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>conifers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dominant species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaf area</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaf water potential</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>light intensity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>overstory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant communities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil water content</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species richness</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>understory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>woody plants</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Israel</geographic>
+      </subject>
+      <subject>
+         <topic>α diversity</topic>
+      </subject>
+      <subject>
+         <topic>β diversity</topic>
+      </subject>
+      <subject>
+         <topic>Mediterranean forests</topic>
+      </subject>
+      <subject>
+         <topic>Grain size effect</topic>
+      </subject>
+      <subject>
+         <topic>Understory richness</topic>
+      </subject>
+      <subject>
+         <topic>Species diversity</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2021.119319</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2021 Aug. 15, v. 494 p.119319-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2021.119319</identifier>
+      <identifier type="control">9916307853207426</identifier>
+      <identifier type="agricola">IND607375081</identifier>
+      <extension>
+         <identifier type="local">agid:7375081</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">210603</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118063001.0</recordChangeDate>
+         <recordIdentifier>9916307853207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

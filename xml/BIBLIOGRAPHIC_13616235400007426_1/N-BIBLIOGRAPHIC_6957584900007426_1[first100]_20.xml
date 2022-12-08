@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial patterns of nineteenth century fire severity persist after
+                fire exclusion and a twenty-first century wildfire in a mixed conifer forest
+                landscape, Southern Cascades, USA</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alan H.</namePart>
+      <namePart type="family">Taylor</namePart>
+      <displayForm>Taylor, Alan H.</displayForm>
+      <affiliation>Department of Geography and Earth and Environmental Systems
+                Institute, The Pennsylvania State University, University Park, PA, 16802, USA.
+                aht1@psu.edu</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Catherine</namePart>
+      <namePart type="family">Airey-Lauvaux</namePart>
+      <displayForm>Airey-Lauvaux, Catherine</displayForm>
+      <affiliation>Department of Geography, The Pennsylvania State University,
+                University Park, PA, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Becky</namePart>
+      <namePart type="family">Estes</namePart>
+      <displayForm>Estes, Becky</displayForm>
+      <affiliation>Pacific Southwest Region, USDA Forest Service, Placerville, CA,
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lucas</namePart>
+      <namePart type="family">Harris</namePart>
+      <displayForm>Harris, Lucas</displayForm>
+      <affiliation>Department of Geography, The Pennsylvania State University,
+                University Park, PA, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Carl N.</namePart>
+      <namePart type="family">Skinner</namePart>
+      <displayForm>Skinner, Carl N.</displayForm>
+      <affiliation>Pacific Southwest Research Station, USDA Forest Service, Redding, CA,
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-12</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 2777-2790.</extent>
+      </physicalDescription>
+      <abstract>CONTEXT: Spatial patterns of fire severity are influenced by
+                fire-vegetation patch dynamics and topography. Since the late nineteenth century,
+                fire exclusion has increased fuels and recent fire severity patterns may diverge
+                from historical patterns. OBJECTIVES: We used data from a 2008 wildfire burning in a
+                landscape with known nineteenth century fire severity patterns to answer the
+                following questions: (1) Were the spatial patterns of fire severity and fire effects
+                after the 2008 fire similar to those in the late nineteenth century? (2) What
+                factors were most important in controlling spatial patterns of fire severity in
+                2008? METHODS: Fire severity patterns in the late nineteenth century were identified
+                by Beaty and Taylor (J Veg Sci 18:879, 2001) using dendroecology. Plots were
+                remeasured after the 2008 fire and geospatial layers of vegetation type, topography,
+                fire weather, daily fire extent and fire severity were used to identify controls on
+                2008 fire severity. RESULTS: Fire severity in 2008 varied in ways similar to the
+                nineteenth century. Tree mortality and bark char in plots were lowest on lower
+                slopes and southwest facing slopes, intermediate on middle slopes, and highest on
+                upper slopes and northeast slopes. At the landscape scale, vegetation type,
+                elevation, slope aspect, slope position and weather were the variables controlling
+                fire severity. CONCLUSIONS: Spatial patterns of fire severity persisted, despite
+                more than a century of fire exclusion. Our findings suggest that wildfires burning
+                under moderate conditions even with a warming climate can help reduce the fire
+                deficit and promote forest resilience in fire prone landscapes.</abstract>
+      <note>NAL-AP-2-clean</note>
+      <subject authority="atg">
+         <topic>bark</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coniferous forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendroecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire severity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fire weather</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscape ecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wildfires</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1007/s10980-020-01118-1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Landscape ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">0921-2973</identifier>
+         <identifier type="local">Journal:jnl3870067</identifier>
+         <identifier type="local">Journal:jnl3870067</identifier>
+         <part>
+            <text>2020 Dec., v. 35, no. 12 p.2777-2790</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10980-020-01118-1</identifier>
+      <identifier type="control">9916294355507426</identifier>
+      <identifier type="agricola">IND607181595</identifier>
+      <extension>
+         <identifier type="local">agid:7181595</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">210113</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118081832.0</recordChangeDate>
+         <recordIdentifier>9916294355507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

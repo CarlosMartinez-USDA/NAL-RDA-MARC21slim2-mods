@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Landscape genetic structure of Olea europaea subsp. cuspidata in
+                Ethiopian highland forest fragments</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Alemayehu</namePart>
+      <namePart type="family">Kassa</namePart>
+      <displayForm>Kassa, Alemayehu</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Heino</namePart>
+      <namePart type="family">Konrad</namePart>
+      <displayForm>Konrad, Heino</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas</namePart>
+      <namePart type="family">Geburek</namePart>
+      <displayForm>Geburek, Thomas</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2017-12</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1463-1474.</extent>
+      </physicalDescription>
+      <abstract>Understanding patterns of genetic diversity at the landscape scale
+                will enhance conservation and management of natural populations. Here we analyzed
+                the genetic diversity, population connectivity, and spatial genetic structure among
+                subpopulations and age groups of Olea europaea subsp. cuspidata, a cornerstone
+                species of the Afromontane highlands. The study was conducted at the landscape level
+                within a radius of approximately 4 km, as well as on a fine scale (intensive study
+                plot) of less than 300 m radius. In total 542 samples from four natural
+                subpopulations in northwestern Ethiopia were analyzed using ten nuclear
+                microsatellite markers. Inbreeding was higher in smaller populations. No genetic
+                difference was detected among cohorts of different tree sizes in the intensive
+                studied plot. Average population differentiation was low but significant (F ST
+                = 0.016). Landscape genetic analysis inferred two groups: the most distant
+                subpopulation WE located less than 4 kms from the other three subpopulations formed
+                a separate group. Sixty-four percent of the total migrants were shared among the
+                three latter subpopulations, which are spatially clustered. Immigrants were
+                non-randomly distributed inside of the intensive study plot. Significant spatial
+                genetic structure (SGS) was found both at the landscape scale and in the intensive
+                study plot, and adults showed stronger SGS than young trees. An indirect estimate of
+                220 m as mean gene dispersal distance was obtained. We conclude that even under
+                fragmentation migration is not disrupted in wild olive trees and that large
+                protected populations at church forests are very important to conserve genetic
+                resources. However, the higher level of inbreeding and evidence for population
+                bottlenecks in the small populations, as well as the persisting heavy pressure on
+                most remaining populations, warrants quick action to maintain genetic diversity of
+                wild olive in the Ethiopian highlands.</abstract>
+      <subject authority="atg">
+         <topic>Olea europaea</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>adults</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic markers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>highlands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>immigration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inbreeding</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscape genetics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>olives</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population dynamics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Ethiopia</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1007/s10592-017-0993-z</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Conservation genetics</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">1566-0621</identifier>
+         <identifier type="local">Journal:jnl3870040</identifier>
+         <part>
+            <text>2017 Dec., v. 18, no. 6 p.1463-1474</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10592-017-0993-z</identifier>
+      <identifier type="control">9916310964807426</identifier>
+      <identifier type="agricola">IND605850422</identifier>
+      <extension>
+         <identifier type="local">agid:5850422</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">171031</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118092150.0</recordChangeDate>
+         <recordIdentifier>9916310964807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

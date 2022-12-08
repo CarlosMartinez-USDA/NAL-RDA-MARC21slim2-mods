@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>“sun-effect”: microclimatic alterations predispose forest edges
+                to bark beetle infestations</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Markus</namePart>
+      <namePart type="family">Kautz</namePart>
+      <displayForm>Kautz, Markus</displayForm>
+      <affiliation>Department of Ecology and Ecosystem Management, Institute of Animal
+                Ecology, Technische Universität München, Hans-Carl-von-Carlowitz-Platz 2, 85350,
+                Freising, Germany, kautz@wzw.tum.de</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Reinhard</namePart>
+      <namePart type="family">Schopf</namePart>
+      <displayForm>Schopf, Reinhard</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Joachim</namePart>
+      <namePart type="family">Ohser</namePart>
+      <displayForm>Ohser, Joachim</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2013-05</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 453-465.</extent>
+      </physicalDescription>
+      <abstract>Bark beetle dispersal and host selection behaviour are a complex and
+                poorly understood process, resulting in specific spatio-temporal infestation
+                patterns in forests. Aerial images from the Bavarian Forest National Park (Germany)
+                provide a high-resolution, that is, tree-scale data set for the period 2001–2010,
+                including information about Ips typographus (Col., Curculio., Scolytinae)
+                infestation, the application of sanitary logging, natural forest edges and the area
+                of living spruce susceptible to bark beetle infestation. We combined methods of GIS
+                and image analysis to investigate the infestation probabilities at three types of
+                forest edges under spatial and temporal aspects and compared them to the
+                corresponding probabilities at the stand interior. Our results showed a pronounced
+                infestation predisposition of such edge trees delimiting infestation patches cleared
+                by sanitary logging measures, in particular at the south-facing edge sector. In
+                contrast, edges adjacent to non-cleared infestation were revealed as less attractive
+                for subsequent infestations, but nonetheless more attractive than permanent forest
+                edges or the stand interior. Additionally, we measured near-bark surface air
+                temperature to determine microclimatic differences at those edge- or non-edge sites
+                and related them to predisposition results. Finally, our study emphasized favourable
+                microclimatic conditions—summarized as the “sun-effect”—as a decisive factor
+                enhancing the local infestation probability at recent forest edges in multiple ways.
+                Both insect- and host tree-related reactions to suddenly altered microclimate are
+                supposed to bias arbitrary colonization behaviour at patch and tree level, thereby
+                mainly explaining observed infestation patterns. From the forester’s point of view,
+                our results may contribute to precise bark beetle risk assessment and thus
+                facilitate decision making in forest management.</abstract>
+      <subject authority="atg">
+         <topic>Curculio</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Ips typographus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bark beetles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest types</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>foresters</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographic information systems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>hosts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>image analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>logging</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microclimate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national parks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>probability</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>risk assessment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surface temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Germany</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1007/s10342-013-0685-2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>European journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer-Verlag</publisher>
+         </originInfo>
+         <identifier type="issn">1612-4669</identifier>
+         <identifier type="local">Journal:jnl3870054</identifier>
+         <part>
+            <text>2013 May, v. 132, no. 3 p.453-465</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10342-013-0685-2</identifier>
+      <identifier type="control">9916292955007426</identifier>
+      <identifier type="agricola">IND500649921</identifier>
+      <extension>
+         <identifier type="local">agid:422262</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">130414</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118071015.0</recordChangeDate>
+         <recordIdentifier>9916292955007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

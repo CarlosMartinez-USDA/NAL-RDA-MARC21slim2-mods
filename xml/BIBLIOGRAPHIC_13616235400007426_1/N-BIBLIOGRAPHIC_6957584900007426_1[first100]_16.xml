@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Predicting spatial and seasonal patterns of
+                wildlife&amp;#x2013;vehicle collisions in high-risk areas&lt;a
+                href="#FN1"&gt;&lt;sup&gt;&amp;#x2020;&lt;/sup&gt;&lt;/a&gt;</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Hanh K. D.</namePart>
+      <namePart type="family">Nguyen</namePart>
+      <displayForm>Nguyen, Hanh K. D.</displayForm>
+      <affiliation>School of Technology, Environments and Design, University of
+                Tasmania, Sandy Bay, Tas. 7005, Australia; and School of Natural Sciences,
+                University of Tasmania, Sandy Bay, Tas. 7005, Australia.</affiliation>
+   </name>
+   <name type="personal">
+      <namePart type="given">Matthew W.</namePart>
+      <namePart type="family">Fielding</namePart>
+      <displayForm>Fielding, Matthew W.</displayForm>
+      <affiliation>School of Natural Sciences, University of Tasmania, Sandy Bay, Tas.
+                7005, Australia; and ARC Centre of Excellence for Australian Biodiversity and
+                Heritage, Hobart, Tas. 7005, Australia.</affiliation>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jessie C.</namePart>
+      <namePart type="family">Buettel</namePart>
+      <displayForm>Buettel, Jessie C.</displayForm>
+      <affiliation>School of Natural Sciences, University of Tasmania, Sandy Bay, Tas.
+                7005, Australia; and ARC Centre of Excellence for Australian Biodiversity and
+                Heritage, Hobart, Tas. 7005, Australia.</affiliation>
+   </name>
+   <name type="personal">
+      <namePart type="given">Barry W.</namePart>
+      <namePart type="family">Brook</namePart>
+      <displayForm>Brook, Barry W.</displayForm>
+      <affiliation>School of Natural Sciences, University of Tasmania, Sandy Bay, Tas.
+                7005, Australia; and ARC Centre of Excellence for Australian Biodiversity and
+                Heritage, Hobart, Tas. 7005, Australia.</affiliation>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+      <issuance>continuing</issuance>
+      <physicalDescription>
+         <extent>p. 428-437.</extent>
+      </physicalDescription>
+      <abstract>Context Vehicle collisions with wildlife can injure or kill animals,
+                threaten human safety, and threaten the viability of rare species. This has led to a
+                focus in road-ecology research on identifying the key predictors of
+                &amp;#x2018;road-kill&amp;#x2019; risk, with the goal of guiding management to
+                mitigate its impact. However, because of the complex and context-dependent nature of
+                the causes of risk exposure, modelling road-kill data in ways that yield consistent
+                recommendations has proven challenging. Aim Here we used a multi-model
+                machine-learning approach to identify the spatio-temporal predictors, such as
+                traffic volume, road shape, surrounding vegetation and distance to human
+                settlements, associated with road-kill risk. Methods We collected data on the
+                location, identity and wildlife body size of each road mortality across four seasons
+                along eight roads in southern Tasmania, a &amp;#x2018;road-kill hotspot&amp;#x2019;
+                of management concern. We focused on three large-bodied and frequently affected
+                crepuscular Australian marsupial herbivore species, the rufous-bellied pademelon
+                (Thylogale billardierii), Bennett&amp;#x2019;s wallaby (Macropus rufogriseus) and
+                the bare-nosed wombat (Vombatus ursinus). We fit the point-location data using
+                &amp;#x2018;lasso-regularisation&amp;#x2019; of a logistic generalised linear model
+                (LL-GLM) and out-of-bag optimisation of a decision-tree-based &amp;#x2018;random
+                forests&amp;#x2019; (RF) algorithm for optimised predictions. Results The RF model,
+                with high-level feature interactions, yielded superior out-of-sample prediction
+                results to the linear additive model, with a RF classification accuracy of 84.8% for
+                the 871 road-kill observations and a true skill statistic of 0.708, compared with
+                61.2% and 0.205 for the LL-GLM. The lasso rejected road visibility and human
+                density, ranking roadside vegetation type and presence of barrier fencing as the
+                most influential predictors of road-kill locality. Conclusions Forested areas with
+                no roadside barrier fence along curved sections of road posed the highest risk to
+                animals. Seasonally, the frequency of wildlife&amp;#x2013;vehicle collisions
+                increased notably for females during oestrus, when they were more dispersive and so
+                had a higher encounter rate with roads. Implications These findings illustrate the
+                value of using a combination of attributive and predictive modelling using machine
+                learning to rank and interpret a complexity of possible predictors of road-kill
+                risk, as well as offering a guide to practical management interventions that can
+                mitigate road-related hazards.</abstract>
+      <subject authority="atg">
+         <topic>Macropus rufogriseus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Thylogale billardierii</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Vombatus ursinus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>algorithms</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>artificial intelligence</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>body size</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>estrus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>herbivores</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>humans</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>linear models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rare species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>research</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>risk</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>road kills</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roadside plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roadsides</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>traffic</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>viability</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wildlife</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Tasmania</geographic>
+      </subject>
+      <subject>
+         <topic>collision risk</topic>
+      </subject>
+      <subject>
+         <topic>habitat features</topic>
+      </subject>
+      <subject>
+         <topic>lasso regression</topic>
+      </subject>
+      <subject>
+         <topic>predictive modelling</topic>
+      </subject>
+      <subject>
+         <topic>random forest</topic>
+      </subject>
+      <subject>
+         <topic>road-kill trends</topic>
+      </subject>
+      <subject>
+         <topic>seasonal influence</topic>
+      </subject>
+      <subject>
+         <topic>sex bias</topic>
+      </subject>
+      <subject>
+         <topic>wildlife road mortality</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1071/WR21018</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Wildlife research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>CSIRO Publishing</publisher>
+         </originInfo>
+         <identifier type="issn">1035-3712</identifier>
+         <identifier type="local">Journal:jnl3957321</identifier>
+         <identifier type="local">Journal:jnl3957321</identifier>
+         <part>
+            <text>2022, v. 49, no. 5 p.428-437</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1071/WR21018</identifier>
+      <identifier type="control">9916293508507426</identifier>
+      <identifier type="agricola">IND607843491</identifier>
+      <extension>
+         <identifier type="local">agid:7843491</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220726</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118073709.0</recordChangeDate>
+         <recordIdentifier>9916293508507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

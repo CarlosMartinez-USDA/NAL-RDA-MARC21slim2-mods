@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Geographic Variation in Songs of the Tree Pipit (Anthus trivialis) at
+                Two Spatial Scales</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Tereza</namePart>
+      <namePart type="family">Petruskováá</namePart>
+      <displayForm>Petruskováá, Tereza</displayForm>
+      <affiliation>Department of Ecology, Faculty of Science, Charles University in
+                Prague, Viniččnáá 7, CZ-12844 Prague 2, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tomasz S.</namePart>
+      <namePart type="family">Osiejuk</namePart>
+      <displayForm>Osiejuk, Tomasz S.</displayForm>
+      <affiliation>Department of Behavioural Ecology, Institute of Environmental
+                Biology, Faculty of Biology, Adam Mickiewicz University, Umultowska 89, PL-61614
+                Poznańń, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adam</namePart>
+      <namePart type="family">Petrusek</namePart>
+      <displayForm>Petrusek, Adam</displayForm>
+      <affiliation>Department of Ecology, Faculty of Science, Charles University in
+                Prague, Viniččnáá 7, CZ-12844 Prague 2, Czech Republic</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2010-04</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 274-282.</extent>
+      </physicalDescription>
+      <abstract>We studied geographic as well as individual variation of songs in
+                five Czech populations of the Tree Pipit (Motacillidae: Anthus trivialis), a
+                passerine bird with a medium-sized syllable repertoire and complex song. We focused
+                on repertoire composition at the level of syllables (the smallest invariant song
+                units) and of structures that are potentially important in recognition among
+                individuals (i.e., bi-syllables, or regular repetitions of two different syllables)
+                and among populations (introductory phrases). We tested the hypotheses that the
+                repertoires reflect local dialects (i.e., different male origins) and that
+                within-site similarities of male repertoires are distance dependent. The populations
+                studied differed significantly in all analyzed characteristics. Male origin
+                explained ∼∼18% of the variation in individual syllable repertoires. However, no
+                clear within-site geographic structure in repertoire similarity was observed, either
+                between closest neighbors or on larger scales. We observed a tendency for increased
+                syllable sharing among males in a small and dense isolated population, which is
+                consistent with recent studies that suggest the existence of strong effects of
+                habitat fragmentation on geographic patterns of song variation. High individual
+                variation was observed in bi-syllable repertoires, but whether this facilitates
+                individual recognition is unknown and in need of further study.</abstract>
+      <subject>
+         <topic>Anthus trivialis</topic>
+      </subject>
+      <subject>
+         <topic>complex song</topic>
+      </subject>
+      <subject>
+         <topic>individual recognition</topic>
+      </subject>
+      <subject>
+         <topic>local dialects</topic>
+      </subject>
+      <subject>
+         <topic>repertoire similarity</topic>
+      </subject>
+      <subject>
+         <topic>Tree Pipit</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1525%2Fauk.2009.09077</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Auk</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>University of California Press</publisher>
+         </originInfo>
+         <identifier type="issn">1938-4254</identifier>
+         <identifier type="local">Journal:19765</identifier>
+         <part>
+            <text>2010 Apr., v. 127, no. 2 p.274-282</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1525/auk.2009.09077</identifier>
+      <identifier type="control">9916290441907426</identifier>
+      <identifier type="agricola">IND601306789</identifier>
+      <extension>
+         <identifier type="local">agid:1306789</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151127</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055346.0</recordChangeDate>
+         <recordIdentifier>9916290441907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

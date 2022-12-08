@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Species-specific spatial structure, species coexistence and mortality
+                pattern in natural, uneven-aged Scots pine (Pinus sylvestris L.)-dominated
+                forest</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Janusz</namePart>
+      <namePart type="family">Szmyt</namePart>
+      <displayForm>Szmyt, Janusz</displayForm>
+      <affiliation>Department of Silviculture, Faculty of Forestry, Poznan University of
+                Life Sciences, Wojska Polskiego 69, 60-625, Poznan, Poland.
+                jszmyt@up.poznan.pl</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stefan</namePart>
+      <namePart type="family">Tarasiuk</namePart>
+      <displayForm>Tarasiuk, Stefan</displayForm>
+      <affiliation>Department of Silviculture, Warsaw University of Life Sciences-SGGW,
+                Nowoursynowska 159, 02-776, Warsaw, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2018-02</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1-16.</extent>
+      </physicalDescription>
+      <abstract>Complexity of uneven-aged forests results from the heterogeneity of
+                their structure reflected among others by the spatial pattern of their components.
+                Forest structure is usually modified by various processes operating at different
+                scales and time. Structure and processes are not independent, and both are important
+                drivers of forest dynamics. The impact of natural processes on forest structure
+                manifested in the specific spatial pattern of trees can be quantified by point
+                pattern analysis applied to long-term repeatedly measured stem-mapped plots. Such
+                studies are relatively scarce in the literature although they provide better insight
+                into the mechanisms affecting forest dynamics. Our study is focused on the
+                spatiotemporal analysis of the structure of mixed uneven-aged Scots pine-dominated
+                forest located at the Kampinoski National Park (Poland). Univariate analysis showed
+                that the initial pattern of all live trees was initially random and it shifted
+                toward more uniform with forest aging. Spatial patterns of individual tree species
+                varied from that stated for all forest community. We observed changes in spatial
+                pattern of Scots pine and common oak from random toward more clumped (pine) or
+                uniform (oak) pattern. In case of black alder and common birch, the initial
+                aggregated pattern was maintained over the examined 14-year period of the forest
+                succession. Bivariate analysis showed that the most common interspecific association
+                between pairs of tree species was spatial segregation (pine vs. alder, alder vs.
+                birch and oak vs. birch) followed by spatial independence (pine vs. oak and oak vs.
+                alder). The positive association was stated only for pine and birch and only for
+                certain spatial scales (&gt; 5 m). Simultaneously, at small distances they showed
+                reciprocal repulsion. Changes in spatial relationships between tree species were
+                negligible over 14-year period of forest succession. Our results confirmed the
+                density-dependent mortality process in the uneven-aged Scots pine-dominated forest
+                over 14-year period of forest development. Our study showed that spatial
+                interactions between individuals along with species-specific ecological requirements
+                should be incorporated into realistic models of forest development, helping to
+                manage the forest ecosystems toward their greater structural complexity.</abstract>
+      <subject authority="atg">
+         <topic>Alnus glutinosa</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Betula</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus sylvestris</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bivariate analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest dynamics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest succession</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national parks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Poland</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1007/s10342-017-1084-x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>European journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Berlin Heidelberg</publisher>
+         </originInfo>
+         <identifier type="issn">1612-4669</identifier>
+         <identifier type="local">Journal:jnl3870054</identifier>
+         <identifier type="local">Journal:jnl3870054</identifier>
+         <part>
+            <text>2018 Feb., v. 137, no. 1 p.1-16</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10342-017-1084-x</identifier>
+      <identifier type="control">9916295558607426</identifier>
+      <identifier type="agricola">IND605951161</identifier>
+      <extension>
+         <identifier type="local">agid:5951161</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">180619</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118103100.0</recordChangeDate>
+         <recordIdentifier>9916295558607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>extent of edge effects in fragmented landscapes: Insights from
+                satellite measurements of tree cover</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Mateus</namePart>
+      <namePart type="family">Dantas de Paula</namePart>
+      <displayForm>Dantas de Paula, Mateus</displayForm>
+      <affiliation>Helmoltz Center for Environmental Research UFZ Leipzig, Department of
+                Ecological Modelling, Permoserstr. 15, 04318 Leipzig, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jürgen</namePart>
+      <namePart type="family">Groeneveld</namePart>
+      <displayForm>Groeneveld, Jürgen</displayForm>
+      <affiliation>Helmoltz Center for Environmental Research UFZ Leipzig, Department of
+                Ecological Modelling, Permoserstr. 15, 04318 Leipzig, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andreas</namePart>
+      <namePart type="family">Huth</namePart>
+      <displayForm>Huth, Andreas</displayForm>
+      <affiliation>Helmoltz Center for Environmental Research UFZ Leipzig, Department of
+                Ecological Modelling, Permoserstr. 15, 04318 Leipzig, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2016-10</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 196-204.</extent>
+      </physicalDescription>
+      <abstract>Due to deforestation, intact tropical forest areas are increasingly
+                transformed into a mixture of remaining forest patches and human modified areas.
+                These forest fragments suffer from edge effects, which cause changes in ecological
+                and ecosystem processes, undermining habitat quality and the offer of ecosystem
+                services. Even though detailed and long term studies were developed on the topic of
+                edge effects at local scale, understanding edge effect characteristics in fragmented
+                forests on larger scales and finding indicators for its impact is crucial for
+                predicting habitat loss and developing management options. Here we evaluate the
+                spatial and temporal dimensions of edge effects in large areas using remote sensing.
+                First we executed a neighborhood pixel analysis in 11 LANDSAT Tree Cover (LTC)
+                scenes (180×185km each, 8 in the tropics and 3 in temperate forested areas) using
+                tree cover as an indicator of habitat quality and in relation to edge distance.
+                Second, we executed a temporal analysis of LTC in a smaller area in the Brazilian
+                Amazon forest where one larger forest fragment (25,890ha) became completely
+                fragmented in 5years. Our results show that for all 11 scenes pixel neighborhood
+                variation of LTC is much higher in the vicinity of forest edges, becoming lower
+                towards the forest interior. This analysis suggests a maximum distance for edge
+                effects and can indicate the location of unaffected core areas. However, LTC
+                patterns in relation to fragment edge distance vary according to the analyzed
+                region, and maximum edge distance may differ according to local conditions. Our
+                temporal analysis illustrates the change in tree cover patterns after 5years of
+                fragmentation, becoming on average lower close to the edge (between 50 and 100m).
+                Although it is still unclear which are the main causes of LTC edge variability
+                within and between regions, LANDSAT Tree Cover could be used as an accessible and
+                efficient discriminator of edge and interior forest habitats in fragmented
+                landscapes, and become invaluable for deriving qualitative spatial and temporal
+                information of ecological and ecosystem processes.</abstract>
+      <subject authority="atg">
+         <topic>Landsat</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>deforestation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystem services</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest habitats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat destruction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>humans</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropics</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Amazonia</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Brazil</geographic>
+      </subject>
+      <subject>
+         <topic>Edge effects</topic>
+      </subject>
+      <subject>
+         <topic>Remote sensing</topic>
+      </subject>
+      <subject>
+         <topic>LANDSAT Tree Cover</topic>
+      </subject>
+      <subject>
+         <topic>Fragmented forests</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.ecolind.2016.04.018</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological indicators</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">1470-160X</identifier>
+         <identifier type="local">Journal:6196</identifier>
+         <identifier type="local">Journal:6196</identifier>
+         <part>
+            <text>2016 Oct., v. 69 p.196-204</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.ecolind.2016.04.018</identifier>
+      <identifier type="control">9916294677307426</identifier>
+      <identifier type="agricola">IND605248866</identifier>
+      <extension>
+         <identifier type="local">agid:5248866</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190412</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118085537.0</recordChangeDate>
+         <recordIdentifier>9916294677307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

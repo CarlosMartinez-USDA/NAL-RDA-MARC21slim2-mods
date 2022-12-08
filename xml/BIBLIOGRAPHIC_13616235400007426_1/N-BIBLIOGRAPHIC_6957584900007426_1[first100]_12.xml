@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Aggregations of Sphodros rufipes (Araneae: Atypidae) in an urban
+                forest</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Steven B.</namePart>
+      <namePart type="family">Reichling</namePart>
+      <displayForm>Reichling, Steven B.</displayForm>
+      <affiliation>Memphis Zoo, 2000 Prentiss Place, Memphis, Tennessee 38112
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christopher</namePart>
+      <namePart type="family">Baker</namePart>
+      <displayForm>Baker, Christopher</displayForm>
+      <affiliation>Memphis Zoo, 2000 Prentiss Place, Memphis, Tennessee 38112
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christina</namePart>
+      <namePart type="family">Swatzell</namePart>
+      <displayForm>Swatzell, Christina</displayForm>
+      <affiliation>Pace Law School, 78 North Broadway, White Plains, New York 10603
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2011-12</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 503-505.</extent>
+      </physicalDescription>
+      <abstract>A large population of Sphodros rufipes (Latreille 1829) was
+                discovered in a municipal park in Memphis, Tennessee. We examined potential stem
+                diameter preference, frequency of web attachment to available tree species and the
+                spatial distribution patterns of spiders and potential attachment structures. A wide
+                range of structure diameters were utilized for web attachment. The association of
+                pursewebs to tree taxa was independent of the frequency of tree taxa occurrence. The
+                spacing of vegetation stems and trunks was approximately random, but spiders
+                exhibited a nonrandom, aggregated distribution, which was more pronounced in
+                subadults than adults. The factors influencing S. rufipes to occur in aggregations
+                cannot be explained by the spatial proximity of potential attachment structures in
+                the forest.</abstract>
+      <subject>
+         <topic>Purseweb spider</topic>
+      </subject>
+      <subject>
+         <topic>random distribution</topic>
+      </subject>
+      <subject>
+         <topic>aggregations</topic>
+      </subject>
+      <subject>
+         <topic>density</topic>
+      </subject>
+      <subject>
+         <topic>tree preference</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1636%2FP10-29.1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of arachnology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>American Arachnological Society</publisher>
+         </originInfo>
+         <identifier type="issn">0161-8202</identifier>
+         <identifier type="local">Journal:jnl7320</identifier>
+         <part>
+            <text>2011 Dec., v. 39, no. 3 p.503-505</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1636/P10-29.1</identifier>
+      <identifier type="control">9916292689107426</identifier>
+      <identifier type="agricola">IND601250285</identifier>
+      <extension>
+         <identifier type="local">agid:1250285</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118065457.0</recordChangeDate>
+         <recordIdentifier>9916292689107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

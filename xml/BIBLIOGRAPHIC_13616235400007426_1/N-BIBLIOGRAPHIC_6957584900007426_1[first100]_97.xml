@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Emerging patterns in the comparative analysis of phylogenetic
+                community structure</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.M.</namePart>
+      <namePart type="family">Vamosi</namePart>
+      <displayForm>Vamosi, S.M.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">S.B.</namePart>
+      <namePart type="family">Heard</namePart>
+      <displayForm>Heard, S.B.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">J.C.</namePart>
+      <namePart type="family">Vamosi</namePart>
+      <displayForm>Vamosi, J.C.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.O.</namePart>
+      <namePart type="family">Webb</namePart>
+      <displayForm>Webb, C.O.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2009-02</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 572-592.</extent>
+      </physicalDescription>
+      <abstract>The analysis of the phylogenetic structure of communities can help
+                reveal contemporary ecological interactions, as well as link community ecology with
+                biogeography and the study of character evolution. The number of studies employing
+                this broad approach has increased to the point where comparison of their results can
+                now be used to highlight successes and deficiencies in the approach, and to detect
+                emerging patterns in community organization. We review studies of the phylogenetic
+                structure of communities of different major taxa and trophic levels, across
+                different spatial and phylogenetic scales, and using different metrics and null
+                models. Twenty-three of 39 studies (59%) find evidence for phylogenetic clustering
+                in contemporary communities, but terrestrial and/or plant systems are heavily
+                over-represented among published studies. Experimental investigations, although
+                uncommon at present, hold promise for unravelling mechanisms underlying the
+                phylogenetic community structure patterns observed in community surveys. We discuss
+                the relationship between metrics of phylogenetic clustering and tree balance and
+                explore the various emerging biases in taxonomy and pitfalls of scale. Finally, we
+                look beyond one-dimensional metrics of phylogenetic structure towards multivariate
+                descriptors that better capture the variety of ecological behaviours likely to be
+                exhibited in communities of species with hundreds of millions of years of
+                independent evolution.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>biogeography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>community structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surveys</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>taxonomy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trophic relationships</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Biodiversity</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Biological Evolution</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Cluster Analysis</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Ecology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Ecosystem</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Geography</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Models, Biological</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Phylogeny</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Population Dynamics</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1111/j.1365-294X.2008.04001.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Molecular ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Blackwell Publishing Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">0962-1083</identifier>
+         <identifier type="local">Journal:jnl48811</identifier>
+         <part>
+            <text>2009 Feb., v. 18, no. 4 p.572-592</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">19037898 10.1111/j.1365-294X.2008.04001.x</identifier>
+      <identifier type="control">9916311051007426</identifier>
+      <identifier type="agricola">IND44155697</identifier>
+      <extension>
+         <identifier type="local">agid:586174</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">090130</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118092259.0</recordChangeDate>
+         <recordIdentifier>9916311051007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

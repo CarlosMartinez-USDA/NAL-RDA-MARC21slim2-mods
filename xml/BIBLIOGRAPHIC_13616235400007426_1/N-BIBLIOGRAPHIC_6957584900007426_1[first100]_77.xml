@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Climate extremes during high competition contribute to mortality in
+                unmanaged self-thinning Norway spruce stands in Bulgaria</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Momchil</namePart>
+      <namePart type="family">Panayotov</namePart>
+      <displayForm>Panayotov, Momchil</displayForm>
+      <affiliation>University of Forestry, Kliment Ohridski 10 Blvd., 1797 Sofia,
+                Bulgaria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dominik</namePart>
+      <namePart type="family">Kulakowski</namePart>
+      <displayForm>Kulakowski, Dominik</displayForm>
+      <affiliation>Graduate School of Geography, Clark University, Worcester, MA 01610,
+                USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nickolay</namePart>
+      <namePart type="family">Tsvetanov</namePart>
+      <displayForm>Tsvetanov, Nickolay</displayForm>
+      <affiliation>University of Forestry, Kliment Ohridski 10 Blvd., 1797 Sofia,
+                Bulgaria</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Frank</namePart>
+      <namePart type="family">Krumm</namePart>
+      <displayForm>Krumm, Frank</displayForm>
+      <affiliation>European Forest Institute (EFICENT), Wonnhaldestrasse 3, Freiburg,
+                Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ignacio</namePart>
+      <namePart type="family">Barbeito</namePart>
+      <displayForm>Barbeito, Ignacio</displayForm>
+      <affiliation>INRA, UMR1092, Laboratoire d’Etude des Ressources Forêt Bois
+                (LERFoB), Centre INRA de Nancy, Champenoux, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter</namePart>
+      <namePart type="family">Bebi</namePart>
+      <displayForm>Bebi, Peter</displayForm>
+      <affiliation>WSL Institute for Snow and Avalanche Research, SLF, Davos,
+                Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2016-06</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 74-88.</extent>
+      </physicalDescription>
+      <abstract>Climatic variability often is thought to be most important for
+                ecosystem development at ecotones, while competition is thought to be most important
+                farther from ecotones, where neighboring plants compete for scarce resources.
+                However, climatic variability may also modulate consequences of competition,
+                especially under recent and future climate change. Norway spruce (Picea abies)
+                forests are among the most important ecosystems in the mountain regions of Europe
+                and provide various ecosystem services. Many of these forests are currently in a
+                self-thinning, stem-exclusion phase. Understanding processes governing forest
+                dynamics during this phase is necessary for understanding future forest structure
+                and processes as well as effects of climatic variability on ongoing forest
+                development. We studied growth and mortality patterns in unmanaged 100–150years-old
+                Norway spruce forests that originated after stand-replacing disturbances in the
+                Parangalitsa Reserve in Bulgaria. We collected data on forest structure and tree
+                ring samples from 648 live and dead trees (DBH &gt;4cm) to analyze onset, pattern
+                and duration of mortality, as well as contributing factors.We found that climate
+                extremes acted together with competition to cause sharp growth declines lasting from
+                a few years to several decades and, in some cases, eventually led to death. The
+                majority of dead trees had one to several consecutive growth declines, most of which
+                initiated in response to extreme summer droughts during periods of high within-stand
+                competition (after trees were 40–50years old). Our tree-ring analysis revealed that
+                some suppressed trees that died were more drought-sensitive than living trees. Other
+                climate extremes such as unusually cold winters or summers also contributed to sharp
+                growth reductions in some cases. Trees that died had significantly lower initial
+                radial growth, which suggests that in the absence of external disturbances, the
+                outcome of mortality in the stem-exclusion stage may be pre-determined from factors
+                that determine initial growth rates. Spatial distribution data showed that there was
+                no significant aggregation of dead and live trees and that in almost all cases,
+                neither live nor dead trees were clustered.Our findings contribute to understanding
+                mortality processes in self-thinning subalpine Norway spruce forests in Europe and
+                show that under climate change scenarios that include more frequent future droughts,
+                even forests in which competition is thought to be the main driver of dynamics, may
+                experience higher rates of mortality.</abstract>
+      <subject authority="atg">
+         <topic>Picea abies</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cold</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dead wood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>death</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendroclimatology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystem services</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecotones</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>summer</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>winter</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Bulgaria</geographic>
+      </subject>
+      <subject>
+         <topic>Tree mortality</topic>
+      </subject>
+      <subject>
+         <topic>Competition</topic>
+      </subject>
+      <subject>
+         <topic>Climate extremes</topic>
+      </subject>
+      <subject>
+         <topic>Tree rings</topic>
+      </subject>
+      <subject>
+         <topic>Norway spruce (Picea abies [L. (Karst)]</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2016.02.033</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2016 June 01, v. 369 p.74-88</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2016.02.033</identifier>
+      <identifier type="control">9916307006307426</identifier>
+      <identifier type="agricola">IND605262317</identifier>
+      <extension>
+         <identifier type="local">agid:5262317</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190403</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118060334.0</recordChangeDate>
+         <recordIdentifier>9916307006307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

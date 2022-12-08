@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Can airborne laser scanning assist in mapping and monitoring natural
+                forests?</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Anne</namePart>
+      <namePart type="family">Sverdrup-Thygeson</namePart>
+      <displayForm>Sverdrup-Thygeson, Anne</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hans Ole</namePart>
+      <namePart type="family">Ørka</namePart>
+      <displayForm>Ørka, Hans Ole</displayForm>
+      <affiliation>Department of Ecology and Natural Resource Management, Norwegian
+                University of Life Sciences, Ås, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Terje</namePart>
+      <namePart type="family">Gobakken</namePart>
+      <displayForm>Gobakken, Terje</displayForm>
+      <affiliation>Department of Ecology and Natural Resource Management, Norwegian
+                University of Life Sciences, Ås, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Erik</namePart>
+      <namePart type="family">Næsset</namePart>
+      <displayForm>Næsset, Erik</displayForm>
+      <affiliation>Department of Ecology and Natural Resource Management, Norwegian
+                University of Life Sciences, Ås, Norway</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2016-06</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 116-125.</extent>
+      </physicalDescription>
+      <abstract>Old-growth boreal forests display high within-stand structural
+                variation, with large variation in tree sizes and age structure, a heterogeneous
+                horizontal spatial pattern with gaps of different sizes and multi-layered canopies.
+                Old managed forests, on the other hand, are characterized by more homogeneous
+                structural patterns. In many parts of Europe, no true ‘virgin forests’ remains.
+                Still, in many places forests previously influenced by selective logging have been
+                abandoned, and is now developing towards a more natural forest structure. Such
+                near-natural forest areas can be of special importance for forest biodiversity and
+                related ecosystem services, and it is therefore important to map and monitor such
+                forests. Recently, airborne laser scanning (ALS) has been applied to provide
+                ecologically relevant information on forest structure. The advantage of ALS is that
+                it can characterize three-dimensional forest structure in fine detail across broad
+                areas, replacing more labour-intensive field-based measurements.In this study, we
+                use ALS to compare the structural characteristics of 89 near-natural and 280 managed
+                old forest stands in a 17,000ha boreal forest study site in southeastern Norway. For
+                the study area, both maps of logging history separating old near-natural and old
+                managed forests, and high-resolution ALS data was available.Our aim was to
+                investigate if ALS data could be used to separate vertical and horizontal forest
+                structure in old near natural versus old managed forests. We also wanted to compare
+                different methods for classification, and to describe the potential for use of ALS
+                in classification of forest naturalness for future mapping and monitoring
+                purposes.We found that ALS data had a strong potential in separating stands of old
+                near-natural forests from old managed stands. The most important metrics for
+                classification were those reflecting canopy height, canopy density, variation in
+                canopy height, number of trees per area and gap patterns. This fits well with
+                ecological knowledge of relevant structural differences between forests of different
+                degree of naturalness. Both vertical and horizontal metrics provided useful input to
+                the classification, but the horizontal metrics performed slightly better on accuracy
+                and were easier to interpret. Although the method has a good potential for wider use
+                in boreal forest landscapes, the need for local reference data for calibration as
+                well as the importance of ALS pulse density for precision of classification should
+                be further investigated.Large-scale spatial information on remaining source areas of
+                natural and near-natural forests will be essential in order to manage forests in a
+                way that safeguards biodiversity and ecosystem services. We suggest that
+                classification of forest naturalness based on ALS data can be a helpful tool in
+                future forest mapping and monitoring.</abstract>
+      <subject authority="atg">
+         <topic>age structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biodiversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>boreal forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystem services</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>logging</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>monitoring</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>virgin forests</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Norway</geographic>
+      </subject>
+      <subject>
+         <topic>Remote sensing</topic>
+      </subject>
+      <subject>
+         <topic>Boreal forest</topic>
+      </subject>
+      <subject>
+         <topic>Forest structure</topic>
+      </subject>
+      <subject>
+         <topic>Near-natural forest</topic>
+      </subject>
+      <subject>
+         <topic>Airborne laser scanning (ALS)</topic>
+      </subject>
+      <subject>
+         <topic>Spatial pattern</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2016.03.035</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2016 June 01, v. 369 p.116-125</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2016.03.035</identifier>
+      <identifier type="control">9916307133307426</identifier>
+      <identifier type="agricola">IND605262356</identifier>
+      <extension>
+         <identifier type="local">agid:5262356</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190403</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061705.0</recordChangeDate>
+         <recordIdentifier>9916307133307426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

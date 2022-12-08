@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial and temporal distribution of trunk‐injected 14C‐imidacloprid
+                in Fraxinus trees</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Sara R</namePart>
+      <namePart type="family">Tanis</namePart>
+      <displayForm>Tanis, Sara R</displayForm>
+      <affiliation>Department of Horticulture, Michigan State University, East Lansing,
+                MI, USA. tanissar@msu.edu</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bert M</namePart>
+      <namePart type="family">Cregg</namePart>
+      <displayForm>Cregg, Bert M</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">David</namePart>
+      <namePart type="family">Mota‐Sanchez</namePart>
+      <displayForm>Mota‐Sanchez, David</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Deborah G</namePart>
+      <namePart type="family">McCullough</namePart>
+      <displayForm>McCullough, Deborah G</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Therese M</namePart>
+      <namePart type="family">Poland</namePart>
+      <displayForm>Poland, Therese M</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2012-04</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 529-536.</extent>
+      </physicalDescription>
+      <abstract>BACKGROUND: Since the discovery of Agrilus planipennis Fairmaire
+                (emerald ash borer) in 2002, researchers have tested several methods of chemical
+                control. Soil drench or trunk injection products containing imidacloprid are
+                commonly used to control adults. However, efficacy can be highly variable and may be
+                due to uneven translocation of systemic insecticides. The purpose of this study was
+                to determine whether sectored xylem anatomy might influence imidacloprid
+                distribution in tree crowns. RESULTS: Imidacloprid equivalent concentrations were
+                higher in leaves from branches in the plane of the injection point (0°) than in
+                leaves from branches on the opposite side of the injection point (180°). Leaves from
+                branches 90° to the right of injection points had higher imidacloprid equivalent
+                concentrations than leaves from branches 90° to the left of injection points. Leaves
+                and shoots had higher imidacloprid equivalent concentrations than roots and trunk
+                cores, indicating that imidacloprid moves primarily through the xylem. CONCLUSION:
+                Imidacloprid equivalent concentration in leaves varied over time and in relation to
+                injection points. It is concluded that ash trees have sectored ‘zigzag’ xylem
+                architecture patterns consistent with sectored flow distribution. This could lead to
+                variable distribution of imidacloprid in tree crowns and therefore to variable
+                control of A. planipennis.</abstract>
+      <subject authority="atg">
+         <topic>Agrilus planipennis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Fraxinus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>branches</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chemical control</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>imidacloprid</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaves</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roots</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>shoots</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil drenching</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>xylem</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Animals</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Beetles</topic>
+         <topic>drug effects</topic>
+         <topic>physiology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Fraxinus</topic>
+         <topic>metabolism</topic>
+         <topic>parasitology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Imidazoles</topic>
+         <topic>metabolism</topic>
+         <topic>pharmacology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Insect Control</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Insecticides</topic>
+         <topic>metabolism</topic>
+         <topic>pharmacology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Nitro Compounds</topic>
+         <topic>metabolism</topic>
+         <topic>pharmacology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Plant Stems</topic>
+         <topic>metabolism</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Trees</topic>
+         <topic>metabolism</topic>
+         <topic>parasitology</topic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1002/ps.2281</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Pest management science</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>John Wiley &amp; Sons, Ltd.</publisher>
+         </originInfo>
+         <identifier type="issn">1526-498X</identifier>
+         <identifier type="local">Journal:jnl59519</identifier>
+         <part>
+            <text>2012 Apr., v. 68, no. 4 p.529-536</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">22290795 10.1002/ps.2281</identifier>
+      <identifier type="control">9916311376007426</identifier>
+      <identifier type="agricola">IND44814567</identifier>
+      <extension>
+         <identifier type="local">agid:435725</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">120308</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118101228.0</recordChangeDate>
+         <recordIdentifier>9916311376007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

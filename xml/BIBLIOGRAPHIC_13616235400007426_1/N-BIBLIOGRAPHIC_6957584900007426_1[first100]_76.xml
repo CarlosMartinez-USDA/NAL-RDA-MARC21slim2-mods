@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatio-temporal water uptake patterns of tree saplings are not
+                altered by interspecific interaction in the early stage of a subtropical
+                forest</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Stefan</namePart>
+      <namePart type="family">Trogisch</namePart>
+      <displayForm>Trogisch, Stefan</displayForm>
+      <affiliation>Institute of Biology/Geobotany and Botanical Garden, Martin Luther
+                University Halle-Wittenberg, D-06108 Halle (Saale), Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yann</namePart>
+      <namePart type="family">Salmon</namePart>
+      <displayForm>Salmon, Yann</displayForm>
+      <affiliation>Institute of Evolutionary Biology and Environmental Studies,
+                University of Zurich, CH-8057 Zurich, Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jin-Sheng</namePart>
+      <namePart type="family">He</namePart>
+      <displayForm>He, Jin-Sheng</displayForm>
+      <affiliation>Department of Ecology, College of Urban and Environmental Sciences
+                and Key Laboratory for Earth Surface Processes of the Ministry of Education, Peking
+                University, Beijing 100871, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Andy</namePart>
+      <namePart type="family">Hector</namePart>
+      <displayForm>Hector, Andy</displayForm>
+      <affiliation>Department of Plant Sciences, University of Oxford, OX1 3RB,
+                UK</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Michael</namePart>
+      <namePart type="family">Scherer-Lorenzen</namePart>
+      <displayForm>Scherer-Lorenzen, Michael</displayForm>
+      <affiliation>Faculty of Biology, Geobotany, University of Freiburg, D-79104
+                Freiburg, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2016-05</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 52-61.</extent>
+      </physicalDescription>
+      <abstract>Complementary resource use has often been claimed to explain positive
+                effects of plant diversity on ecosystem functioning, but the underlying mechanisms
+                of complementarity have rarely been directly quantified in forest systems. The aim
+                of this study was to characterize spatial and temporal water uptake of subtropical
+                tree saplings, to assess the role of interspecific interaction on water uptake
+                patterns and to quantify species niche breadth and overlap. Our experiment comprised
+                two deciduous (Castanea henryi, Quercus serrata) and two evergreen tree species
+                (Elaeocarpus decipiens, Schima superba) that were each planted in monoculture and
+                4-species mixture. We used deuterium-enriched water to trace seasonal water uptake
+                from 5cm and 20cm soil depth. Castanea exploited predominantly the upper soil (74%
+                of overall tracer uptake across treatments) whereas Quercus (50%), Elaeocarpus (57%)
+                and Schima (62%) tended to use both soil layers more equally. Species identity had
+                an overall significant effect on isotopic enrichment in stem water. There was no
+                effect of species richness: niche breadth and overlap of single species was not
+                affected by interspecific interactions in mixtures. Niche overlap between deciduous
+                species was lowest (74%) whereas the two evergreen species had similar water uptake
+                patterns (91%). According to our results, interspecific competition did not alter
+                water uptake patterns of the studied species during the early phase of forest
+                establishment. Thus, soil water uptake complementarity could only occur through
+                inherent (fundamental) specific differences in water uptake niches based on sapling
+                specialization, while phenotypic adjustments to interspecific interaction or
+                neighbor diversity are less important.</abstract>
+      <subject authority="atg">
+         <topic>Castanea</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Elaeocarpus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus serrata</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Schima superba</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>interspecific competition</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>niches</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phenotype</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>planting</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>saplings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil depth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil water</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>water uptake</topic>
+      </subject>
+      <subject>
+         <topic>BEF-China</topic>
+      </subject>
+      <subject>
+         <topic>Deuterium</topic>
+      </subject>
+      <subject>
+         <topic>Niche differentiation</topic>
+      </subject>
+      <subject>
+         <topic>Resource complementarity</topic>
+      </subject>
+      <subject>
+         <topic>Stable isotopes</topic>
+      </subject>
+      <subject>
+         <topic>Subtropical broadleaved forest</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2016.02.018</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2016 May 01, v. 367 p.52-61</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2016.02.018</identifier>
+      <identifier type="control">9916306974807426</identifier>
+      <identifier type="agricola">IND605262302</identifier>
+      <extension>
+         <identifier type="local">agid:5262302</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190403</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118060154.0</recordChangeDate>
+         <recordIdentifier>9916306974807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

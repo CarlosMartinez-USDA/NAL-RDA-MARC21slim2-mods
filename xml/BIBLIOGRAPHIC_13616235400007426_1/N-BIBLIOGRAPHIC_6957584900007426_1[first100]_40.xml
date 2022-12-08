@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Low genetic diversity and fragmentation effects in a wind-pollinated
+                tree, Polylepis multijuga Plige (Rosaceae) in the high Andes</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Natalia</namePart>
+      <namePart type="family">Quinteros-Casaverde</namePart>
+      <displayForm>Quinteros-Casaverde, Natalia</displayForm>
+      <affiliation>Department of Environmental Sciences, Texas Christian University,
+                2955 S. University Dr., Fort Worth, TX, 76129, USA,</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cesar F.</namePart>
+      <namePart type="family">Flores-NegrÃ³n</namePart>
+      <displayForm>Flores-NegrÃ³n, Cesar F.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dean A.</namePart>
+      <namePart type="family">Williams</namePart>
+      <displayForm>Williams, Dean A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2012-04</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 593-603.</extent>
+      </physicalDescription>
+      <abstract>Fragmentation is predicted to increase inbreeding depression and
+                lower the evolutionary potential of organisms by disrupting dispersal. Trees may be
+                more resilient to fragmentation effects due to potential long-distance dispersal
+                mechanisms that genetically connect fragments. Polylepis woodlands in the high Andes
+                are highly fragmented and are currently the focus of reforestation and conservation
+                efforts. Polylepis multijuga Plige (Rosaceae) is a threatened, endemic tree species
+                in the northern Andes of Peru. Samples were collected from 371 adult trees in nine
+                forest fragments separated by 0.5â&#x80;&#x93;80Â km and genotyped at amplified fragment
+                length polymorphism loci (AFLP) and chloroplast intergenic regions to determine the
+                connectedness of fragments and their suitability for collecting seed for restoration
+                efforts. P. multijuga is wind-pollinated and dispersed; however, genetic diversity
+                in P. multijuga was about half that reported for other wind-pollinated species.
+                Genetic spatial autocorrelation and patterns of chloroplast and AFLP diversity
+                suggest seed dispersal is very limited and that wind dispersed pollen does not
+                effectively connect all fragments. Conservation of this species will require
+                reforestation efforts and possibly augmentation of some fragments to increase their
+                genetic diversity. Collecting seed from multiple large fragments and from
+                individuals separated by at least 25Â m within fragments would maximize the genetic
+                diversity of seed collections for reforestation or augmentation. Future studies of
+                this and other Polylepis species should determine how complex topography may affect
+                wind mediated dispersal between fragments and patterns of genetic
+                diversity.</abstract>
+      <subject authority="atg">
+         <topic>Rosaceae</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>amplified fragment length polymorphism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chloroplasts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inbreeding depression</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>intergenic DNA</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>loci</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>pollen</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>reforestation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed collecting</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed dispersal</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wind</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>woodlands</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Andes region</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Peru</geographic>
+      </subject>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1007/s10592-011-0310-1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Conservation genetics</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer-Verlag</publisher>
+         </originInfo>
+         <identifier type="issn">1566-0621</identifier>
+         <identifier type="local">Journal:jnl3870040</identifier>
+         <part>
+            <text>2012 Apr., v. 13, no. 2 p.593-603</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10592-011-0310-1</identifier>
+      <identifier type="control">9916298849107426</identifier>
+      <identifier type="agricola">IND44762300</identifier>
+      <extension>
+         <identifier type="local">agid:421974</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">121003</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055847.0</recordChangeDate>
+         <recordIdentifier>9916298849107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

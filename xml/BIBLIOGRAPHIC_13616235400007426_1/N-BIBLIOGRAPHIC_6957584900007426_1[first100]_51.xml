@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Neither host-specific nor random: Vascular epiphytes on three tree
+                species in a Panamanian lowland forest</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S.</namePart>
+      <namePart type="family">Laube</namePart>
+      <displayForm>Laube, S.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">G.</namePart>
+      <namePart type="family">Zotz</namePart>
+      <displayForm>Zotz, G.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2006-06</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1103-1114.</extent>
+      </physicalDescription>
+      <abstract>BACKGROUND AND AIMS: A possible role of host tree identity in the
+                structuring of vascular epiphyte communities has attracted scientific attention for
+                decades. Specifically, it has been suggested that each host tree species has a
+                specific subset of the local species pool according to its own set of properties,
+                e.g. physicochemical characteristics of the bark, tree architecture, or leaf
+                phenology patterns. METHODS: A novel, quantitative approach to this question is
+                presented, taking advantage of a complete census of the vascular epiphyte community
+                in 0·4 ha of undisturbed lowland forest in Panama. For three locally common
+                host-tree species (Socratea exorrhiza, Marila laxiflora, Perebea xanthochyma) null
+                models were created of the expected epiphyte assemblages assuming that epiphyte
+                colonization reflected random distribution of epiphytes in the forest. KEY RESULTS:
+                In all three tree species, abundances of the majority of epiphyte species (69-81 %)
+                were indistinguishable from random, while the remaining species were about equally
+                over- or under-represented compared with their occurrence in the entire forest plot.
+                Permutations based on the number of colonized trees (reflecting observed spatial
+                patchiness) yielded similar results. Finally, a third analysis (canonical
+                correspondence analysis) also confirmed host-specific differences in epiphyte
+                assemblages. In spite of pronounced preferences of some epiphytes for particular
+                host trees, no epiphyte species was restricted to a single host. CONCLUSIONS: The
+                epiphytes on a given tree species are not simply a random sample of the local
+                species pool, but there are no indications of host specificity either.</abstract>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <note>Includes references</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>geographical distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Clusiaceae</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surveys</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>epiphytes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>flora</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Moraceae</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>host specificity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>lowland forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Socratea exorrhiza</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecology</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Araceae</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Bromeliaceae</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Ecosystem</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Orchidaceae</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Plants</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Symbiosis</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Trees</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Tropical Climate</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Panama</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Panama</geographic>
+      </subject>
+      <subject>
+         <topic>Socratea</topic>
+      </subject>
+      <subject>
+         <topic>Perebea xanthochyma</topic>
+      </subject>
+      <subject>
+         <topic>Marila laxiflora</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F500</topic>
+         <topic>Plant Nutrition</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>K001</topic>
+         <topic>Forestry Related</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F300</topic>
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F700</topic>
+         <topic>Plant Taxonomy, Collection, and Geography</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1093/aob/mcl067</url>
+      </location>
+      <location>
+         <url displayLabel="electronic resource">http://aob.oupjournals.org/</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Annals of botany</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Oxford University Press</publisher>
+         </originInfo>
+         <identifier type="issn">0305-7364</identifier>
+         <identifier type="local">Journal:jnl44715</identifier>
+         <part>
+            <text>2006 June, v. 97, no. 6 p.1103-1114</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">16574691 PMC2803392 10.1093/aob/mcl067</identifier>
+      <identifier type="control">9916300097107426</identifier>
+      <identifier type="agricola">IND43806796</identifier>
+      <extension>
+         <note type="saleTape">20060725 20060804 00000000</note>
+         <note type="indexer">IND MKS 2006/07/25</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:684527</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">060606</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118062552.0</recordChangeDate>
+         <recordIdentifier>9916300097107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

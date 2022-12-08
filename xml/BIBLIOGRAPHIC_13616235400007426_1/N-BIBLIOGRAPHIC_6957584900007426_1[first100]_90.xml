@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>On the link between tree size and ecosystem carbon sequestration
+                capacity across continental forests</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Meifang</namePart>
+      <namePart type="family">Zhao</namePart>
+      <displayForm>Zhao, Meifang</displayForm>
+      <affiliation>College of Life Science and Technology, Central South University of
+                Forestry and Technology, Changsha, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mengde</namePart>
+      <namePart type="family">Sun</namePart>
+      <displayForm>Sun, Mengde</displayForm>
+      <affiliation>College of Life Science and Technology, Central South University of
+                Forestry and Technology, Changsha, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Tao</namePart>
+      <namePart type="family">Xiong</namePart>
+      <displayForm>Xiong, Tao</displayForm>
+      <affiliation>College of Life Science and Technology, Central South University of
+                Forestry and Technology, Changsha, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shihong</namePart>
+      <namePart type="family">Tian</namePart>
+      <displayForm>Tian, Shihong</displayForm>
+      <affiliation>College of Life Science and Technology, Central South University of
+                Forestry and Technology, Changsha, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shuguang</namePart>
+      <namePart type="family">Liu</namePart>
+      <displayForm>Liu, Shuguang</displayForm>
+      <affiliation>College of Life Science and Technology, Central South University of
+                Forestry and Technology, Changsha, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-06</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>The asymptotic height (Hₘₐₓ) and the size‐scaling exponent (β),
+                proxies of tree size and important forest architectural parameters of the
+                relationships between height and tree diameter of forests, play important roles in
+                the carbon (C) stocks and fluxes of forest ecosystems. However, the patterns and
+                drivers of these values in continental China are not well known. Based on a national
+                forest database of China, we explored the geographic patterns and ecological drivers
+                of Hₘₐₓ and β and their dynamic relationships with the C sequestration capabilities
+                of the studied ecosystems, including the C stock and allocation, net ecosystem
+                productivity (NEP), and mean ecosystem C turnover time. At the ecosystem scale, the
+                Hₘₐₓ values ranged from 10.37 to 37.07 m, with a mean value of 25.41 m, showing a
+                decreasing trend with increasing latitude. However, β ranged from 0.598 to 0.73,
+                with a mean value of 0.66, showing an increasing trend with latitude. The spatial
+                patterns of the forest Hₘₐₓ and β at the national scale were largely controlled by
+                the mean annual temperature, mean annual precipitation, and forest age. These
+                patterns were verified using biomass and forest C sequestration data, showing that
+                the total vegetation C stock as a whole, in aboveground or belowground components,
+                was significantly and positively correlated with Hₘₐₓ (p &lt; 0.05), revealing
+                apparent “faster first, slower later” increasing trends with Hₘₐₓ (R² = 0.759,
+                0.821, and 0.527, respectively). In addition, for forest &gt;20 m, NEP showed a
+                significant strong negative correlation with Hₘₐₓ (by −0.967% per 1 m of Hₘₐₓ,
+                R² = 0.504, p &lt; 0.05), and a 10‐m increase in Hₘₐₓ resulted in a decrease in mean
+                ecosystem C turnover time by 16.9% (7.43 years). Taller forests might indeed be
+                expected to have higher autotrophic respiration consumption rates but lower mean
+                ecosystem C turnover time and NEP values than shorter forests. The discovery that
+                community‐level asymptotic height could be used as a comparative predictor of
+                ecosystem C sequestration capacity and its difference among forest biomes underpins
+                the fundamentals of ecological theories and modeling, which has important
+                implications for forest restoration, policy, and management.</abstract>
+      <note>JOURNAL ARTICLE</note>
+      <subject authority="atg">
+         <topic>atmospheric precipitation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biomass</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon sequestration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon sinks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>databases</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest restoration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>issues and policy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>latitude</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>national forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>net ecosystem production</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>China</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1002/ecs2.4079</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecosphere</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>John Wiley &amp; Sons, Inc.</publisher>
+         </originInfo>
+         <identifier type="issn">2150-8925</identifier>
+         <identifier type="local">Journal:12363</identifier>
+         <identifier type="local">Journal:12363</identifier>
+         <part>
+            <text>2022 June, v. 13, no. 6 p.e4079-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1002/ecs2.4079</identifier>
+      <identifier type="control">9916308926407426</identifier>
+      <identifier type="agricola">IND607816001</identifier>
+      <extension>
+         <identifier type="local">agid:7816001</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220629</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118065941.0</recordChangeDate>
+         <recordIdentifier>9916308926407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Long-term impacts of road disturbance on old-growth coast redwood
+                forests</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Cody R.</namePart>
+      <namePart type="family">Dangerfield</namePart>
+      <displayForm>Dangerfield, Cody R.</displayForm>
+      <affiliation>Department of Wildland Resources, Utah State University, 5200 Old
+                Main Hill, Logan, UT 843222, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Steve L.</namePart>
+      <namePart type="family">Voelker</namePart>
+      <displayForm>Voelker, Steve L.</displayForm>
+      <affiliation>College of Forest Resources and Environmental Science, Michigan
+                Technological University, 178 Noblet Building, Houghton, MI 49931, United
+                States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christopher A.</namePart>
+      <namePart type="family">Lee</namePart>
+      <displayForm>Lee, Christopher A.</displayForm>
+      <affiliation>California Department of Forestry and Fire Protection, 118 S. Fortuna
+                Blvd., Fortuna, CA 95540, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-11</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>In forest ecosystems, road expansions and other landcover changes
+                create abrupt artificial boundaries that alter the microclimate along the forest
+                edge, potentially impacting growth and physiology of bordering trees. To understand
+                how previous landcover changes and road installations have affected coast redwoods
+                (Sequoia sempervirens), we used dendroecological methods to contrast tree-ring
+                growth patterns and stable isotopes (Δ¹³C) of redwoods before and after a known
+                disturbance event, the expansion of Highway 101 in the 1950s, that bisected several
+                old-growth stands of Humboldt Redwoods State Park. Increment cores were extracted
+                from redwoods in old-growth stands that bordered the highway and other forest edges
+                (secondary forests and agricultural fields) as well as two control areas.
+                Disturbance detection methods and dendroclimatic modeling were then employed to
+                determine whether the expansion led to growth suppression and elevated water stress.
+                Tree-ring growth data indicated that the construction of Highway 101
+                disproportionately impacted the growth of trees that were within 30 m of the highway
+                and that these effects were particularly elevated in trees that currently exhibit
+                crown dieback. Similarly, climatic modeling of tree-ring Δ¹³C data indicated that
+                highway adjacent trees also experienced elevated water stress for several decades
+                following the construction of the highway. By analyzing tree-ring data of redwoods
+                within Humboldt Redwoods State Park, here we provide critical insight to the
+                temporal and spatial implications of the habitat fragmentation and road installation
+                that has been nearly ubiquitous in the redwood distribution since Euro-American
+                settlement.</abstract>
+      <subject authority="atg">
+         <topic>Sequoia sempervirens</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>administrative management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coasts</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendroecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dieback</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat fragmentation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land cover</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microclimate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>physiology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>state parks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>water stress</topic>
+      </subject>
+      <subject>
+         <topic>Growth suppressions</topic>
+      </subject>
+      <subject>
+         <topic>Disturbance</topic>
+      </subject>
+      <subject>
+         <topic>Carbon isotope discrimination</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2021.119595</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2021 Nov. 01, v. 499 p.119595-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2021.119595</identifier>
+      <identifier type="control">9916290827507426</identifier>
+      <identifier type="agricola">IND607482949</identifier>
+      <extension>
+         <identifier type="local">agid:7482949</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">210911</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118060928.0</recordChangeDate>
+         <recordIdentifier>9916290827507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

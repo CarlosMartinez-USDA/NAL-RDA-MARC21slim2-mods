@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial heterogeneity of a parasitic plant drives the seed‐dispersal
+                pattern of a zoochorous plant community in a generalist dispersal system</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ana</namePart>
+      <namePart type="family">Mellado</namePart>
+      <displayForm>Mellado, Ana</displayForm>
+      <affiliation>Department of Ecology, Terrestrial Ecology Research Group, University
+                of Granada, Av. Fuentenueva s/n, E‐18071, Granada, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Regino</namePart>
+      <namePart type="family">Zamora</namePart>
+      <displayForm>Zamora, Regino</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jenny</namePart>
+      <namePart type="family">Watling</namePart>
+      <displayForm>Watling, Jenny</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2016-03</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 459-467.</extent>
+      </physicalDescription>
+      <abstract>Biota plays a central role as sources of spatial heterogeneity,
+                having great potential to define ecological processes and patterns in the landscape.
+                Mistletoes are fleshy‐fruited parasitic plants that dwell in forest canopies showing
+                a strong aggregated spatial distribution. Parasitized trees potentially concentrate
+                frugivore activity on their canopy, where birds find food, places to perch and
+                protection against predators. Thus, seed‐deposition patterns generated from the
+                canopy are expected to reflect the heterogeneity associated with the parasite. This
+                becomes especially important in generalist dispersal systems; however, so far, we do
+                not know the implications of mistletoe spatial heterogeneity on the seed‐dispersal
+                pattern of other plants with which they simultaneously fruit. In a Mediterranean
+                pineland, we analyse the impact of Viscum album subsp. austriacum on the
+                seed‐deposition pattern of a zoochorous plant community, taking into consideration
+                the spatial and temporal variability of environmental factors influencing the
+                frugivore's habitat use, such as fruit availability and forest tree density. For
+                four consecutive years, we studied 55 pairs of trees parasitized and unparasitized
+                by mistletoe, analysing zoochorous fruit availability, frugivore visits and the
+                zoochorous seed rain in selected trees. As expected, frugivorous birds responded to
+                mistletoe heterogeneity by visiting parasitized trees preferentially to
+                unparasitized ones, generating a differential deposition of mistletoe seeds on tree
+                branches while dispersing seeds of co‐fruiting species under the host canopy.
+                Availability of understory fruits remained similar in patches of parasitized and
+                unparasitized trees, but showed strong temporal fluctuations reflected in the seed
+                rain. On the other hand, mistletoe proved more copious in patches of parasitized
+                trees and their fruit crops varied little between years, making mistletoes reliable
+                food resources likely to lead to consistency in fruit‐deposition patterns. In
+                conclusion, mistletoes, by patchily growing on the canopy layer and concentrating
+                zoochorous seeds underneath, can shape the spatial seed‐deposition pattern of
+                fleshy‐fruited plants in the forest. Moreover, as seeds constantly reach the same
+                deposition sites over long periods, the soil beneath the host canopy could become
+                hotspots for community regeneration. In degraded areas, such mistletoe effects might
+                be critical, possibly promoting recolonization and vegetation recovery through the
+                frugivore's activity.</abstract>
+      <subject authority="atg">
+         <topic>Viscum album</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>birds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>branches</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>frugivores</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruit crops</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruits</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>habitat preferences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>parasitic plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>parasitism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant communities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>predators</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed dispersal</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temporal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>understory</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1111/1365-2435.12524</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Functional ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>British Ecological Society</publisher>
+         </originInfo>
+         <identifier type="issn">0269-8463</identifier>
+         <identifier type="local">Journal:jnl44821</identifier>
+         <part>
+            <text>2016 Mar., v. 30, no. 3 p.459-467</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/1365-2435.12524</identifier>
+      <identifier type="control">9916299483907426</identifier>
+      <identifier type="agricola">IND605159059</identifier>
+      <extension>
+         <identifier type="local">agid:5159059</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">160321</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061302.0</recordChangeDate>
+         <recordIdentifier>9916299483907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

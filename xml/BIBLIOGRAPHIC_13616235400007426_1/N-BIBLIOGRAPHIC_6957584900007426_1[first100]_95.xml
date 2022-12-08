@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>ASCAT IB: A radar-based vegetation optical depth retrieved from the
+                ASCAT scatterometer satellite</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Xiangzhuo</namePart>
+      <namePart type="family">Liu</namePart>
+      <displayForm>Liu, Xiangzhuo</displayForm>
+      <affiliation>INRAE, UMR1391 ISPA, Université de Bordeaux, F-33140 Villenave
+                d'Ornon, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean-Pierre</namePart>
+      <namePart type="family">Wigneron</namePart>
+      <displayForm>Wigneron, Jean-Pierre</displayForm>
+      <affiliation>INRAE, UMR1391 ISPA, Université de Bordeaux, F-33140 Villenave
+                d'Ornon, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lei</namePart>
+      <namePart type="family">Fan</namePart>
+      <displayForm>Fan, Lei</displayForm>
+      <affiliation>Chongqing Jinfo Mountain Karst Ecosystem National Observation and
+                Research Station, School of Geographical Sciences, Southwest University, Chongqing
+                400715, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Frédéric</namePart>
+      <namePart type="family">Frappart</namePart>
+      <displayForm>Frappart, Frédéric</displayForm>
+      <affiliation>INRAE, UMR1391 ISPA, Université de Bordeaux, F-33140 Villenave
+                d'Ornon, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Philippe</namePart>
+      <namePart type="family">Ciais</namePart>
+      <displayForm>Ciais, Philippe</displayForm>
+      <affiliation>Laboratoire des Sciences du Climat et de l'Environnement,
+                CEA/CNRS/UVSQ/Université Paris Saclay, Gif-sur-Yvette, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nicolas</namePart>
+      <namePart type="family">Baghdadi</namePart>
+      <displayForm>Baghdadi, Nicolas</displayForm>
+      <affiliation>INRAE, UMR TETIS, University of Montpellier, 500 rue François Breton,
+                34093 Montpellier CEDEX 5, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mehrez</namePart>
+      <namePart type="family">Zribi</namePart>
+      <displayForm>Zribi, Mehrez</displayForm>
+      <affiliation>CESBIO, Université de Toulouse, CNRS/UPS/IRD/CNES, 18 av. Edouard
+                Belin, bpi 2801, CEDEX 9, 31401 Toulouse, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas</namePart>
+      <namePart type="family">Jagdhuber</namePart>
+      <displayForm>Jagdhuber, Thomas</displayForm>
+      <affiliation>German Aerospace Center, DLR Microwaves and Radar Institute, P.O. BOX
+                1116, 82234 Wessling, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xiaojun</namePart>
+      <namePart type="family">Li</namePart>
+      <displayForm>Li, Xiaojun</displayForm>
+      <affiliation>INRAE, UMR1391 ISPA, Université de Bordeaux, F-33140 Villenave
+                d'Ornon, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mengjia</namePart>
+      <namePart type="family">Wang</namePart>
+      <displayForm>Wang, Mengjia</displayForm>
+      <affiliation>INRAE, UMR1391 ISPA, Université de Bordeaux, F-33140 Villenave
+                d'Ornon, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Xiaojing</namePart>
+      <namePart type="family">Bai</namePart>
+      <displayForm>Bai, Xiaojing</displayForm>
+      <affiliation>School of Hydrology and Water Resources, Nanjing University of
+                Information Science &amp; Technology, Nanjing 210044, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christophe</namePart>
+      <namePart type="family">Moisy</namePart>
+      <displayForm>Moisy, Christophe</displayForm>
+      <affiliation>INRAE, UMR1391 ISPA, Université de Bordeaux, F-33140 Villenave
+                d'Ornon, France</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-10</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>Vegetation optical depth (VOD), as a microwave-based vegetation index
+                for vegetation water and biomass content, is increasingly used to study the impact
+                of global climate and environmental changes on vegetation. Currently, VOD is mainly
+                retrieved from passive microwave data and few studies focused on VOD retrievals from
+                active microwave data. The Advanced SCATterometer (ASCAT) provides long-term C-band
+                backscatter data at Vertical-Vertical (VV) polarization. In this study, a new ASCAT
+                INRAE Bordeaux (IB) VOD (hereafter, IB VOD), was developed based on the Water Cloud
+                Model (WCM) coupled with the Ulaby linear model for soil backscattering. The main
+                features of IB VOD are that (i) the ERA5-Land soil moisture (SM) dataset was used as
+                an auxiliary SM dataset in the retrievals, (ii) pixel-based soil model parameters
+                were mapped using Random Forest (RF), and (iii) the vegetation model parameter was
+                calibrated for each day. The IB VOD product was retrieved over Africa during
+                2015–2019, and its performances were evaluated in space and time by comparing with
+                aboveground biomass (AGB), lidar tree height (TH), normalized difference vegetation
+                index (NDVI), enhanced vegetation index (EVI) and leaf area index (LAI). Results
+                were inter-compared with three other VOD products at the same frequency. In terms of
+                spatial correlation with AGB (R = 0.92) and TH (R = 0.89), IB VOD outperforms the
+                other VOD products, suggesting IB VOD has a strong ability to capture spatial
+                patterns of AGB and TH. By comparing all VOD products against NDVI, EVI and LAI, we
+                found that the highest temporal correlation with NDVI (EVI, LAI) was obtained with
+                IB VOD over 29.94% (36.65%, 30.19%) of the study region. Considering all three
+                vegetations indices, highest temporal correlation values with IB VOD could be
+                particularly noted for deciduous broadleaf forests, woody savannas and
+                savannas.</abstract>
+      <subject authority="atg">
+         <topic>aboveground biomass</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>data collection</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaf area index</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>lidar</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>linear models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>satellites</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil water</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>space and time</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree height</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Africa</geographic>
+      </subject>
+      <subject>
+         <topic>VOD</topic>
+      </subject>
+      <subject>
+         <topic>ASCAT</topic>
+      </subject>
+      <subject>
+         <topic>Active microwave</topic>
+      </subject>
+      <subject>
+         <topic>Biomass</topic>
+      </subject>
+      <subject>
+         <topic>NDVI</topic>
+      </subject>
+      <subject>
+         <topic>EVI</topic>
+      </subject>
+      <subject>
+         <topic>LAI</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.rse.2021.112587</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Remote sensing of environment</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Inc.</publisher>
+         </originInfo>
+         <identifier type="issn">0034-4257</identifier>
+         <identifier type="local">Journal:11735</identifier>
+         <identifier type="local">Journal:11735</identifier>
+         <part>
+            <text>2021 Oct., v. 264 p.112587-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.rse.2021.112587</identifier>
+      <identifier type="control">9916310195107426</identifier>
+      <identifier type="agricola">IND607450770</identifier>
+      <extension>
+         <identifier type="local">agid:7450770</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">210904</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118084753.0</recordChangeDate>
+         <recordIdentifier>9916310195107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

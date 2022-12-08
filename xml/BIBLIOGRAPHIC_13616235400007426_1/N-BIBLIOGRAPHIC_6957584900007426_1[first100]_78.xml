@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Ecohydrological implications of drought for forests in the United
+                States</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">James M.</namePart>
+      <namePart type="family">Vose</namePart>
+      <displayForm>Vose, James M.</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Southern Research
+                Station, Center for Integrated Forest Science, Department of Forestry and
+                Environmental Resources, Raleigh, NC 27695, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Chelcy Ford</namePart>
+      <namePart type="family">Miniat</namePart>
+      <displayForm>Miniat, Chelcy Ford</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Southern Research
+                Station, Center for Forest Watershed Research, Coweeta Hydrologic Laboratory, Otto,
+                NC 28763, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charles H.</namePart>
+      <namePart type="family">Luce</namePart>
+      <displayForm>Luce, Charles H.</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Rocky Mountain
+                Research Station, Boise, ID 83702, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Heidi</namePart>
+      <namePart type="family">Asbjornsen</namePart>
+      <displayForm>Asbjornsen, Heidi</displayForm>
+      <affiliation>Department of Natural Resources, University of New Hampshire, Durham,
+                NH 03824, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter V.</namePart>
+      <namePart type="family">Caldwell</namePart>
+      <displayForm>Caldwell, Peter V.</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Southern Research
+                Station, Center for Forest Watershed Research, Coweeta Hydrologic Laboratory, Otto,
+                NC 28763, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">John L.</namePart>
+      <namePart type="family">Campbell</namePart>
+      <displayForm>Campbell, John L.</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Northern Research
+                Station, Center for Research on Ecosystem Change, Durham, NH 03824, United
+                States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gordon E.</namePart>
+      <namePart type="family">Grant</namePart>
+      <displayForm>Grant, Gordon E.</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Pacific Northwest
+                Research Station, Ecological Process and Function Program, Forestry Science
+                Laboratory, Corvallis, OR 97331, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Daniel J.</namePart>
+      <namePart type="family">Isaak</namePart>
+      <displayForm>Isaak, Daniel J.</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Rocky Mountain
+                Research Station, Boise, ID 83702, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Steven P.</namePart>
+      <namePart type="family">Loheide</namePart>
+      <displayForm>Loheide, Steven P.</displayForm>
+      <affiliation>Civil and Environmental Engineering, University of Wisconsin at
+                Madison, Madison, WI 53706, United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ge</namePart>
+      <namePart type="family">Sun</namePart>
+      <displayForm>Sun, Ge</displayForm>
+      <affiliation>U.S. Department of Agriculture, Forest Service, Southern Research
+                Station, Eastern Forest Environmental Threat Assessment Center, Raleigh, NC 27695,
+                United States</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2016-11</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 335-345.</extent>
+      </physicalDescription>
+      <abstract>The relationships among drought, surface water flow, and groundwater
+                recharge are not straightforward for most forest ecosystems due to the strong role
+                that vegetation plays in the forest water balance. Hydrologic responses to drought
+                can be either mitigated or exacerbated by forest vegetation depending upon
+                vegetation water use and how forest population dynamics respond to drought.
+                Understanding how drought impacts ecosystems requires understanding how drought
+                impacts ecohydrological processes. Because different species and functional groups
+                vary in their ecophysiological traits that influence water use patterns, changes in
+                species assemblages can alter hydrological processes from the stand to the watershed
+                scales. Recent warming trends and more prolonged and frequent droughts have
+                accelerated the spread and intensity of insect attacks in the western US that kill
+                nearly all of the canopy trees within forest stands, changing the energy balance of
+                the land surface and affecting many hydrologic processes. In contrast, some eastern
+                forest tree species and size classes can tolerate drought better than others,
+                suggesting the potential for drought-mediated shifts in both species composition and
+                structure. Predicting how these changes will impact hydrologic processes at larger
+                spatial and temporal scales presents a considerable challenge. The biogeochemical
+                consequences of drought, such as changes in stream chemistry, are closely linked to
+                vegetation dynamics and hydrologic responses. As with other natural disturbances,
+                droughts are difficult to prepare for because they are unpredictable. However, there
+                are management options that may be implemented to minimize the impacts of drought on
+                water quantity and quality. Examples include reducing leaf area by thinning and
+                regenerating cut forests with species that consume less water, although a high level
+                of uncertainty in both drought projections and anticipated responses suggests the
+                need for monitoring and adaptive management.</abstract>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <accessCondition type="restriction on access">Elsevier BV License Information</accessCondition>
+      <accessCondition type="restriction on access">Resource is Open Access</accessCondition>
+      <accessCondition type="restriction on access">CHORUS License Information</accessCondition>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>chemistry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>watersheds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>insects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population dynamics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>uncertainty</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>energy balance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surface water</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>groundwater recharge</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>monitoring</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>leaf area</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>adaptive management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>water quantity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecophysiology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>streams</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>water flow</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental impact</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Western United States</geographic>
+      </subject>
+      <subject>
+         <topic>Transpiration</topic>
+      </subject>
+      <subject>
+         <topic>Streamflow</topic>
+      </subject>
+      <subject>
+         <topic>Water balance</topic>
+      </subject>
+      <subject>
+         <topic>Water quality</topic>
+      </subject>
+      <subject>
+         <topic>water balance</topic>
+      </subject>
+      <subject>
+         <topic>Climate change</topic>
+      </subject>
+      <subject>
+         <topic>Management options</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2016.03.025</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2016 Nov. 15, v. 380 p.335-345</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2016.03.025 10.1016/j.foreco.2016.03.025 10.1016/j.foreco.2016.03.025</identifier>
+      <identifier type="control">9916307115907426</identifier>
+      <identifier type="agricola">IND605262345</identifier>
+      <extension>
+         <identifier type="local">agid:5262345</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190403</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061431.0</recordChangeDate>
+         <recordIdentifier>9916307115907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+<record>
+    <leader>04163nab a2200745 u 4500</leader>
+    <controlfield tag="001">9916297787207426</controlfield>
+    <controlfield tag="005">20140724000000.0</controlfield>
+    <controlfield tag="008">071209e200712 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+        <subfield code="a">IND43985222</subfield>
+        <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+        <subfield code="a">10.1007/s10795-007-9029-z</subfield>
+        <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+        <subfield code="a">agid:716136-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">AGL</subfield>
+        <subfield code="b">eng</subfield>
+        <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+        <subfield code="a">P210</subfield>
+    </datafield>
+    <datafield tag="072" ind1=" " ind2="0">
+        <subfield code="a">P200</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+        <subfield code="a">Conrad, Christopher</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+        <subfield code="a">Mapping and assessing water use in a Central Asian irrigation system by
+            utilizing MODIS remote sensing products</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">p. 197-218.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">In the special issue: Emerging issues on land and water in Central Asia /
+            edited by J. Froebrich, M.G. Bos and K. Wegerich.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">2019-12-06</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">Spatial and temporal patterns of water depletion in the irrigated land of
+            Khorezm, a region located in Central Asia in the lower floodplains of the Amu Darya
+            River, were mapped and monitored by means of MODIS land products. Land cover and land
+            use were classified by using a recursive partitioning and regression tree with 250 m
+            MODIS Normalized Difference Vegetation Index (NDVI) time series. Seasonal actual
+            evapotranspiration (ETact) was obtained by applying the Surface Energy Balance Algorithm
+            for Land (SEBAL) to 1 km daily MODIS data. Elements of the SEBAL based METRIC model
+            (Mapping Evapotranspiration at high Resolution and with Internalized Calibration) were
+            adopted and modified. The upstream-downstream difference in irrigation was reflected by
+            analyzing agricultural land use and amounts of depleted water (ETact) using Geographical
+            Information Systems (GIS). The validity of the MODIS albedo and emissivity used for
+            modeling ETact was assessed with data extracted from literature. The r ² value of 0.6
+            indicated a moderate but significant association between ETact and class-A-pan
+            evaporation. Deviations of ETact from the 10-day reference evapotranspiration of wheat
+            and cotton were found to be explainable. In Khorezm, seasonal maximum values superior to
+            1,200 and 1,000 mm ETact were estimated for rice and cotton fields, respectively.
+            Spatio-temporal comparisons of agricultural land use with seasonal ETact disclosed
+            unequal water consumption in Khorezm. Seasonal ETact on agricultural land decreased with
+            increasing distance to the water intake points of the irrigation system (972-712 mm).
+            Free MODIS data provided reliable, exhaustive, and consistent information on water use
+            relevant for decision support in Central Asian water management.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+        <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">temporal variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">cotton</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">irrigation water</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">evapotranspiration</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">rice</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">fields</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">irrigation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Oryza sativa</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Gossypium hirsutum</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">geographic information systems</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">vegetation cover</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">floodplains</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">spatial variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">remote sensing</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">irrigated farming</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">land use</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+        <subfield code="a">Central Asia</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">water use</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+        <subfield code="a">seasonal actual evapotranspiration</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Dech, Stefan W.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Hafeez, Mohsin</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Lamers, John</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Martius, Christopher</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Strunz, Günter</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+        <subfield code="t">Irrigation and drainage systems.</subfield>
+        <subfield code="g">2007 Dec., v. 21, no. 3-4 p.197-218</subfield>
+        <subfield code="d">Springer Netherlands</subfield>
+        <subfield code="x">0168-6291</subfield>
+        <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">(Journal)jnl40314</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+        <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://dx.doi.org/10.1007/s10795-007-9029-z</subfield>
+        <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+        <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="a">Journal:jnl40314</subfield>
+        <subfield code="b">0168-6291</subfield>
+        <subfield code="c">21</subfield>
+        <subfield code="d">3-4</subfield>
+        <subfield code="e">197</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="f">Irrigation and drainage systems</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+        <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+        <subfield code="a">20080508</subfield>
+        <subfield code="b">20080606</subfield>
+        <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+        <subfield code="a">IND43985222</subfield>
+        <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+        <subfield code="a">IND</subfield>
+        <subfield code="d">RHF</subfield>
+        <subfield code="e">2008/05/07</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+        <subfield code="a">Non-US</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+        <subfield code="a">2014-07-17</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+        <subfield code="a">20080508 20080606 00000000</subfield>
+        <subfield code="b">IND RHF 2008/05/07</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+        <subfield code="a">agid:716136</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+        <subfield code="a">2014-07-24</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+        <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+            (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+        <subfield code="a">3985222</subfield>
+    </datafield>
+</record>
+</collection>

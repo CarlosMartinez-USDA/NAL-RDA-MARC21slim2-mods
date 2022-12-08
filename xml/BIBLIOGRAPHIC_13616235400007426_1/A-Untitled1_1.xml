@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>06804cam a2200529Ii 4500</marc:leader>
+   <marc:controlfield tag="001">9915461366507426</marc:controlfield>
+   <marc:controlfield tag="005">20221101232430.0</marc:controlfield>
+   <marc:controlfield tag="006">m o d </marc:controlfield>
+   <marc:controlfield tag="007">cr cnu|||unuuu</marc:controlfield>
+   <marc:controlfield tag="008">211005s2021 sz a ob 000 0 eng d</marc:controlfield>
+   <marc:datafield tag="016" ind1="7" ind2=" ">
+      <marc:subfield code="a">CAT31444502</marc:subfield>
+      <marc:subfield code="2">DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9783030732677</marc:subfield>
+      <marc:subfield code="q">(electronic bk.)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">3030732673</marc:subfield>
+      <marc:subfield code="q">(electronic bk.)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9783030732660</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="024" ind1="7" ind2=" ">
+      <marc:subfield code="a">10.1007/978-3-030-73267-7</marc:subfield>
+      <marc:subfield code="2">doi</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">1444502</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)1273411585</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(DNAL)1444502-naldb-Voyager</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">GW5XE</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="e">pn</marc:subfield>
+      <marc:subfield code="c">GW5XE</marc:subfield>
+      <marc:subfield code="d">OCLCO</marc:subfield>
+      <marc:subfield code="d">N$T</marc:subfield>
+      <marc:subfield code="d">OCLCF</marc:subfield>
+      <marc:subfield code="d">AGL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGLL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="050" ind1=" " ind2="0">
+      <marc:subfield code="a">SD421</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="070" ind1="0" ind2=" ">
+      <marc:subfield code="a">QH545.F5</marc:subfield>
+      <marc:subfield code="b">F55 2021</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Fire ecology and management :</marc:subfield>
+      <marc:subfield code="b">past, present, and future of US forested ecosystems /</marc:subfield>
+      <marc:subfield code="c">Cathryn H. Greenberg, Beverly Collins, editors.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Cham, Switzerland :</marc:subfield>
+      <marc:subfield code="b">Springer,</marc:subfield>
+      <marc:subfield code="c">2021.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource (xvii, 502 pages) :</marc:subfield>
+      <marc:subfield code="b">illustrations (some color).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Managing forest ecosystems,</marc:subfield>
+      <marc:subfield code="x">2352-3956 ;</marc:subfield>
+      <marc:subfield code="v">volume 39</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Chapter 1. Introduction to Fire Ecology across USA Forested
+                Ecosystems: Past, Present, and Future (Cathryn H. Greenberg, Beverly S. Collins,
+                Scott Goodrick, Michael C. Stambaugh, and Gary R. Wein) -- Chapter 2. The Role of
+                Fire in the Dynamics of Piedmont Vegetation (Joanna Spooner, Robert K. Peet, Michael
+                P. Schafale, Alan S. Weakley and Thomas R. Wentworth) -- Chapter 3. Fire Ecology and
+                Fire Management of Southeastern Coastal Plain Pine Ecosystems (Jeff S. Glitzenstein,
+                J. Stephen Brewer, Ronald. E. Masters, J. Morgan Varner, and J. Kevin Hiers) --
+                Chapter 4. Fire Ecology and Management in Eastern Broadleaf and Appalachian Forests
+                (Mary A. Arthur, J. Morgan Varner, Charles W. Lafon, Heather D. Alexander, Daniel C.
+                Dey, Craig A. Harper, Sally P. Horn, Todd F. Hutchinson, Tara L. Keyser, Marcus A.
+                Lashley, Christopher E. Moorman, and Callie J. Schweitzer) -- Chapter 5. Fire
+                Ecology and Management of Forest Ecosystems in the Western Central Hardwoods and
+                Prairie-Forest Border (Michael C. Stambaugh, Benjamin O. Knapp, and Daniel C. Dey)
+                -- Chapter 6. Fire in Floodplain Forests of the Southeastern USA hy (Paul R. Gagnon,
+                Loretta L. Battaglia, Brice B. Hanberry, William H. Conner, and Sammy L. King) --
+                Chapter 7. History and Future of Fire in Hardwood and Conifer Forests of the Great
+                Lakes-Northeastern Forest Region, USA(Lee E. Frelich, Craig G. Lorimer, and Michael
+                C. Stambaugh) -- Chapter 8. Fire Ecology of Rocky Mountain Forests(Sharon M. Hood,
+                Brian J. Harvey, Paula J. Fornwalt, Cameron E. Naficy, Winslow D. Hansen, Kimberley
+                T. Davis, Mike A. Battaglia, Camille Stevens-Rumann, Victoria Saab) -- Chapter 9.
+                Fire Ecology of the North American Mediterranean-Climate Zone(Hugh D. Safford,
+                Ramona J. Butz, Gabrielle N. Bohlman, Michelle Coppoletta, Becky L. Estes, Shana E.
+                Gross, Kyle E. Merriam, Marc D. Meyer, Nicole A. Molinari, and Amarina Wuenschel) --
+                Chapter 10. Fire Ecology and Management in Pacific Northwest Forests(Matthew J.
+                Reilly, Jessica E. Halofsky, Meg A. Krawchuk, Daniel C. Donato, Paul F. Hessburg,
+                James Johnston, Andrew Merschel, Mark E. Swanson, Joshua S. Halofsky, and Thomas A.
+                Spies) -- Chapter 11. Fire Ecology and Management of Southwestern Forests(Peter Z.
+                Fulé, Catrin M. Edgeley, Carol L. Chambers, Serra Hoagland, Blanca Céspedes) --
+                Chapter 12. Fire and Forests in the 21st Century: Managing Resilience under Changing
+                Climates and Fire Regimes in USA Forests(James M. Vose, David L. Peterson,
+                Christopher J. Fettig, Jessica E. Halofsky, J. Kevin Hiers, Robert E. Keane, Rachel
+                Loehman, and Michael C. Stambaugh).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">This edited volume presents original scientific research and
+                knowledge synthesis covering the past, present, and potential future fire ecology of
+                major US forest types, with implications for forest management in a changing
+                climate. The editors and authors highlight broad patterns among ecoregions and
+                forest types, as well as detailed information for individual ecoregions, for fire
+                frequencies and severities, fire effects on tree mortality and regeneration, and
+                levels of fire-dependency by plant and animal communities. The foreword addresses
+                emerging ecological and fire management challenges for forests, in relation to
+                sustainable development goals as highlighted in recent government reports. An
+                introductory chapter highlights patterns of variation in frequencies, severities,
+                scales, and spatial patterns of fire across ecoregions and among forested ecosystems
+                across the US in relation to climate, fuels, topography and soils, ignition sources
+                (lightning or anthropogenic), and vegetation. Separate chapters by respected experts
+                delve into the fire ecology of major forest types within US ecoregions, with a focus
+                on the level of plant and animal fire-dependency, and the role of fire in
+                maintaining forest composition and structure. The regional chapters also include
+                discussion of historic natural (lightning-ignited) and anthropogenic (Native
+                American; settlers) fire regimes, current fire regimes as influenced by recent
+                decades of fire suppression and land use history, and fire management in relation to
+                ecosystem integrity and restoration, wildfire threat, and climate change. The
+                summary chapter combines the major points of each chapter, in a synthesis of US-wide
+                fire ecology and forest management into the future. This book provides current,
+                organized, readily accessible information for the conservation community, land
+                managers, scientists, students and educators, and others interested in how fire
+                behaviour and effects on structure and composition differ among ecoregions and
+                forest types, and what that means for forest management today and in the future.
+                .</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="588" ind1="0" ind2=" ">
+      <marc:subfield code="a">Online resource; title from PDF title page (SpringerLink, viewed
+                October 5, 2021).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="591" ind1=" " ind2=" ">
+      <marc:subfield code="b">NAL Reclamation</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Forest fires</marc:subfield>
+      <marc:subfield code="x">Environmental aspects.</marc:subfield>
+      <marc:subfield code="0">http://id.loc.gov/authorities/subjects/sh2009009149</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="4">
+      <marc:subfield code="a">Electronic books.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Greenberg, Cathryn H.,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="0">http://id.loc.gov/authorities/names/no2001042514</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Collins, Beverly S.,</marc:subfield>
+      <marc:subfield code="d">1954-</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="0">http://id.loc.gov/authorities/names/no2011145952</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">Managing forest ecosystems ;</marc:subfield>
+      <marc:subfield code="v">v. 39.</marc:subfield>
+      <marc:subfield code="x">2352-3956</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="3">SpringerLink</marc:subfield>
+      <marc:subfield code="u">https://doi.org/10.1007/978-3-030-73267-7</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="3">EBSCOhost</marc:subfield>
+      <marc:subfield code="u">https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=3049503</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="912" ind1=" " ind2=" ">
+      <marc:subfield code="a">nalcatalog</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="930" ind1=" " ind2=" ">
+      <marc:subfield code="a">20211027</marc:subfield>
+      <marc:subfield code="b">00000000</marc:subfield>
+      <marc:subfield code="c">00000000</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="938" ind1=" " ind2=" ">
+      <marc:subfield code="a">EBSCOhost</marc:subfield>
+      <marc:subfield code="b">EBSC</marc:subfield>
+      <marc:subfield code="n">3049503</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="946" ind1=" " ind2=" ">
+      <marc:subfield code="a">Non-US</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="958" ind1=" " ind2=" ">
+      <marc:subfield code="b">e</marc:subfield>
+      <marc:subfield code="c">2021/10/27</marc:subfield>
+      <marc:subfield code="d">n</marc:subfield>
+      <marc:subfield code="e">csussman</marc:subfield>
+      <marc:subfield code="h">cfr</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="994" ind1=" " ind2=" ">
+      <marc:subfield code="a">92</marc:subfield>
+      <marc:subfield code="b">AGL</marc:subfield>
+   </marc:datafield>
+</marc:record>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Uncertainty of biomass stocks in Spanish forests: a comprehensive
+                comparison of allometric equations</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Aitor</namePart>
+      <namePart type="family">Ameztegui</namePart>
+      <displayForm>Ameztegui, Aitor</displayForm>
+      <affiliation>Department of Agriculture and Forest Engineering (EAGROF), University
+                of Lleida, Av. Alcalde Rovira Roure 191, 25198, Lleida, Spain.
+                aitor.ameztegui@udl.cat</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marcos</namePart>
+      <namePart type="family">Rodrigues</namePart>
+      <displayForm>Rodrigues, Marcos</displayForm>
+      <affiliation>Department of Agriculture and Forest Engineering (EAGROF), University
+                of Lleida, Av. Alcalde Rovira Roure 191, 25198, Lleida, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Víctor</namePart>
+      <namePart type="family">Granda</namePart>
+      <displayForm>Granda, Víctor</displayForm>
+      <affiliation>Ecosystem Modelling Facility, Centre de Recerca Ecològica i
+                Aplicacions Forestals (CREAF), Bellaterra, Catalonia, ES, Spain</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-06</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 395-407.</extent>
+      </physicalDescription>
+      <abstract>Biomass and carbon content are essential indicators for monitoring
+                forest ecosystems and their role in climate action, but their estimation is not
+                straightforward. A typical approach to solve these limitations has been the
+                estimation of tree or stand biomass based on forest inventory data, using either
+                allometric equations or biomass expansion factors. Many allometric equations exist,
+                but very few studies have assessed how the calculation methods used may impact
+                outcomes and how this impact depends on genera, functional group, climate or forest
+                structural attributes. In this study we evaluate the differences in biomass
+                estimates yielded by the most widely used biomass equations in Spain. We first
+                quantify the discrepancies at tree level and among the main forest tree species. We
+                observed that the divergences in carbon estimations between different equations
+                increased with tree size, especially in the case of hardwoods and for diameters
+                beyond the range used to calibrate the equations. At the plot level, we found
+                considerable differences between the biomass values predicted using different
+                methods (above 25% in one out of three plots), which constitutes a warning against
+                the uncritical choice of equations to determine biomass or carbon values. The
+                spatial representation of the differences revealed geographical patterns related to
+                the dominance of fast-growing species such as Eucalyptus or Pinus pinaster, with a
+                minor effect of forest structure, and almost no effect of climate. Finally, we
+                observed that differences were mostly due to the data source rather than the
+                modelling approach or equation used. Based on our results, BEF equations seem a
+                valid and unbiased option to provide nation-level estimations of carbon balance,
+                although local equations should preferably be used if they are available for the
+                target area.</abstract>
+      <subject authority="atg">
+         <topic>Eucalyptus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus pinaster</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>allometry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>biomass</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>equations</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest inventory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>research</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>uncertainty</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Spain</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1007/s10342-022-01444-w</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>European journal of forest research</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Berlin Heidelberg</publisher>
+         </originInfo>
+         <identifier type="issn">1612-4669</identifier>
+         <identifier type="local">Journal:jnl3870054</identifier>
+         <identifier type="local">Journal:jnl3870054</identifier>
+         <part>
+            <text>2022 June, v. 141, no. 3 p.395-407</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s10342-022-01444-w</identifier>
+      <identifier type="control">9916300125607426</identifier>
+      <identifier type="agricola">IND607779136</identifier>
+      <extension>
+         <identifier type="local">agid:7779136</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">220523</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118062455.0</recordChangeDate>
+         <recordIdentifier>9916300125607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

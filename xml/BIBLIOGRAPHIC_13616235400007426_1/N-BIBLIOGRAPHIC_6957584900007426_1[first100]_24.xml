@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Environmental correlates for tropical tree diversity and distribution
+                patterns in Borneo</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">J.W Ferry</namePart>
+      <namePart type="family">Slik</namePart>
+      <displayForm>Slik, J.W Ferry</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Niels</namePart>
+      <namePart type="family">Raes</namePart>
+      <displayForm>Raes, Niels</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shin-Ichiro</namePart>
+      <namePart type="family">Aiba</namePart>
+      <displayForm>Aiba, Shin-Ichiro</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Francis Q.</namePart>
+      <namePart type="family">Brearley</namePart>
+      <displayForm>Brearley, Francis Q.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Charles H.</namePart>
+      <namePart type="family">Cannon</namePart>
+      <displayForm>Cannon, Charles H.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Erik</namePart>
+      <namePart type="family">Meijaard</namePart>
+      <displayForm>Meijaard, Erik</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Hidetoshi</namePart>
+      <namePart type="family">Nagamasu</namePart>
+      <displayForm>Nagamasu, Hidetoshi</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Reuben</namePart>
+      <namePart type="family">Nilus</namePart>
+      <displayForm>Nilus, Reuben</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gary</namePart>
+      <namePart type="family">Paoli</namePart>
+      <displayForm>Paoli, Gary</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Axel D.</namePart>
+      <namePart type="family">Poulsen</namePart>
+      <displayForm>Poulsen, Axel D.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Douglas</namePart>
+      <namePart type="family">Sheil</namePart>
+      <displayForm>Sheil, Douglas</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eizi</namePart>
+      <namePart type="family">Suzuki</namePart>
+      <displayForm>Suzuki, Eizi</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Johan L.C.H.</namePart>
+      <namePart type="family">van Valkenburg</namePart>
+      <displayForm>van Valkenburg, Johan L.C.H.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Campbell O.</namePart>
+      <namePart type="family">Webb</namePart>
+      <displayForm>Webb, Campbell O.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter</namePart>
+      <namePart type="family">Wilkie</namePart>
+      <displayForm>Wilkie, Peter</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stephan</namePart>
+      <namePart type="family">Wulffraat</namePart>
+      <displayForm>Wulffraat, Stephan</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2009-05</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 523-532.</extent>
+      </physicalDescription>
+      <abstract>Identify environmental correlates for tropical tree diversity and
+                composition. Borneo, Southeast Asia. A GIS-environmental database with 5 arc minute
+                (c. 10 x 10 km) resolution was combined with tree inventory data. Tree diversity,
+                phylogenetic diversity (PD) and the two main compositional gradients were determined
+                for 46 tree inventories. Akaike's information criterion and a data jackknifing
+                procedure were used to select 50 explanatory models for diversity and composition
+                gradients. The average of these models was used as our final diversity and
+                compositional model. We applied Moran's I to detect spatial autocorrelation of
+                residuals. Tree diversity, PD and the two main compositional gradients in Borneo
+                were all significantly correlated with the environment. Tree diversity correlated
+                negatively with elevation, soil depth, soil coarseness (texture) and organic carbon
+                content, whereas it correlated positively with soil C:N ratio, soil pH, moisture
+                storage capacity and annual rainfall. Tree PD was correlated positively with
+                elevation and temperature seasonality and was largely determined by gymnosperms.
+                However, angiosperm PD also correlated positive with elevation. Compositional
+                patterns were strongly correlated with elevation but soil texture,
+                cation-exchange-capacity, C:N ratio, C and N content and drainage were also
+                important next to rainfall seasonality and El Niño Southern Oscillation drought
+                impact. Although elevation is the most important correlate for diversity and
+                compositional gradients in Borneo, significant additional variability is explained
+                by soil characteristics (texture, carbon content, pH, depth, drainage and nutrient
+                status) and climate (annual rainfall, rainfall seasonality and droughts). The
+                identified environmental correlates for diversity and composition gradients
+                correspond to those found in other tropical regions of the world. Differences
+                between the regions are mainly formed by differences in the relative importance of
+                the environmental variables in explaining diversity and compositional
+                gradients.</abstract>
+      <subject authority="atg">
+         <topic>El Nino</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon nitrogen ratio</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cation exchange capacity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>databases</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drainage</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inventories</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>nitrogen content</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeny</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rain</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil depth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil pH</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil texture</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>texture</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropics</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Borneo</geographic>
+      </subject>
+      <subject>
+         <topic>floristics</topic>
+      </subject>
+      <subject>
+         <topic>phylogenetic diversity</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1111/j.1472-4642.2009.00557.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Diversity &amp; distributions</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Oxford, UK : Blackwell Publishing Ltd</publisher>
+         </originInfo>
+         <identifier type="issn"/>
+         <identifier type="local">Journal:jnl3867071</identifier>
+         <part>
+            <text>2009 May, v. 15, no. 3 p.523-532</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1472-4642.2009.00557.x</identifier>
+      <identifier type="control">9916296015207426</identifier>
+      <identifier type="agricola">IND44189455</identifier>
+      <extension>
+         <note type="saleTape">20090410 20090508 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2167407</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">090410</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118102628.0</recordChangeDate>
+         <recordIdentifier>9916296015207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

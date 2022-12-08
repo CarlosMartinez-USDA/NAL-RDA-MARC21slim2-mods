@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Extreme mitochondrial population subdivision in southern Appalachian
+        paleoendemic spiders (Araneae: Hypochilidae: Hypochilus), with implications for species
+        delimitation</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Robin</namePart>
+      <namePart type="family">Keith</namePart>
+      <displayForm>Keith, Robin</displayForm>
+      <affiliation>Conservation Education Division, San Diego Zoo Institute for Conservation
+        Research, Escondido, California 92027, USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marshal</namePart>
+      <namePart type="family">Hedin</namePart>
+      <displayForm>Hedin, Marshal</displayForm>
+      <affiliation>Department of Biology, San Diego State University, San Diego, California
+        92182-4614, USA. E-mail:</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2012-08</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 167-181.</extent>
+      </physicalDescription>
+      <abstract>A prior study of molecular phylogenetic relationships in southern
+        Appalachian Hypochilus taxa revealed unusually high intraspecific mitochondrial sequence
+        divergences, but was limited by small intraspecific sample sizes. A subsequent in-depth
+        population genetic study focused on a single species (H. thorelli Marx 1888), revealing
+        genetic patterns consistent with extremely limited female-based gene flow among rock-outcrop
+        limited populations. Here we extend the study of mitochondrial population genetic
+        structuring to four remaining Appalachian Hypochilus species. Genetic inferences are based
+        on a sample of COI mitochondrial sequences generated for over 250 specimens from 85 sampled
+        locations. This geographic sample comprehensively covers the geographic distributions of all
+        described taxa. Phylogenetic, network-based, and genealogical sorting index analyses reveal
+        ubiquitous genetic structuring in all Hypochilus taxa. A majority of sampled locations
+        possess limited genetic variation, with site-specific haplotypes forming genealogically
+        exclusive “microclades”, consistent with limited female-based gene flow at the spatial
+        scales sampled. At deeper phylogenetic levels, four of five described species are recovered
+        as monophyletic on mitochondrial gene trees. Hypochilus pococki Platnick 1987 is recovered
+        as paraphyletic, and is fragmented into five genetically divergent, allopatric phylogroups.
+        These phylogroups, and multiple clades within one of the H. pococki phylogroups, are also
+        recovered as distinct clusters in a generalized mixed Yule-coalescent (GMYC) analysis,
+        suggesting the possibility of multiple cryptic species in the Appalachian fauna. However, a
+        qualitative survey of male palpal variation fails to reveal morphological differences that
+        distinguish these highly divergent genetic lineages. We suggest that a nuclear gene tree
+        perspective is ultimately needed to resolve this contrast.</abstract>
+      <subject authority="atg">
+         <topic>Hypochilus pococki</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fauna</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>founder effect</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>gene flow</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographical distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>haplotypes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>males</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>monophyly</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>paraphyly</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surveys</topic>
+      </subject>
+      <subject>
+         <topic>Cryptic species</topic>
+      </subject>
+      <subject>
+         <topic>genealogical sorting index</topic>
+      </subject>
+      <subject>
+         <topic>GMYC model</topic>
+      </subject>
+      <subject>
+         <topic>population subdivision</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1636%2FA11-49.1</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of arachnology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>American Arachnological Society</publisher>
+         </originInfo>
+         <identifier type="issn">0305-0270 0921-2973 1938-4254 1442-9985 0378-1127 1610-7403 0169-2046 1385-0237 1618-8667 0161-8202</identifier>
+         <identifier type="local">Journal:jnl3243 Journal:jnl9765 Journal:jnl3870067 Journal:19765 Journal:jnl59958 Journal:jnl9013 Journal:jnl3870061 Journal:12405 Journal:jnl55230 Journal:jnl893556 Journal:jnl7320</identifier>
+         <part>
+            <text>2012 Aug., v. 40, no. 2 p.167-181</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1636/A11-49.1</identifier>
+      <identifier type="control">9916292637007426</identifier>
+      <identifier type="agricola">IND601250309</identifier>
+      <extension>
+         <identifier type="local">agid:1250309</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">151101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118065345.0</recordChangeDate>
+         <recordIdentifier>9916292637007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

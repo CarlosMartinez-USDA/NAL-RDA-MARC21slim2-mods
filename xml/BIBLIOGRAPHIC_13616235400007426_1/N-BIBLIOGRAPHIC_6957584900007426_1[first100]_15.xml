@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatiotemporal characterization of megaregional poly-centrality:
+                Evidence for new urban hypotheses and implications for polycentric
+                policies</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Yuhao</namePart>
+      <namePart type="family">Feng</namePart>
+      <displayForm>Feng, Yuhao</displayForm>
+      <affiliation>School of Resource and Environmental Sciences, Wuhan University,
+                Wuhan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shufan</namePart>
+      <namePart type="family">Wu</namePart>
+      <displayForm>Wu, Shufan</displayForm>
+      <affiliation>School of Resource and Environmental Sciences, Wuhan University,
+                Wuhan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peixin</namePart>
+      <namePart type="family">Wu</namePart>
+      <displayForm>Wu, Peixin</displayForm>
+      <affiliation>School of Resource and Environmental Sciences, Wuhan University,
+                Wuhan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Shiliang</namePart>
+      <namePart type="family">Su</namePart>
+      <displayForm>Su, Shiliang</displayForm>
+      <affiliation>School of Resource and Environmental Sciences, Wuhan University,
+                Wuhan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Min</namePart>
+      <namePart type="family">Weng</namePart>
+      <displayForm>Weng, Min</displayForm>
+      <affiliation>School of Resource and Environmental Sciences, Wuhan University,
+                Wuhan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Meng</namePart>
+      <namePart type="family">Bian</namePart>
+      <displayForm>Bian, Meng</displayForm>
+      <affiliation>School of Remote Sensing and Information Engineering, Wuhan
+                University, Wuhan, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2018-09</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 712-731.</extent>
+      </physicalDescription>
+      <abstract>Poly-centrality is an essential feature of megaregions and is
+                generally considered an important source of megaregional vitality and
+                competitiveness. Numerous studies have highlighted the growing trends of
+                poly-centrality across different megaregions worldwide. However, with accelerated
+                urbanization, some observations suggest that the existing polycentric urban theories
+                must be improved and that decision-makers require more knowledge on the potential
+                trends, spatial characteristics and influencing factors of polycentric development
+                to implement sustainable regional governance under this context. This paper proposes
+                a series of hypotheses on spatiotemporal dynamics of polycentric megaregion
+                evolution and verifies them in an empirical study on the Megaregion around Hangzhou
+                Bay (MAHB). A new algorithm, which is applicable for long time series data, is
+                proposed to evaluate and monitor the status of polycentric development in MAHB. In
+                particular, landscape metrics and average nearest neighbor analysis are employed in
+                the first stage of our algorithm which is designed to implement data compression.
+                Then, the gravity model, minimum spanning tree (MST) and weighed betweenness
+                centrality indicator form the second stage which aims to construct and explore the
+                polycentric megaregional network. Results show that: (1) the speed and patterns of
+                built-up land expansion significantly affect the number and distribution of
+                megaregion centers; (2) the value of poly-centrality reaches a maximum in
+                approximately 2013 and then declines, which can be well fitted by a Gaussian curve;
+                and (3) the variation of poly-centrality is successively dominated by an increase
+                and decrease in the number of centers with urbanization. This paper renews the
+                assumptions in current polycentric evolution models and provides evidences for
+                single-peaked change of megaregion center number instead of “wave-like”,
+                “scaling-up” or monotonous change proposed in existing urban theories. The proposed
+                algorithm and assumed mechanisms can also be applied to model and explore
+                poly-centrality dynamics of other megaregions around the world. The results are
+                believed to provide critical implications for polycentric policies.</abstract>
+      <subject authority="atg">
+         <topic>algorithms</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>governance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>issues and policy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>time series analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urbanization</topic>
+      </subject>
+      <subject>
+         <topic>Polycentric structure</topic>
+      </subject>
+      <subject>
+         <topic>Megaregion</topic>
+      </subject>
+      <subject>
+         <topic>Urban expansion</topic>
+      </subject>
+      <subject>
+         <topic>Land use change modeling</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.landusepol.2018.06.022</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Land use policy</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">0264-8377</identifier>
+         <identifier type="local">Journal:12412</identifier>
+         <identifier type="local">Journal:12412</identifier>
+         <part>
+            <text>2018 Sept., v. 77 p.712-731</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.landusepol.2018.06.022</identifier>
+      <identifier type="control">9916293466107426</identifier>
+      <identifier type="agricola">IND606119146</identifier>
+      <extension>
+         <identifier type="local">agid:6119146</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190719</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118073608.0</recordChangeDate>
+         <recordIdentifier>9916293466107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

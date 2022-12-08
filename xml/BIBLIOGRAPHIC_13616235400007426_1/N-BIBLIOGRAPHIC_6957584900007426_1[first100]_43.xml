@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Predicting effects of habitat destruction on plant communities: a
+                test of a model using amazonian trees</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">William F.</namePart>
+      <namePart type="family">Laurance</namePart>
+      <displayForm>Laurance, William F.</displayForm>
+      <affiliation>Biological Dynamics of Forest Fragments Project, National Institute
+                for Research in the Amazon, C.P. 478, Manaus, AM 69011-970 Brazil; Biodiversity
+                Program, National Museum of Natural History, Smithsonian Institution, Washington,
+                D.C. 20560 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Claude</namePart>
+      <namePart type="family">Gascon</namePart>
+      <displayForm>Gascon, Claude</displayForm>
+      <affiliation>Biological Dynamics of Forest Fragments Project, National Institute
+                for Research in the Amazon, C.P. 478, Manaus, AM 69011-970 Brazil; Biodiversity
+                Program, National Museum of Natural History, Smithsonian Institution, Washington,
+                D.C. 20560 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Judy M.</namePart>
+      <namePart type="family">Rankin-de Merona</namePart>
+      <displayForm>Rankin-de Merona, Judy M.</displayForm>
+      <affiliation>Biological Dynamics of Forest Fragments Project, National Institute
+                for Research in the Amazon, C.P. 478, Manaus, AM 69011-970 Brazil</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1999-05</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 548-554.</extent>
+      </physicalDescription>
+      <abstract>We devised a “random‐clearing model” to predict effects of habitat
+                loss on plant communities and populations. The model yields the probability that a
+                species will be extirpated by land clearing, based on only two parameters: its
+                density and the percentage of the landscape that has been cleared. It can also be
+                used to predict species richness of plant communities following clearing, so long as
+                densities of individual species are known. We tested the model using data on the
+                distributions of 200 tree species (≥10 cm dbh) within two 9‐ha experimental
+                landscapes in central Amazonia. Deforestation levels ranging from 20% to 99% of the
+                landscape were simulated randomly, with the actual persistence of each species being
+                the number of times it remained in the landscape after 1000 runs. The model was
+                effective in all cases, explaining 83–99% of the total variability in species
+                persistence on each plot. Species’ distribution patterns explained some residual
+                variation in persistence but were of negligible importance compared to the
+                predictions of the model. We also used the model to predict species richness,
+                simulating both random and realistically contagious patterns of deforestation.
+                Again, the model was highly effective, explaining 96% to 98% of the total variation
+                in richness. Surprisingly, there was little difference in richness between random
+                and contagious clearing patterns. These results suggest that, at least at the
+                limited spatial scale of our analysis, the effects of deforestation on plant
+                persistence and richness can be predicted using a simple model that assumes random
+                species distributions and deforestation patterns. The model makes four predictions:
+                (1) Density has an overriding influence on the susceptibility of species to
+                clearing, while distribution patterns are usually of much lesser importance. (2) The
+                relationship between density and persistence is nonlinear. (3) Rare species (≤1
+                tree/ha) become exceptionally vulnerable in heavily degraded landscapes and in small
+                forest remnants. (4) The distinction between high (e.g., 95%) and very high (e.g.,
+                99%) levels of habitat clearing in terms of species persistence is often
+                dramatic.</abstract>
+      <note>JOURNAL ARTICLE</note>
+      <note>2019-12-04</note>
+      <subject authority="atg">
+         <topic>simulation models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>deforestation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>community ecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecology</topic>
+      </subject>
+      <subject>
+         <topic>mathematical models</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1890/1051-0761(1999)009%5B0548:PEOHDO%5D2.0.CO;2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological applications</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Ecological Society of America</publisher>
+         </originInfo>
+         <identifier type="issn"/>
+         <identifier type="local">Journal:jnl47193</identifier>
+         <identifier type="local">Journal:jnl47193</identifier>
+         <part>
+            <text>1999 May, v. 9, no. 2 p.548-554</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1890/1051-0761(1999)009[0548:PEOHDO]2.0.CO;2</identifier>
+      <identifier type="control">9916299185507426</identifier>
+      <identifier type="agricola">IND21990901</identifier>
+      <extension>
+         <identifier type="local">agid:2012667</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">180321</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055842.0</recordChangeDate>
+         <recordIdentifier>9916299185507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

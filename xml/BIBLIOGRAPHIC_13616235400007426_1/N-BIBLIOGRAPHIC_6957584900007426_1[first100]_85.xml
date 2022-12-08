@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial Distribution of Organic Matter and Nitrogen in the Entic
+                Podzols of the Prioksko-Terrasnyi Reserve and Its Relationship with the Structure of
+                Forest Phytocenoses</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">I. V.</namePart>
+      <namePart type="family">Priputina</namePart>
+      <displayForm>Priputina, I. V.</displayForm>
+      <affiliation>Institute of Physicochemical and Biological Problems of Soil Science,
+                142290, Pushchino, Russia. priputina@pbcras.ru</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">G. G.</namePart>
+      <namePart type="family">Frolova</namePart>
+      <displayForm>Frolova, G. G.</displayForm>
+      <affiliation>Institute of Physicochemical and Biological Problems of Soil Science,
+                142290, Pushchino, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">V. N.</namePart>
+      <namePart type="family">Shanin</namePart>
+      <displayForm>Shanin, V. N.</displayForm>
+      <affiliation>Institute of Physicochemical and Biological Problems of Soil Science,
+                142290, Pushchino, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T. N.</namePart>
+      <namePart type="family">Myakshina</namePart>
+      <displayForm>Myakshina, T. N.</displayForm>
+      <affiliation>Institute of Physicochemical and Biological Problems of Soil Science,
+                142290, Pushchino, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">P. Ya</namePart>
+      <namePart type="family">Grabarnik</namePart>
+      <displayForm>Grabarnik, P. Ya</displayForm>
+      <affiliation>Institute of Physicochemical and Biological Problems of Soil Science,
+                142290, Pushchino, Russia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2020-08</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1021-1032.</extent>
+      </physicalDescription>
+      <abstract>Estimates of the spatial heterogeneity of the organic matter
+                distribution in forest soils determined by the influence of the species and spatial
+                structure of phytocenoses are relevant for many environmental problems, including
+                the calculation of carbon sinks and modeling of the dynamics of forest ecosystems.
+                We analyzed the data on the organic carbon (Cₒᵣg) and total nitrogen (Nₜₒₜ) contents
+                in the O (forest litter) and AY (humus) horizons of Entic Podzols in the
+                Prioksko-Terrasnyi Reserve (54.89° N, 37.56° E). The studied site is located in a
+                coniferous–deciduous forest formed after overgrowing of the cutting area of pine
+                stands. We sampled the O and AY horizons along transects between trees of different
+                species, i.e., near the trunks, under the crown, and in the intercrown space. The
+                contents of Cₒᵣg and Nₜₒₜ in the O horizon varied within 17.6–44.9 and 0.84–1.79%,
+                respectively. The ranges for the AY horizon were greater: 0.71–8.5% (Cₒᵣg) and
+                0.035–0.33% (Nₜₒₜ). The relationship between the contents of Cₒᵣg and Nₜₒₜ in the O
+                and AY horizons was close to linear (rₛ = 0.72 and rₛ = 0.96, respectively). We also
+                obtained similar C : N ratios for the both horizons. The litter thickness and the
+                content of Nₜₒₜ in the O horizon, as well as the content of Cₒᵣg in the AY horizon,
+                significantly differed in different parts of the transects (P &lt; 0.05). The
+                differences in the litter thickness and the Cₒᵣg content in the O horizon under the
+                crowns of different tree species were also significant. In samples from the AY
+                horizon taken in intercrown spaces, the Nₜₒₜ content correlated with the demand of
+                plant species of the ground cover for soil fertility. The data obtained reflect the
+                influence of specific features of spatial patterns of surface and root litterfall in
+                multispecies communities of mixed forest stands on the spatial variability of Cₒᵣg
+                and Nₜₒₜ contents in soil.</abstract>
+      <note>NAL-AP-2-clean</note>
+      <subject authority="atg">
+         <topic>Podzols</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest litter</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>humus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mixed forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>nitrogen</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>organic carbon</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>organic horizons</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil fertility</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>total nitrogen</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1134/S1064229320080128</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Eurasian soil science</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Pleiades Publishing</publisher>
+         </originInfo>
+         <identifier type="issn">1064-2293</identifier>
+         <identifier type="local">Journal:jnl3978911</identifier>
+         <identifier type="local">Journal:jnl3978911</identifier>
+         <part>
+            <text>2020 Aug., v. 53, no. 8 p.1021-1032</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1134/S1064229320080128</identifier>
+      <identifier type="control">9916308189207426</identifier>
+      <identifier type="agricola">IND607092455</identifier>
+      <extension>
+         <identifier type="local">agid:7092455</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">200904</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118064602.0</recordChangeDate>
+         <recordIdentifier>9916308189207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

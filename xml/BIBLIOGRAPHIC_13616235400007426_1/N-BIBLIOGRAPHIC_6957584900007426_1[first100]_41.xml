@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>INTEGRATION OF GIS DATA AND CLASSIFIED SATELLITE IMAGERY FOR REGIONAL
+                FOREST ASSESSMENT</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Hong S.</namePart>
+      <namePart type="family">He</namePart>
+      <displayForm>He, Hong S.</displayForm>
+      <affiliation>Department of Forest Ecology and Management, University of
+                Wisconsin–Madison, 1630 Linden Drive, Madison, Wisconsin 53706-1598 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">David J.</namePart>
+      <namePart type="family">Mladenoff</namePart>
+      <displayForm>Mladenoff, David J.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Volker C.</namePart>
+      <namePart type="family">Radeloff</namePart>
+      <displayForm>Radeloff, Volker C.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Thomas R.</namePart>
+      <namePart type="family">Crow</namePart>
+      <displayForm>Crow, Thomas R.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1998-11</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1072-1083.</extent>
+      </physicalDescription>
+      <abstract>New methods are needed to derive detailed spatial environmental data
+                for large areas, with the increasing interest in landscape ecology and ecosystem
+                management at large scales. We describe a method that integrates several data
+                sources for assessing forest composition across large, heterogeneous landscapes.
+                Multitemporal Landsat Thematic Mapper (TM) satellite data can yield forest
+                classifications with spatially detailed information down to the dominant canopy
+                species level in temperate deciduous and mixed forests. We stratified a large region
+                (10⁶ ha) by ecoregions (10³–10⁴ ha). Within each ecoregion, plot‐level, field
+                inventory data were aggregated to provide information on secondary and sub‐canopy
+                tree species occurrence, and tree age class distributions. We derived a
+                probabilistic algorithm to assign information from a point coverage (forest
+                inventory sampling points) and a polygon coverage (ecoregion boundaries) to a raster
+                map (satellite land cover classification). The method was applied to a region in
+                northern Wisconsin, USA. The satellite map captures the occurrence and the patch
+                structure of canopy dominants. The inventory data provide important secondary
+                information on age class and associated species not available with current canopy
+                remote sensing. In this way we derived new maps of tree species distribution and
+                stand age reflecting differences at the ecoregion scale. These maps can be used in
+                assessing forest patterns across regional landscapes, and as input data in models to
+                examine forest landscape change over time. As an example, we discuss the
+                distribution of eastern white pine (Pinus strobus) as an associated species and its
+                potential for restoration in our study region. Our method partially fills a current
+                information gap at the landscape scale. However, its applicability is also limited
+                to this scale.</abstract>
+      <subject authority="atg">
+         <topic>geographic information systems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mixed forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>deciduous forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest inventory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Landsat</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Wisconsin</geographic>
+      </subject>
+      <subject>
+         <topic>thematic mapper</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1890/1051-0761(1998)008%5B1072:IOGDAC%5D2.0.CO;2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological applications</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Ecological Society of America</publisher>
+         </originInfo>
+         <identifier type="issn"/>
+         <identifier type="local">Journal:jnl47193</identifier>
+         <part>
+            <text>1998 Nov., v. 8, no. 4 p.1072-1083</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1890/1051-0761(1998)008[1072:IOGDAC]2.0.CO;2</identifier>
+      <identifier type="control">9916299164207426</identifier>
+      <identifier type="agricola">IND21964405</identifier>
+      <extension>
+         <note type="saleTape">19990131 19990208 00000000</note>
+         <note type="indexer">IND RF1</note>
+         <note type="publicationSource">Other US</note>
+         <identifier type="local">agid:2012609</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">990113</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055912.0</recordChangeDate>
+         <recordIdentifier>9916299164207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

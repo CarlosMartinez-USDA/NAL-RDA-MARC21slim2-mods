@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <record>
+    <leader>03510nab a2200613 u 4500</leader>
+    <controlfield tag="001">9916288966107426</controlfield>
+    <controlfield tag="005">20221118121758.0</controlfield>
+    <controlfield tag="008">981119e199804 mdu|||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND21811969</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1093/ee/27.2.355</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:1408166-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">McCravy, K.W.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in
+        relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and
+        location</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 355-359.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">2019-12-04</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Patterns of parasitism by Trichogramma spp. relative to density and
+        location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined
+        during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg
+        densities were adjusted by temporarily enclosing trees in fine mesh screen cages and
+        introducing different numbers of tip moths. After exposing eggs to naturally occurring
+        parasitoids, all shoots were removed, and eggs were counted and evaluated for parasitism.
+        Tip moth egg densities ranged from 203 to 2,579 per tree for the spring generation, and from
+        1 to 89 per tree for the summer generation. Tip moths deposited significantly greater
+        numbers of eggs on needles than shoots on high- versus low-egg-density trees. Overall
+        parasitism rates were 37.2 and 43.3% for spring- and summer-generation eggs, respectively.
+        Parasitism was density independent at the whole-tree level in both generations, but
+        spring-generation parasitism was strongly inversely density dependent in the top whorl.
+        Numbers of eggs per needle fascicle ranged from 1 to 15 for spring-generation trees. Actual
+        numbers of parasitized eggs per discovered fascicle (one on which parasitism occurred)
+        increased with egg density, but the percentage of parasitized eggs decreased. Egg density
+        had no effect on fascicle discovery. These factors produced an inversely density-dependent
+        relationship between egg parasitism and density at the fascicle level. Eggs located on
+        shoots suffered significantly greater parasitism rates than those on needles. Implications
+        of these results are discussed.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">parasitism</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">parasitoids</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Rhyacionia frustrana</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ova</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spatial distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">host-parasite relationships</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">conifer needles</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seasonal variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Pinus taeda</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">density</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Trichogramma</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">shoots</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Georgia</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">parasites</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">host location</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">parasites of insect pests</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Berisford, C.W.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Environmental entomology.</subfield>
+      <subfield code="g">1998 Apr., v. 27, no. 2 p.355-359</subfield>
+      <subfield code="x">0046-225X</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl3243</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1093/ee/27.2.355</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl3243</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Environ. entomol</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="930" ind1=" " ind2=" ">
+      <subfield code="a">19990101</subfield>
+      <subfield code="b">19990111</subfield>
+      <subfield code="c">00000000</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND21811969</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="945" ind1=" " ind2=" ">
+      <subfield code="a">IND</subfield>
+      <subfield code="d">NZM</subfield>
+    </datafield>
+    <datafield tag="946" ind1=" " ind2=" ">
+      <subfield code="a">Other US</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="a">19990101 19990111 00000000</subfield>
+      <subfield code="b">IND NZM </subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:1408166</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2014-12-25</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.95 2014/04/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">3315514</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04289nab a2200565 u 4500</leader>
+    <controlfield tag="001">9916289322707426</controlfield>
+    <controlfield tag="005">20221118052810.0</controlfield>
+    <controlfield tag="008">110617s2011 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND44591654</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/j.1365-2699.2011.02505.x</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:644025-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Webb, Edward L.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Frequent, low-amplitude disturbances drive high tree turnover rates on a
+        remote, cyclone-prone Polynesian island</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 1240-1252.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">2019-12-06</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Aim How important are frequent, low-intensity disturbances to tree
+        community dynamics of a cyclone-prone forest? We tested the following hypotheses concerning
+        the ‘inter-cataclysm' period on a remote Polynesian island: (1) tree turnover would be high
+        and recruitment rates would be significantly higher than mortality; (2) low-intensity
+        disturbance would result in a marginal increase in tree mortality in the short term; (3)
+        turnover would vary among species and would be associated with plant traits linked to
+        differences in life history; and (4) mortality and recruitment events would be spatially
+        non-random. Location Tutuila, a volcanic island in the Samoan Archipelago, Polynesia.
+        Methods We censused the tree (stem diameter ≥ 10 cm) community in 3.9 ha of tropical forest
+        three times over a 10-year period, 1998-2008. We calculated annual mortality, recruitment
+        and turnover rates for 36 tree species. We tested for non-random spatial patterns and
+        predictors of mortality, and non-random spatial patterns of tree recruitment. A 2004 cyclone
+        passing within 400 km allowed us to measure the effects of a non-cataclysmic disturbance on
+        vital rates. Results Annual turnover was 2.8% and annual recruitment was 3.6%; these are
+        some of the highest rates in the tropics, and likely to be a response to a cyclone that
+        passed &lt; 50 km from Tutuila in 1991. Species turnover rates over 10 years were negatively
+        correlated with wood specific gravity, and positively correlated with annual stem diameter
+        increment. Mortality was spatially aggregated, and a function of site, species and an
+        individual's growth rate. Recruitment was highest on ground with low slope. The
+        low-magnitude cyclone disturbance in 2004 defoliated 29% of all trees, but killed only 1.8%
+        of trees immediately and increased annual mortality over 5 years by 0.7%. Main conclusions
+        The inter-cataclysm period on Tutuila is characterized by frequent, low-amplitude
+        disturbances that promote high rates of tree recruitment and create a dynamic,
+        non-equilibrium or disturbed island disequilibrium tree community. Species with low wood
+        density and fast growth rates have enhanced opportunities for recruitment between
+        cataclysms, but also higher probabilities of dying. Our results suggest that increases in
+        the frequency of cyclone activity could shift relative abundances towards
+        disturbance-specialist species and new forest turnover rates.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">correlation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">life history</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">wood density</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">wood</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tropical forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">specific gravity</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree mortality</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">mortality</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">recruitment</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Seamon, Joshua O.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Fa'aumu, Siaifoi</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of biogeography.</subfield>
+      <subfield code="g">2011 July, v. 38, no. 7 p.1240-1252</subfield>
+      <subfield code="d">Blackwell Publishing Ltd</subfield>
+      <subfield code="x">0305-0270</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl9765</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/j.1365-2699.2011.02505.x</subfield>
+      <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl9765</subfield>
+      <subfield code="b">0305-0270</subfield>
+      <subfield code="c">38</subfield>
+      <subfield code="d">7</subfield>
+      <subfield code="e">1240</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of biogeography</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND44591654</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2014-06-27</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:574 annotated on 2014-06-10T15:15:01Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:574 reviewed on 2014-06-27T11:00:02Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:574 reviewed on 2014-06-27T16:00:02Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:644025</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2011-06-17</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.94 2014/02/21)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">4591654</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04858nab a2200685 u 4500</leader>
+    <controlfield tag="001">9916289329007426</controlfield>
+    <controlfield tag="005">20221118052742.0</controlfield>
+    <controlfield tag="008">200412e202004 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606884549</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1007/s10980-020-00983-0</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6884549-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Jeronimo, Sean M. A.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Environmental and Forest Sciences, College of the Environment,
+        University of Washington, Box 352100, Seattle, WA, 98195, USA. jeronimo@uw.edu</subfield>
+      <subfield code="1">https://orcid.org/0000-0002-3987-4544</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Burn weather and three-dimensional fuel structure determine post-fire tree
+        mortality</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 859-878.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">CONTEXT: Post-fire tree mortality is a spatially structured process driven
+        by interacting factors across multiple scales. However, empirical models of fire-caused tree
+        mortality are generally not spatially explicit, do not differentiate among scales, and do
+        not differentiate immediate from delayed mortality. OBJECTIVES: We aimed to quantify
+        cross-scale linkages between forest structure—including spatial patterns of trees—and the
+        progression of mortality 1–4 years post-fire in terms of rates, causes, and underlying
+        demography. METHODS: We used data from a long-term study site in the Sierra Nevada,
+        California to build a post-fire tree mortality model predicted by lidar-measured estimates
+        of structure. We calculated structural metrics at scales from individual trees to 90 × 90 m
+        neighborhoods and combined them with metrics for topography, site water balance, and burn
+        weather to predict immediate and delayed post-fire tree mortality. RESULTS: Mortality rates
+        decreased while average diameter of newly killed trees increased each year post-fire. Burn
+        weather predictors as well as interactive terms across scales improved model fit and
+        parsimony. Including landscape-scale information improved finer-scale predictions but not
+        vice versa. The amount of fuel, fuel configuration, and burning conditions predicted total
+        mortality at broader scales while tree group-scale fuel connectivity, tree species fire
+        tolerance, and local stresses predicted the fine-scale distribution, timing, and agents of
+        mortality. CONCLUSIONS: Landscape-scale conditions provide the template upon which
+        finer-scale variation in post-fire tree mortality is arranged. Post-fire forest structure is
+        associated with the etiologies of different mortality agents, and so landscape-level
+        heterogeneity is a key part of ecosystem stability and resilience.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">Grant 16-1-04-02</subfield>
+      <subfield code="c">Joint Fire Science Program</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">Project 1153</subfield>
+      <subfield code="c">Utah Agricultural Experiment Station</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">Project 1398</subfield>
+      <subfield code="c">Utah Agricultural Experiment Station</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">burning</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">demography</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ecological balance</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">empirical models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fire resistance</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fuels</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">mortality</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">mountains</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">prediction</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">topography</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tree mortality</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">weather</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">California</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Lutz, James A.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Wildland Resources Department, Quinney College of Natural Resources, Utah
+        State University, 5230 Old Main Hill, Logan, UT, 84322, USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">R. Kane, Van</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Environmental and Forest Sciences, College of the Environment,
+        University of Washington, Box 352100, Seattle, WA, 98195, USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Larson, Andrew J.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">W.A. Franke College of Forestry and Conservation, University of Montana, 32
+        Campus Drive, Missoula, MT, 59802, USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Franklin, Jerry F.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Environmental and Forest Sciences, College of the Environment,
+        University of Washington, Box 352100, Seattle, WA, 98195, USA</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Landscape ecology.</subfield>
+      <subfield code="g">2020 Apr., v. 35, no. 4 p.859-878</subfield>
+      <subfield code="d">Springer Netherlands</subfield>
+      <subfield code="w">Journal:jnl3870067</subfield>
+      <subfield code="x">0921-2973</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl3870067</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1007/s10980-020-00983-0</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl3870067</subfield>
+      <subfield code="b">0921-2973</subfield>
+      <subfield code="c">35</subfield>
+      <subfield code="d">4</subfield>
+      <subfield code="e">859</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Landscape ecology</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2523</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Springer</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606884549</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2020-07-21</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/springer/ftp_PUB_20-04-12_05-19-07.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/springer/10980-35-4.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/springer/</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:2523 reviewed on 2020-07-21T04:00:04Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6884549</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2020-04-12</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2020-07-21</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03246nab a2200433 u 4500</leader>
+    <controlfield tag="001">9916290441907426</controlfield>
+    <controlfield tag="005">20221118055346.0</controlfield>
+    <controlfield tag="008">151127e201004 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND601306789</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1525/auk.2009.09077</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:1306789-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Petruskováá, Tereza</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Ecology, Faculty of Science, Charles University in Prague,
+        Viniččnáá 7, CZ-12844 Prague 2, Czech Republic</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Geographic Variation in Songs of the Tree Pipit (Anthus trivialis) at Two
+        Spatial Scales</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 274-282.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">We studied geographic as well as individual variation of songs in five
+        Czech populations of the Tree Pipit (Motacillidae: Anthus trivialis), a passerine bird with
+        a medium-sized syllable repertoire and complex song. We focused on repertoire composition at
+        the level of syllables (the smallest invariant song units) and of structures that are
+        potentially important in recognition among individuals (i.e., bi-syllables, or regular
+        repetitions of two different syllables) and among populations (introductory phrases). We
+        tested the hypotheses that the repertoires reflect local dialects (i.e., different male
+        origins) and that within-site similarities of male repertoires are distance dependent. The
+        populations studied differed significantly in all analyzed characteristics. Male origin
+        explained ∼∼18% of the variation in individual syllable repertoires. However, no clear
+        within-site geographic structure in repertoire similarity was observed, either between
+        closest neighbors or on larger scales. We observed a tendency for increased syllable sharing
+        among males in a small and dense isolated population, which is consistent with recent
+        studies that suggest the existence of strong effects of habitat fragmentation on geographic
+        patterns of song variation. High individual variation was observed in bi-syllable
+        repertoires, but whether this facilitates individual recognition is unknown and in need of
+        further study.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Anthus trivialis</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">complex song</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">individual recognition</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">local dialects</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">repertoire similarity</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Tree Pipit</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Osiejuk, Tomasz S.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Behavioural Ecology, Institute of Environmental Biology,
+        Faculty of Biology, Adam Mickiewicz University, Umultowska 89, PL-61614 Poznańń,
+        Poland</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Petrusek, Adam</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Ecology, Faculty of Science, Charles University in Prague,
+        Viniččnáá 7, CZ-12844 Prague 2, Czech Republic</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Auk.</subfield>
+      <subfield code="g">2010 Apr., v. 127, no. 2 p.274-282</subfield>
+      <subfield code="d">University of California Press</subfield>
+      <subfield code="x">1938-4254</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)19765</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1525%2Fauk.2009.09077</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:19765</subfield>
+      <subfield code="b">1938-4254</subfield>
+      <subfield code="c">127</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">274</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Auk</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">hold</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">BioOne</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND601306789</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">TAUKv127i2-04290036-174909.zip</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:1306789</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2015-11-27</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2015-11-27</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04177nab a2200685 u 4500</leader>
+    <controlfield tag="001">9916290782307426</controlfield>
+    <controlfield tag="005">20221118055703.0</controlfield>
+    <controlfield tag="008">180327e201804 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND605920367</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1111/aec.12556</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:5920367-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Silveira, Andréa Pereira</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Is the spatial pattern of a tree population in a seasonally dry tropical
+        climate explained by density‐dependent mortality?</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 191-202.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">JOURNAL ARTICLE</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Spatial pattern of tropical plants is initially generated by limited seed
+        dispersal, but the role of density‐dependent and independent mechanisms as modifiers of
+        these patterns across ontogeny is poorly understood. We investigated whether
+        density‐dependent mortality (DDM) and environmental heterogeneity can drive spatial pattern
+        across the ontogeny of a tree in a seasonally dry tropical climate. We used Moran's I
+        correlograms and spatial analysis by distance indices (SADIE) to assess the spatial patterns
+        of the pre‐ and post‐germinative stages of Cordia oncocalyx (Boraginaceae), an abundant tree
+        endemic in the deciduous thorny woodland in the northeastern Brazilian semiarid region. We
+        also used RDA to analyse the effect of DDM and environmental heterogeneity (measured by
+        microtopography and canopy openness) in the mortality and recruitment. Seeds, seedlings,
+        juveniles and adults showed aggregated spatial patterns; infants and immatures were randomly
+        distributed; adults, seeds and seedlings attracted each other while adult, juveniles and
+        immatures repulsed each other. Infant and seedling mortality rates were related to DDM and
+        the recruitment from infant to juvenile was more influenced by spatial heterogeneity.
+        Attraction was determined by local dispersal; repulsion was related to DDM and environment
+        heterogeneity, which allowed the return to aggregation in adult stage. Together, these
+        results indicated that spatial pattern can change across ontogeny, in which the initial
+        stages are responsive to DDM and the final stages are influenced by spatial
+        heterogeneity.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Cordia</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">adults</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">immatures</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">infants</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">juveniles</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">microrelief</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">mortality</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ontogeny</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seed dispersal</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seedlings</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seeds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">semiarid zones</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spatial variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tropical plants</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">tropics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">woodlands</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Martins, Fernando Roberto</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Plant Biology, Institute of Biology, University of Campinas –
+        UNICAMP, Campinas, SP, Brazil</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Menezes, Bruno Sousa</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Graduate Course in Ecology and Natural Resources, Department of Biology,
+        Federal University of Ceará – UFC, Fortaleza, CE, Brazil</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Araújo, Francisca Soares</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Graduate Course in Ecology and Natural Resources, Department of Biology,
+        Federal University of Ceará – UFC, Fortaleza, CE, Brazil</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Austral ecology.</subfield>
+      <subfield code="g">2018 Apr., v. 43, no. 2 p.191-202</subfield>
+      <subfield code="d">John Wiley &amp; Sons, Ltd</subfield>
+      <subfield code="w">Journal:jnl59958</subfield>
+      <subfield code="x">1442-9985</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl59958</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1111/aec.12556</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl59958</subfield>
+      <subfield code="b">1442-9985</subfield>
+      <subfield code="c">43</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">191</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Austral ecology</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1967</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">John Wiley &amp; Sons, Inc</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND605920367</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2018-05-04</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/wiley/14429985_2018_43_2.xml</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/wiley/14429985_2018_43_2.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/wiley/</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1967 reviewed on 2018-05-04T09:00:03Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:5920367</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2018-03-27</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2018-05-04</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04148nab a2200625 u 4500</leader>
+    <controlfield tag="001">9916290827507426</controlfield>
+    <controlfield tag="005">20221118060928.0</controlfield>
+    <controlfield tag="008">210911e20211101xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND607482949</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.foreco.2021.119595</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:7482949-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Dangerfield, Cody R.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Wildland Resources, Utah State University, 5200 Old Main
+        Hill, Logan, UT 843222, United States</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Long-term impacts of road disturbance on old-growth coast redwood
+        forests</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">In forest ecosystems, road expansions and other landcover changes create
+        abrupt artificial boundaries that alter the microclimate along the forest edge, potentially
+        impacting growth and physiology of bordering trees. To understand how previous landcover
+        changes and road installations have affected coast redwoods (Sequoia sempervirens), we used
+        dendroecological methods to contrast tree-ring growth patterns and stable isotopes (Δ¹³C) of
+        redwoods before and after a known disturbance event, the expansion of Highway 101 in the
+        1950s, that bisected several old-growth stands of Humboldt Redwoods State Park. Increment
+        cores were extracted from redwoods in old-growth stands that bordered the highway and other
+        forest edges (secondary forests and agricultural fields) as well as two control areas.
+        Disturbance detection methods and dendroclimatic modeling were then employed to determine
+        whether the expansion led to growth suppression and elevated water stress. Tree-ring growth
+        data indicated that the construction of Highway 101 disproportionately impacted the growth
+        of trees that were within 30 m of the highway and that these effects were particularly
+        elevated in trees that currently exhibit crown dieback. Similarly, climatic modeling of
+        tree-ring Δ¹³C data indicated that highway adjacent trees also experienced elevated water
+        stress for several decades following the construction of the highway. By analyzing tree-ring
+        data of redwoods within Humboldt Redwoods State Park, here we provide critical insight to
+        the temporal and spatial implications of the habitat fragmentation and road installation
+        that has been nearly ubiquitous in the redwood distribution since Euro-American
+        settlement.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Sequoia sempervirens</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">administrative management</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">coasts</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">dendroecology</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">dieback</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">edge effects</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">growth rings</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitat fragmentation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">land cover</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">microclimate</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">physiology</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">state parks</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">water stress</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Growth suppressions</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Disturbance</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Carbon isotope discrimination</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Voelker, Steve L.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">College of Forest Resources and Environmental Science, Michigan
+        Technological University, 178 Noblet Building, Houghton, MI 49931, United States</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Lee, Christopher A.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">California Department of Forestry and Fire Protection, 118 S. Fortuna
+        Blvd., Fortuna, CA 95540, United States</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Forest ecology and management.</subfield>
+      <subfield code="g">2021 Nov. 01, v. 499 p.119595-</subfield>
+      <subfield code="d">Elsevier B.V.</subfield>
+      <subfield code="w">Journal:jnl9013</subfield>
+      <subfield code="x">0378-1127</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl9013</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1016/j.foreco.2021.119595</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl9013</subfield>
+      <subfield code="b">0378-1127</subfield>
+      <subfield code="c">499</subfield>
+      <subfield code="e">119595</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Forest ecology and management</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:10191</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier Consyn</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND607482949</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-22</subfield>
+    </datafield>
+    <datafield tag="952" ind1=" " ind2=" ">
+      <subfield code="d">NAL-AP-2-clean</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/incoming/consyn/355906199649454918-00003-HEAD-ONLY-NEW
+        CONSYN ISSNS.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/consyn/S037811272100685X.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/consyn/</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:7482949</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2021-09-11</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2022-02-17</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03384nab a2200577 u 4500</leader>
+    <controlfield tag="001">9916291268107426</controlfield>
+    <controlfield tag="005">20221118060858.0</controlfield>
+    <controlfield tag="008">200513e19970501xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND606945091</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1007/BF02348474</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:6945091-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Itô, Hiroki</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Kansai Research Center, Forestry and Forest Products Research Institute,
+        Kyoto 612, Japan</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Crown Shape of an Evergreen Oak, Quercus glauca, in a Hardwood
+        Community</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 85-88.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">NAL-AP-2-clean</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">The spatial pattern of the crown spread of Quercus glauca in a hardwood
+        community was investigated in order to consider the effect of the patterns on its survival
+        in a secondary hardwood community. The shape of a crown was defined by the spatial spread of
+        the leaves (PCM crown), and by the spread of their branches (elliptic cylinder crown). The
+        stem volume growth rate of a tree was strongly correlated with the corresponding total leaf
+        area, which was then significantly correlated with the defined crown volume. This indicated
+        that the stem volume growth depended on the crown volume as well as the total leaf area. An
+        increase in leaf area was largely attained by the spatial volume of the crown, not by an
+        increase in the leaf area density. The leaves inside the crown began to spread horizontally
+        relative to the crown size as the total leaf area and tree size increased. On the other
+        hand, for the crowns representing the branch spread, the crown shape (crown width/depth
+        ratio) did not differ by internal leaf area and tree size. Such a spatial pattern was likely
+        to be adaptive for a species that dominates at a mid-stage of secondary sere.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Quercus glauca</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">hardwood</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">leaf area</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">research</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">crown shape</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">hardwood community</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">probe cylinder method</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">stem volume growth</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Sumida, Akihiro</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Kansai Research Center, Forestry and Forest Products Research Institute,
+        Kyoto 612, Japan</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Isagi, Yuji</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Kansai Research Center, Forestry and Forest Products Research Institute,
+        Kyoto 612, Japan</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kamo, Koichi</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Forestry and Forest Products Research Institute, Ibaraki 305,
+        Japan</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of forest research.</subfield>
+      <subfield code="g">1997 May 1, v. 2, no. 2 p.85-88</subfield>
+      <subfield code="d">Taylor &amp; Francis</subfield>
+      <subfield code="w">Journal:jnl3870061</subfield>
+      <subfield code="x">1610-7403</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl3870061</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1007/BF02348474</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl3870061</subfield>
+      <subfield code="b">1610-7403</subfield>
+      <subfield code="c">2</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">85</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of forest research</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:10097</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Taylor &amp; Francis Group</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND606945091</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2021-04-19</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a"
+        >/data/metadata/incoming/taylorfrancis/tjfr20_tjfr20.v002.i02_20200416213814#20046483.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a">file:/data/metadata/staging/taylorfrancis/BF02348474.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/taylorfrancis/</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:6945091</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2020-05-13</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2021-04-19</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04008nab a2200721 u 4500</leader>
+    <controlfield tag="001">9916291392207426</controlfield>
+    <controlfield tag="005">20221118062513.0</controlfield>
+    <controlfield tag="008">141101e20110228xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND600840224</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.landurbplan.2010.11.001</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:840224-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Fernandes, Maria R.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Forest Research Centre, Instituto Superior de Agronomia, Tapada da Ajuda,
+        1349-017 Lisbon, Portugal</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Assessing riparian vegetation structure and the influence of land use using
+        landscape metrics and geostatistical tools</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 166-177.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Riparian areas are among the most threatened habitats in the world, due to
+        human activities and land use in adjacent areas. In this study we sought to identify
+        landscape metrics for describing the spatial patterns of riparian vegetation affected by
+        land use. We also hypothesize that land use in the immediate vicinity of the riparian area
+        (considered as a 30-m buffer) can have a greater effect on the structure of riparian
+        vegetation than that in an enlarged buffer (i.e. 200m). The study was conducted in the
+        highly humanized River Tagus watershed (Central Portugal; Western Iberia), along over 80km
+        of river stretches. Riparian vegetation and land use data were obtained from high-resolution
+        digital images (RGB-NIR 0.5m×0.5m, spring 2005). Patch analyst was used to calculate
+        landscape metrics related to the spatial configuration, isolation, inter-connectivity, and
+        distribution of patches of three riparian cover classes (tree, shrub, and herbaceous). We
+        quantified and accounted for the global and local spatial autocorrelation of data. Data
+        treatment included redundancy analysis and geostatistic methods. Results showed that only a
+        combined interpretation of various landscape metrics can consistently describe the spatial
+        patterns of riparian vegetation. Riparian vegetation near agricultural areas (irrigation
+        crops, rice fields, orchards, and vineyards), presented a low number of much smaller
+        riparian tree patches with less complex shapes, and a low interspersion of the patch
+        distribution. We found that proximal land use affects the structure of riparian vegetation
+        more than distal land use – an important consideration for the establishment of streamside
+        protection buffers.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">autocorrelation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">buffers</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">crops</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">digital images</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">geostatistics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">habitats</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">humans</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">irrigation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">land use</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">landscapes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">orchards</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">paddies</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">riparian areas</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">rivers</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">shrubs</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">spring</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">vegetation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">vegetation structure</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">vineyards</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">watersheds</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Iberian Peninsula</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Portugal</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Aguiar, Francisca C.</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ferreira, Maria T.</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Landscape and urban planning.</subfield>
+      <subfield code="g">2011 Feb. 28, v. 99, no. 2 p.166-177</subfield>
+      <subfield code="d">Elsevier B.V.</subfield>
+      <subfield code="x">0169-2046</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)12405</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1016/j.landurbplan.2010.11.001</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:12405</subfield>
+      <subfield code="b">0169-2046</subfield>
+      <subfield code="c">99</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">166</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Landscape and urban planning</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1012</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier B.V.</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND600840224</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2015-09-04</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">NAL196100169204600990002.xml</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1012 reviewed on 2015-09-02T16:00:02Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1012 reviewed on 2015-09-04T11:00:03Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1012 reviewed on 2015-09-04T16:00:02Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:840224</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2014-11-01</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2015-09-04</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>03172nab a2200613 u 4500</leader>
+    <controlfield tag="001">9916292077007426</controlfield>
+    <controlfield tag="005">20221118063606.0</controlfield>
+    <controlfield tag="008">071209e200802 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND43985474</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1007/s11258-007-9291-z</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:569706-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Żywiec, Magdalena</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Spatial and temporal patterns of rowan (Sorbus aucuparia L.) regeneration
+        in West Carpathian subalpine spruce forest</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 283-291.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Non-random seed shadows are commonly seen in plant species whose seeds are
+        dispersed by animals, in particular by birds. The behaviour of birds can influence the
+        spatial pattern of seed dispersal and, consequently, the entire regeneration process of
+        fleshy-fruited trees. This study examined regeneration patterns in a fleshy-fruited tree
+        species, rowan (Sorbus aucuparia L.), growing in West Carpathian subalpine spruce forests,
+        focussing on two problems: the temporal relationship between rowan regeneration and gap
+        formation, and the spatial relationship between rowan regeneration and stand structure. It
+        was found that rowan seedlings and saplings were recruited in advance of gap formation.
+        Establishment of new rowan individuals in gaps was infrequent, but gaps enhanced their
+        regeneration nearby under spruce canopy, where they occurred densely in a narrow belt about
+        15 m wide. Inside spruce stands, the highest density of young rowans was directly under
+        crowns, especially near trunk bases. Few rowan saplings were found growing under mature
+        rowan trees. The presence of a rowan seedling and sapling bank determines whether rowans
+        fill spruce stand gaps. Dense rowan groves can develop mainly in extensive but slowly
+        expanding gaps.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Picea</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Sorbus aucuparia</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">birds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">forests</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">groves</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">saplings</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seed dispersal</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seedlings</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">seeds</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">stand structure</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Dispersal limitations</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Fleshy-fruited tree</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Gap regeneration</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Seedling bank</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ledwoń, Mateusz</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Plant ecology.</subfield>
+      <subfield code="g">2008 Feb., v. 194, no. 2 p.283-291</subfield>
+      <subfield code="d">Springer Netherlands</subfield>
+      <subfield code="x">1385-0237</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl55230</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1007/s11258-007-9291-z</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl55230</subfield>
+      <subfield code="b">1385-0237</subfield>
+      <subfield code="c">194</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">283</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Plant ecology</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND43985474</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2013-12-12</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Journal ISSN is 1573-5052</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:384 annotated on 2013-11-18T12:04:45Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:384 reviewed on 2013-12-09T11:00:03Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:384 reviewed on 2013-12-12T04:00:03Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:569706</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2008-01-02</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+      <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+        (Revision 1.77 2012/03/23)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+      <subfield code="a">3985474</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04649nab a2200781 u 4500</leader>
+    <controlfield tag="001">9916292503407426</controlfield>
+    <controlfield tag="005">20221118064941.0</controlfield>
+    <controlfield tag="008">190415e201710 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND605730866</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.ufug.2017.03.030</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1016/j.ufug.2017.03.030</subfield>
+      <subfield code="2">chorus</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:5730866-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Chuang, Wen-Ching</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">National Research Council, U.S. Environmental Protection Agency, 26 W.
+        Martin Luther King Drive, Cincinnati, OH 45268, USA</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Tree canopy change and neighborhood stability: A comparative analysis of
+        Washington, D.C. and Baltimore, MD</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 363-372.</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+      <subfield code="a">Resource is Open Access</subfield>
+      <subfield code="u">http://purl.org/eprint/accessRights/OpenAccess</subfield>
+      <subfield code="f">Unrestricted online access</subfield>
+      <subfield code="2">star</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+      <subfield code="a">CHORUS License Information</subfield>
+      <subfield code="f">Unrestricted online access</subfield>
+      <subfield code="2">star</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Trees provide important health, ecosystem, and aesthetic services in urban
+        areas, but they are unevenly distributed. Some neighborhoods have abundant tree canopy and
+        others nearly none. We analyzed how neighborhood characteristics and changes in income over
+        time related to the distribution of urban tree canopy in Washington, D.C. and Baltimore, MD.
+        We used stepwise multiple regression analysis to identify strong predictors of UTC, from
+        variables found in neighborhoods with different patterns of wealth-stability over time. We
+        then built spatial lag models to predict variation in UTC cover, using the results of a
+        Principal Component Analysis of the socioeconomic, demographic, and housing characteristics
+        of the two cities. We found that: (1) stable-wealthy neighborhoods were more likely to have
+        more, and more consistent, tree canopy cover than other neighborhood types; (2) decreases
+        and increases in income were negatively associated with UTC in Washington, D.C. but not
+        Baltimore, where income stability in both wealthy and impoverished neighborhoods was a
+        significant predictor of UTC; and (3) the association of high socioeconomic status with UTC
+        coverage varied between the two cities.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">Division of Environmental Biology</subfield>
+      <subfield code="d">https://doi.org/10.13039/100000155</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">NSF</subfield>
+      <subfield code="d">https://doi.org/10.13039/100000001</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">National Socio-Environmental Synthesis Center</subfield>
+      <subfield code="d">https://doi.org/10.13039/100014262</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="c">U.S. Forest Service</subfield>
+      <subfield code="d">https://doi.org/10.13039/100006959</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">aesthetics</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">canopy</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">cities</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">ecosystems</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">income</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">principal component analysis</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">regression analysis</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">socioeconomic status</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">urban areas</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">District of Columbia</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+      <subfield code="a">Maryland</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Urban tree canopy (UTC)</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Neighborhood stability</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Spatial lag regression</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">GIS</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Boone, Christopher G.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">School of Sustainability, Arizona State University, 800 South Cady Mall,
+        Tempe, AZ 85287, USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Locke, Dexter H.</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">National Socio-Environmental Synthesis Center (SESYNC), 1 Park Places,
+        Suite 300, Annapolis, MD 21401, USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Grove, J. Morgan</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">USDA Forest Service, 5523 Research Park Drive, Baltimore, MD 21201,
+        USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Whitmer, Ali</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Georgetown University, 3700 O Street NW, Washington, DC 20057,
+        USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Buckley, Geoffrey</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Geography, Ohio University, Athens, OH 45701, USA</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Zhang, Sainan</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">United Nations Population Fund, 220 E 42nd St, New York, NY 10017,
+        USA</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Urban forestry &amp; urban greening.</subfield>
+      <subfield code="g">2017 Oct., v. 27 p.363-372</subfield>
+      <subfield code="d">Elsevier GmbH</subfield>
+      <subfield code="a">Elsevier GmbH</subfield>
+      <subfield code="w">Journal:jnl893556</subfield>
+      <subfield code="x">1618-8667</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl893556</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://dx.doi.org/10.1016/j.ufug.2017.03.030</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl893556</subfield>
+      <subfield code="b">1618-8667</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Urban forestry &amp; urban greening</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1939</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">Elsevier Consyn</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND605730866</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2020-03-06</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a"
+        >/data/metadata/incoming/consyn-backfiles/46-2-00105-HEAD-ONLY.zip</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+      <subfield code="a"
+        >file:/data/metadata/staging/consyn-backfiles/S1618866715301382.xml</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+      <subfield code="a">/data/metadata/staging/consyn-backfiles/</subfield>
+    </datafield>
+    <datafield tag="961" ind1=" " ind2=" ">
+      <subfield code="a">USDA/FS</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:5730866</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2019-04-15</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2022-10-04</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>04065nab a2200601 u 4500</leader>
+    <controlfield tag="001">9916292637007426</controlfield>
+    <controlfield tag="005">20221118065345.0</controlfield>
+    <controlfield tag="008">151101e201208 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">IND601250309</subfield>
+      <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">10.1636/A11-49.1</subfield>
+      <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">agid:1250309-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">AGL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Keith, Robin</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Conservation Education Division, San Diego Zoo Institute for Conservation
+        Research, Escondido, California 92027, USA</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Extreme mitochondrial population subdivision in southern Appalachian
+        paleoendemic spiders (Araneae: Hypochilidae: Hypochilus), with implications for species
+        delimitation</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">p. 167-181.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">A prior study of molecular phylogenetic relationships in southern
+        Appalachian Hypochilus taxa revealed unusually high intraspecific mitochondrial sequence
+        divergences, but was limited by small intraspecific sample sizes. A subsequent in-depth
+        population genetic study focused on a single species (H. thorelli Marx 1888), revealing
+        genetic patterns consistent with extremely limited female-based gene flow among rock-outcrop
+        limited populations. Here we extend the study of mitochondrial population genetic
+        structuring to four remaining Appalachian Hypochilus species. Genetic inferences are based
+        on a sample of COI mitochondrial sequences generated for over 250 specimens from 85 sampled
+        locations. This geographic sample comprehensively covers the geographic distributions of all
+        described taxa. Phylogenetic, network-based, and genealogical sorting index analyses reveal
+        ubiquitous genetic structuring in all Hypochilus taxa. A majority of sampled locations
+        possess limited genetic variation, with site-specific haplotypes forming genealogically
+        exclusive “microclades”, consistent with limited female-based gene flow at the spatial
+        scales sampled. At deeper phylogenetic levels, four of five described species are recovered
+        as monophyletic on mitochondrial gene trees. Hypochilus pococki Platnick 1987 is recovered
+        as paraphyletic, and is fragmented into five genetically divergent, allopatric phylogroups.
+        These phylogroups, and multiple clades within one of the H. pococki phylogroups, are also
+        recovered as distinct clusters in a generalized mixed Yule-coalescent (GMYC) analysis,
+        suggesting the possibility of multiple cryptic species in the Appalachian fauna. However, a
+        qualitative survey of male palpal variation fails to reveal morphological differences that
+        distinguish these highly divergent genetic lineages. We suggest that a nuclear gene tree
+        perspective is ultimately needed to resolve this contrast.</subfield>
+    </datafield>
+    <datafield tag="592" ind1=" " ind2=" ">
+      <subfield code="a">Publisher supplied data</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+      <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">Hypochilus pococki</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">fauna</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">founder effect</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">gene flow</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">genetic variation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">geographical distribution</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">haplotypes</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">males</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">monophyly</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">paraphyly</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">population</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+      <subfield code="a">surveys</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">Cryptic species</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">genealogical sorting index</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">GMYC model</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2="0">
+      <subfield code="a">population subdivision</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hedin, Marshal</subfield>
+      <subfield code="e">author</subfield>
+      <subfield code="u">Department of Biology, San Diego State University, San Diego, California
+        92182-4614, USA. E-mail:</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Journal of arachnology.</subfield>
+      <subfield code="g">2012 Aug., v. 40, no. 2 p.167-181</subfield>
+      <subfield code="d">American Arachnological Society</subfield>
+      <subfield code="x">0161-8202</subfield>
+      <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+      <subfield code="o">(Journal)jnl7320</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://dx.doi.org/10.1636%2FA11-49.1</subfield>
+      <subfield code="3">Available from publisher's site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+      <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="a">Journal:jnl7320</subfield>
+      <subfield code="b">0161-8202</subfield>
+      <subfield code="c">40</subfield>
+      <subfield code="d">2</subfield>
+      <subfield code="e">167</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+      <subfield code="f">Journal of arachnology</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1156</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+      <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="918" ind1="2" ind2=" ">
+      <subfield code="a">BioOne</subfield>
+      <subfield code="e">provider</subfield>
+      <subfield code="5">DNAL</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+      <subfield code="a">IND601250309</subfield>
+      <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+      <subfield code="a">2016-01-04</subfield>
+    </datafield>
+    <datafield tag="953" ind1=" " ind2=" ">
+      <subfield code="a">ARACv40i2-08091335-241168.zip</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+      <subfield code="a">Batch:1156 reviewed on 2016-01-04T14:00:02Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+      <subfield code="a">agid:1250309</subfield>
+    </datafield>
+    <datafield tag="983" ind1=" " ind2=" ">
+      <subfield code="a">2015-11-01</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+      <subfield code="a">2016-01-04</subfield>
+    </datafield>
+  </record>
+</collection>

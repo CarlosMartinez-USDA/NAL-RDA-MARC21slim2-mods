@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>capability of species-related forest stand characteristics
+                determination with the use of hyperspectral data</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Martyna</namePart>
+      <namePart type="family">Wietecha</namePart>
+      <displayForm>Wietecha, Martyna</displayForm>
+      <affiliation>Department of Geomatics, Forest Research Institute, Sękocin Stary,
+                05-090 Raszyn, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Łukasz</namePart>
+      <namePart type="family">Jełowicki</namePart>
+      <displayForm>Jełowicki, Łukasz</displayForm>
+      <affiliation>Department of Geomatics, Forest Research Institute, Sękocin Stary,
+                05-090 Raszyn, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Krzysztof</namePart>
+      <namePart type="family">Mitelsztedt</namePart>
+      <displayForm>Mitelsztedt, Krzysztof</displayForm>
+      <affiliation>Department of Geomatics, Forest Research Institute, Sękocin Stary,
+                05-090 Raszyn, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Stanisław</namePart>
+      <namePart type="family">Miścicki</namePart>
+      <displayForm>Miścicki, Stanisław</displayForm>
+      <affiliation>Department of Forest Management, Geomatics and Forest Economics,
+                Faculty of Forestry, Warsaw University of Life Sciences – SGGW, Warsaw, 02-776
+                Warsaw, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Krzysztof</namePart>
+      <namePart type="family">Stereńczak</namePart>
+      <displayForm>Stereńczak, Krzysztof</displayForm>
+      <affiliation>Department of Geomatics, Forest Research Institute, Sękocin Stary,
+                05-090 Raszyn, Poland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-09</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>The primary goal of this study was to bridge the gap between
+                hyperspectral data classifications and their practical implementation for forest
+                management. Information on the distributions and abundances of tree species can help
+                forest managers understand the spatial coverage of tree species and manage the
+                species composition by establishing a specific strategy. For this purpose,
+                classification of tree species was applied to airborne hyperspectral imagery, and a
+                determination of selected forest stand characteristics (i.e., main tree species,
+                species cover proportions, and species mixture patterns) was made.We selected the
+                Milicz Forest District of southwestern Poland as our study area. Sixteen airborne
+                hyperspectral images were acquired with the HySpex VNIR-1800 and SWIR-384 sensors on
+                19 August 2015. We classified four deciduous tree species (Black alder, Pedunculate
+                oak, Silver birch, and European beech) and coniferous species using a support vector
+                machine (SVM) classifier. To properly evaluate the classification accuracy, the
+                level of crown visibility from above was determined during ground measurements. The
+                obtained information was used to create a reference set integrated with the Remote
+                Sensing data.The classification accuracy was 91%. The main tree species found in the
+                sample plots were correctly assessed based on the coverage area for 92% of the
+                sample plots. The species cover proportions were estimated correctly for 75–94% of
+                the sample plots with a tolerance threshold ≤10 percentage points depending on the
+                species considered. Similarities of the species structures shown in the sample plots
+                between the classification map and reference field data were found by Morisita's
+                index (0.92). Spatial mixture pattern detection was performed for 316 forest stands.
+                The results of the developed method were found to agree to field data with 69%
+                accuracy. This study shows that airborne hyperspectral data serve as a reliable
+                source for the precise description of forest characteristics, such as the main tree
+                species, tree species cover proportions and mixture patterns.</abstract>
+      <subject authority="atg">
+         <topic>Alnus glutinosa</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Betula pendula</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Fagus sylvatica subsp. sylvatica</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Quercus robur</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>hyperspectral imagery</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand characteristics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>support vector machines</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Poland</geographic>
+      </subject>
+      <subject>
+         <topic>Classification</topic>
+      </subject>
+      <subject>
+         <topic>Hyperspectral data</topic>
+      </subject>
+      <subject>
+         <topic>Forest inventory characteristics</topic>
+      </subject>
+      <subject>
+         <topic>Mixture patterns</topic>
+      </subject>
+      <subject>
+         <topic>Main tree species determination</topic>
+      </subject>
+      <subject>
+         <topic>Species cover proportions</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.rse.2019.111232</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Remote sensing of environment</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Inc.</publisher>
+         </originInfo>
+         <identifier type="issn">0034-4257</identifier>
+         <identifier type="local">Journal:11735</identifier>
+         <identifier type="local">Journal:11735</identifier>
+         <part>
+            <text>2019 Sept. 15, v. 231 p.111232-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.rse.2019.111232</identifier>
+      <identifier type="control">9916301035707426</identifier>
+      <identifier type="agricola">IND606465683</identifier>
+      <extension>
+         <identifier type="local">agid:6465683</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190801</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118065606.0</recordChangeDate>
+         <recordIdentifier>9916301035707426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

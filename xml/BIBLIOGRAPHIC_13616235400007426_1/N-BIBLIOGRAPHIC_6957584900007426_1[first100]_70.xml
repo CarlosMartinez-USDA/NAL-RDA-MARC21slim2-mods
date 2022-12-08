@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Microclimate and land surface temperature in a biodiversity enriched
+                oil palm plantation</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Laura Somenguem</namePart>
+      <namePart type="family">Donfack</namePart>
+      <displayForm>Donfack, Laura Somenguem</displayForm>
+      <affiliation>University of Goettingen, Silviculture and Forest Ecology of the
+                Temperate Zones, Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Röll</namePart>
+      <displayForm>Röll, Alexander</displayForm>
+      <affiliation>University of Goettingen, Tropical Silviculture and Forest Ecology,
+                Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Florian</namePart>
+      <namePart type="family">Ellsäßer</namePart>
+      <displayForm>Ellsäßer, Florian</displayForm>
+      <affiliation>University of Goettingen, Tropical Silviculture and Forest Ecology,
+                Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Martin</namePart>
+      <namePart type="family">Ehbrecht</namePart>
+      <displayForm>Ehbrecht, Martin</displayForm>
+      <affiliation>University of Goettingen, Silviculture and Forest Ecology of the
+                Temperate Zones, Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bambang</namePart>
+      <namePart type="family">Irawan</namePart>
+      <displayForm>Irawan, Bambang</displayForm>
+      <affiliation>University of Jambi, Faculty of Forestry, Jln Raya Jambi, 36361
+                Jambi, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Dirk</namePart>
+      <namePart type="family">Hölscher</namePart>
+      <displayForm>Hölscher, Dirk</displayForm>
+      <affiliation>University of Goettingen, Tropical Silviculture and Forest Ecology,
+                Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Alexander</namePart>
+      <namePart type="family">Knohl</namePart>
+      <displayForm>Knohl, Alexander</displayForm>
+      <affiliation>University of Goettingen, Centre of Biodiversity and Sustainable Land
+                Use, Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Holger</namePart>
+      <namePart type="family">Kreft</namePart>
+      <displayForm>Kreft, Holger</displayForm>
+      <affiliation>University of Goettingen, Biodiversity, Macroecology and
+                Biogeography, Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Eduard J.</namePart>
+      <namePart type="family">Siahaan</namePart>
+      <displayForm>Siahaan, Eduard J.</displayForm>
+      <affiliation>University of Jambi, Faculty of Forestry, Jln Raya Jambi, 36361
+                Jambi, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Leti</namePart>
+      <namePart type="family">Sundawati</namePart>
+      <displayForm>Sundawati, Leti</displayForm>
+      <affiliation>Bogor Agricultural University, Department of Forest Management,
+                Kampus IPB Darmaga, 16680 Bogor, Indonesia</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Christian</namePart>
+      <namePart type="family">Stiegler</namePart>
+      <displayForm>Stiegler, Christian</displayForm>
+      <affiliation>University of Goettingen, Bioclimatology, Büsgenweg 2, 37077
+                Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Delphine Clara</namePart>
+      <namePart type="family">Zemp</namePart>
+      <displayForm>Zemp, Delphine Clara</displayForm>
+      <affiliation>University of Goettingen, Biodiversity, Macroecology and
+                Biogeography, Büsgenweg 1, 37077 Göttingen, Germany</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2021-10</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <abstract>Agroforestry options such as mixed-species tree planting and natural
+                regeneration in oil palm plantations may alleviate negative effects of forest loss
+                on biodiversity and ecosystem functioning. The effects of agroforestry on
+                microclimate and land surface temperatures (LST) remain largely unknown despite
+                their central role in controlling abiotic and biotic factors and in buffering
+                climate at a larger scale. We assessed spatial and temporal microclimate and LST
+                variability in a biodiversity enrichment experiment, in which tree islands have been
+                planted in an oil palm plantation in Sumatra (Indonesia). Four years after
+                establishment of the experiment, we measured microclimate and LST using mini
+                microclimate sensors and drone-recorded thermal images. We examined experimental
+                effects of tree species richness (0, 1, 2, 3 or 6), plot size (25 m², 100 m²,
+                400 m², 1600 m²) and stand structural complexity on microclimate and LST. Diurnal
+                patterns showed ambient air temperature peaks and relative humidity (RH) minima at
+                3 pm, whereas diurnal soil temperatures peaked around 6 pm. The lowest LST were
+                observed from oil palm canopy leaves and the highest from bare soils and understorey
+                vegetation (including trees). Spatial and temporal ranges of ambient air temperature
+                were smaller than LST ranges, and average ambient air temperature and LST were
+                positively correlated. Tree species diversity had no overall significant effect
+                neither on microclimate nor LST, but humidity was higher in planted tree islands
+                compared to natural regeneration only. Smaller plots were characterized by higher
+                mean air, soil and LST, compared to larger plots. Structurally complex plots were
+                associated with low mean and maximum values of ambient air temperature, soil
+                temperature and LST and high mean and minimum RH. Still, conditions were hotter and
+                drier in several experimental plots compared to conventional oil palm plantations,
+                considering a higher transpiration in the latest. We conclude that stand structural
+                complexity and tree island size control microclimate and LST in the experimental oil
+                palm agroforests, but alleviating the harsh microclimate conditions in oil palm
+                plantations might take longer to occur.</abstract>
+      <subject authority="atg">
+         <topic>Elaeis guineensis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>administrative management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>agroforestry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>air</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ambient temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microclimate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>natural regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>relative humidity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species richness</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>surface temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>transpiration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>understory</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Indonesia</geographic>
+      </subject>
+      <subject>
+         <topic>LST</topic>
+      </subject>
+      <subject>
+         <topic>RH</topic>
+      </subject>
+      <subject>
+         <topic>Land surface temperature</topic>
+      </subject>
+      <subject>
+         <topic>iButton</topic>
+      </subject>
+      <subject>
+         <topic>Drone-based thermography</topic>
+      </subject>
+      <subject>
+         <topic>Oil palm</topic>
+      </subject>
+      <subject>
+         <topic>Biodiversity enrichment agroforestry experiment</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.foreco.2021.119480</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier B.V.</publisher>
+         </originInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <identifier type="local">Journal:jnl9013</identifier>
+         <part>
+            <text>2021 Oct. 01, v. 497 p.119480-</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2021.119480</identifier>
+      <identifier type="control">9916305051407426</identifier>
+      <identifier type="agricola">IND607443283</identifier>
+      <extension>
+         <identifier type="local">agid:7443283</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">211007</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118115704.0</recordChangeDate>
+         <recordIdentifier>9916305051407426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Predicting alpha diversity of African rain forests: models based on
+                climate and satellite-derived data do not perform better than a purely spatial
+                model</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Ingrid</namePart>
+      <namePart type="family">Parmentier</namePart>
+      <displayForm>Parmentier, Ingrid</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ryan J.</namePart>
+      <namePart type="family">Harrigan</namePart>
+      <displayForm>Harrigan, Ryan J.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wolfgang</namePart>
+      <namePart type="family">Buermann</namePart>
+      <displayForm>Buermann, Wolfgang</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Edward T.A.</namePart>
+      <namePart type="family">Mitchard</namePart>
+      <displayForm>Mitchard, Edward T.A.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sassan</namePart>
+      <namePart type="family">Saatchi</namePart>
+      <displayForm>Saatchi, Sassan</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yadvinder</namePart>
+      <namePart type="family">Malhi</namePart>
+      <displayForm>Malhi, Yadvinder</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Frans</namePart>
+      <namePart type="family">Bongers</namePart>
+      <displayForm>Bongers, Frans</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">William D.</namePart>
+      <namePart type="family">Hawthorne</namePart>
+      <displayForm>Hawthorne, William D.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Miguel E.</namePart>
+      <namePart type="family">Leal</namePart>
+      <displayForm>Leal, Miguel E.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Simon L.</namePart>
+      <namePart type="family">Lewis</namePart>
+      <displayForm>Lewis, Simon L.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Louis</namePart>
+      <namePart type="family">Nusbaumer</namePart>
+      <displayForm>Nusbaumer, Louis</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Douglas</namePart>
+      <namePart type="family">Sheil</namePart>
+      <displayForm>Sheil, Douglas</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marc S.M.</namePart>
+      <namePart type="family">Sosef</namePart>
+      <displayForm>Sosef, Marc S.M.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kofi</namePart>
+      <namePart type="family">Affum-Baffoe</namePart>
+      <displayForm>Affum-Baffoe, Kofi</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Adama</namePart>
+      <namePart type="family">Bakayoko</namePart>
+      <displayForm>Bakayoko, Adama</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">George B.</namePart>
+      <namePart type="family">Chuyong</namePart>
+      <displayForm>Chuyong, George B.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Cyrille</namePart>
+      <namePart type="family">Chatelain</namePart>
+      <displayForm>Chatelain, Cyrille</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">James A.</namePart>
+      <namePart type="family">Comiskey</namePart>
+      <displayForm>Comiskey, James A.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gilles</namePart>
+      <namePart type="family">Dauby</namePart>
+      <displayForm>Dauby, Gilles</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean-Louis</namePart>
+      <namePart type="family">Doucet</namePart>
+      <displayForm>Doucet, Jean-Louis</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Sophie</namePart>
+      <namePart type="family">Fauset</namePart>
+      <displayForm>Fauset, Sophie</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Laurent</namePart>
+      <namePart type="family">Gautier</namePart>
+      <displayForm>Gautier, Laurent</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jean-François</namePart>
+      <namePart type="family">Gillet</namePart>
+      <displayForm>Gillet, Jean-François</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">David</namePart>
+      <namePart type="family">Kenfack</namePart>
+      <displayForm>Kenfack, David</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">François N.</namePart>
+      <namePart type="family">Kouamé</namePart>
+      <displayForm>Kouamé, François N.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Edouard K.</namePart>
+      <namePart type="family">Kouassi</namePart>
+      <displayForm>Kouassi, Edouard K.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lazare A.</namePart>
+      <namePart type="family">Kouka</namePart>
+      <displayForm>Kouka, Lazare A.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Marc P.E.</namePart>
+      <namePart type="family">Parren</namePart>
+      <displayForm>Parren, Marc P.E.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Kelvin S.-H.</namePart>
+      <namePart type="family">Peh</namePart>
+      <displayForm>Peh, Kelvin S.-H.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Jan M.</namePart>
+      <namePart type="family">Reitsma</namePart>
+      <displayForm>Reitsma, Jan M.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bruno</namePart>
+      <namePart type="family">Senterre</namePart>
+      <displayForm>Senterre, Bruno</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Bonaventure</namePart>
+      <namePart type="family">Sonké</namePart>
+      <displayForm>Sonké, Bonaventure</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Terry C.H.</namePart>
+      <namePart type="family">Sunderland</namePart>
+      <displayForm>Sunderland, Terry C.H.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mike D.</namePart>
+      <namePart type="family">Swaine</namePart>
+      <displayForm>Swaine, Mike D.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mbatchou G.P.</namePart>
+      <namePart type="family">Tchouto</namePart>
+      <displayForm>Tchouto, Mbatchou G.P.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Duncan</namePart>
+      <namePart type="family">Thomas</namePart>
+      <displayForm>Thomas, Duncan</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Johan L.C.H.</namePart>
+      <namePart type="family">Van Valkenburg</namePart>
+      <displayForm>Van Valkenburg, Johan L.C.H.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Olivier J.</namePart>
+      <namePart type="family">Hardy</namePart>
+      <displayForm>Hardy, Olivier J.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+      <issuance>continuing</issuance>
+      <physicalDescription>
+         <extent>p. 1164-1176.</extent>
+      </physicalDescription>
+      <abstract>Aim Our aim was to evaluate the extent to which we can predict and
+                map tree alpha diversity across broad spatial scales either by using climate and
+                remote sensing data or by exploiting spatial autocorrelation patterns. Location
+                Tropical rain forest, West Africa and Atlantic Central Africa. Methods Alpha
+                diversity estimates were compiled for trees with diameter at breast height ≥ 10 cm
+                in 573 inventory plots. Linear regression (ordinary least squares, OLS) and random
+                forest (RF) statistical techniques were used to project alpha diversity estimates at
+                unsampled locations using climate data and remote sensing data [Moderate Resolution
+                Imaging Spectroradiometer (MODIS), normalized difference vegetation index (NDVI),
+                Quick Scatterometer (QSCAT), tree cover, elevation]. The prediction reliabilities of
+                OLS and RF models were evaluated using a novel approach and compared to that of a
+                kriging model based on geographic location alone. Results The predictive power of
+                the kriging model was comparable to that of OLS and RF models based on climatic and
+                remote sensing data. The three models provided congruent predictions of alpha
+                diversity in well-sampled areas but not in poorly inventoried locations. The
+                reliability of the predictions of all three models declined markedly with distance
+                from points with inventory data, becoming very low at distances &gt; 50 km.
+                According to inventory data, Atlantic Central African forests display a higher mean
+                alpha diversity than do West African forests. Main conclusions The lower tree alpha
+                diversity in West Africa than in Atlantic Central Africa may reflect a richer
+                regional species pool in the latter. Our results emphasize and illustrate the need
+                to test model predictions in a spatially explicit manner. Good OLS or RF model
+                predictions from inventory data at short distance largely result from the strong
+                spatial autocorrelation displayed by both the alpha diversity and the predictive
+                variables rather than necessarily from causal relationships. Our results suggest
+                that alpha diversity is driven by history rather than by the contemporary
+                environment. Given the low predictive power of models, we call for a major effort to
+                broaden the geographical extent and intensity of forest assessments to expand our
+                knowledge of African rain forest diversity.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>autocorrelation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>image analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inventories</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>least squares</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>linear models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>moderate resolution imaging spectroradiometer</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>prediction</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical rain forests</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Central Africa</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Western Africa</geographic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1111/j.1365-2699.2010.02467.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of biogeography</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Blackwell Publishing Ltd</publisher>
+         </originInfo>
+         <identifier type="issn">0305-0270</identifier>
+         <identifier type="local">Journal:jnl9765</identifier>
+         <part>
+            <text>2011 June, v. 38, no. 6 p.1164-1176</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-2699.2010.02467.x</identifier>
+      <identifier type="control">9916299347507426</identifier>
+      <identifier type="agricola">IND44579708</identifier>
+      <extension>
+         <identifier type="local">agid:643763</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">110513</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061356.0</recordChangeDate>
+         <recordIdentifier>9916299347507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

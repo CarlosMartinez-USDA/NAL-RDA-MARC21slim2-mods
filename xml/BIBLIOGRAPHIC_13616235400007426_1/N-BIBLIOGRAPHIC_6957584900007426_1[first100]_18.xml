@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial Patterns of Brown Rot Epidemics and Development of
+                Microsatellite Markers for Analyzing Fine-Scale Genetic Structure of Monilinia
+                fructicola Populations Within Peach Tree Canopies</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">S. E.</namePart>
+      <namePart type="family">Everhart</namePart>
+      <displayForm>Everhart, S. E.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">A.</namePart>
+      <namePart type="family">Askew</namePart>
+      <displayForm>Askew, A.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">L.</namePart>
+      <namePart type="family">Seymour</namePart>
+      <displayForm>Seymour, L.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">T. C.</namePart>
+      <namePart type="family">Glenn</namePart>
+      <displayForm>Glenn, T. C.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">H.</namePart>
+      <namePart type="family">Scherm</namePart>
+      <displayForm>Scherm, H.</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+      <issuance>continuing</issuance>
+      <abstract>To better understand the fine-scale spatial dynamics of brown rot
+                disease and corresponding fungal genotypes, we analyzed three-dimensional spatial
+                patterns of pre-harvest fruit rot caused by Monilinia fructicola in individual peach
+                tree canopies and developed microsatellite markers for canopy-level population
+                genetics analyses. Using a magnetic digitizer, high-resolution maps of fruit rot
+                development in five representative trees were generated, and M. fructicola was
+                isolated from each affected fruit. To characterize disease aggregation,
+                nearestneighbor distances among symptomatic fruit were calculated and compared with
+                appropriate random simulations. Within-canopy disease aggregation correlated
+                negatively with the number of diseased fruit per tree (r = −0.827, P = 0.0009),
+                i.e., aggregation was greatest when the number of diseased fruit was lowest. Sixteen
+                microsatellite primers consistently amplified polymorphic regions in a
+                geographically diverse test population of 47 M. fructicola isolates. None of the
+                test isolates produced identical multilocus genotypes, and the number of alleles per
+                locus ranged from 2 to 16. We are applying these markers to determine fine-scale
+                population structure of the pathogen within and among canopies.</abstract>
+      <subject authority="atg">
+         <topic>Monilinia fructicola</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>alleles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>brown rot disease</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>disease outbreaks</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fruits</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fungi</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic markers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genotype</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>loci</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>magnetism</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microsatellite repeats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>pathogens</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>peaches</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant rots</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population genetics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1094/PHP-2012-0723-04-RS</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Plant health progress</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>The American Phytopathological Society</publisher>
+         </originInfo>
+         <identifier type="issn">1535-1025</identifier>
+         <identifier type="local">Journal:6160</identifier>
+         <identifier type="local">Journal:6160</identifier>
+         <part>
+            <text>2012, v. 13, no. 1</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1094/PHP-2012-0723-04-RS</identifier>
+      <identifier type="control">9916293999907426</identifier>
+      <identifier type="agricola">IND606224679</identifier>
+      <extension>
+         <identifier type="local">agid:6224679</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">181130</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118082718.0</recordChangeDate>
+         <recordIdentifier>9916293999907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Monitoring changes in the impervious surfaces of urban functional
+                zones using multisource remote sensing data: a case study of Tianjin,
+                China</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Shisong</namePart>
+      <namePart type="family">Cao</namePart>
+      <displayForm>Cao, Shisong</displayForm>
+      <affiliation>College of Resource Environment and Tourism, Capital Normal
+                University, Beijing, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Deyong</namePart>
+      <namePart type="family">Hu</namePart>
+      <displayForm>Hu, Deyong</displayForm>
+      <affiliation>College of Resource Environment and Tourism, Capital Normal
+                University, Beijing, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Wenji</namePart>
+      <namePart type="family">Zhao</namePart>
+      <displayForm>Zhao, Wenji</displayForm>
+      <affiliation>College of Resource Environment and Tourism, Capital Normal
+                University, Beijing, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">You</namePart>
+      <namePart type="family">Mo</namePart>
+      <displayForm>Mo, You</displayForm>
+      <affiliation>College of Resource Environment and Tourism, Capital Normal
+                University, Beijing, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Chen</namePart>
+      <namePart type="family">Yu</namePart>
+      <displayForm>Yu, Chen</displayForm>
+      <affiliation>College of Resource Environment and Tourism, Capital Normal
+                University, Beijing, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yang</namePart>
+      <namePart type="family">Zhang</namePart>
+      <displayForm>Zhang, Yang</displayForm>
+      <affiliation>College of Resource Environment and Tourism, Capital Normal
+                University, Beijing, China</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2019-10</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 967-987.</extent>
+      </physicalDescription>
+      <abstract>Previous research on urban impervious surface monitoring has ignored
+                the differences, spatial patterns, and driving factors of impervious surfaces among
+                the various functional zones in cities. In this paper, we extracted the impervious
+                surface coverage of Tianjin in 1990, 1995, 2000, 2005, 2010, and 2015 based on the
+                Classification and Regression Tree model. Then, using the methods of quantitative
+                geography, we systematically analyzed the spatiotemporal variations of impervious
+                surface coverage among the functional zones in Tianjin from 1990 to 2015.
+                Additionally, the driving mechanisms of impervious surface growths among different
+                functional zones were investigated. The results showed that (1) the growth of
+                impervious surfaces shows two spatially separate core areas of growth. The core
+                functional zone (CFZ) had the highest impervious surface coverage, and the
+                ecological conservation zone (ECZ) had the lowest impervious surface coverage. (2)
+                High-high aggregation regions of impervious surface coverage were mainly located in
+                CFZ, while low-low aggregation regions of impervious surface coverage area were
+                mainly located in ECZ. (3) Influences of social-economic factors on area growths of
+                impervious surface are stronger in urban function expanded zone, coastal city key
+                development zone, Beijing–Tianjin coordinated development zone, and urban-rural
+                coordinated development zone than those in CFZ. Our results can provide a point of
+                reference for decision-making regarding urban planning management.</abstract>
+      <note type="funding">This research is supported by the National Natural Science Foundation
+                of China (Parameterizing urban surface radiation and energy budget based on
+                three-dimension modelling and sky view factor), [41671339].</note>
+      <subject authority="atg">
+         <topic>case studies</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>decision making</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>monitoring</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>regression analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial data</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temporal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urban planning</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>China</geographic>
+      </subject>
+      <subject>
+         <topic>impervious surface coverage</topic>
+      </subject>
+      <subject>
+         <topic>urban functional zone</topic>
+      </subject>
+      <subject>
+         <topic>Classification and Regression Tree (CART)</topic>
+      </subject>
+      <subject>
+         <topic>driving analysis</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1080/15481603.2019.1600110</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>GIScience &amp; remote sensing</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Taylor &amp; Francis</publisher>
+         </originInfo>
+         <identifier type="issn">1943-7226</identifier>
+         <identifier type="local">Journal:19689</identifier>
+         <identifier type="local">Journal:19689</identifier>
+         <part>
+            <text>2019 Oct. 3, v. 56, no. 7 p.967-987</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1080/15481603.2019.1600110</identifier>
+      <identifier type="control">9916296788907426</identifier>
+      <identifier type="agricola">IND606562526</identifier>
+      <extension>
+         <identifier type="local">agid:6562526</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190812</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118114731.0</recordChangeDate>
+         <recordIdentifier>9916296788907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

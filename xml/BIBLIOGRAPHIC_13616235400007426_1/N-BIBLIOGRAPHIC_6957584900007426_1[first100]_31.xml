@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Tree-ring proxies of larch bud moth defoliation: latewood width and
+                blue intensity are more precise than tree-ring width</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Estelle</namePart>
+      <namePart type="family">Arbellay</namePart>
+      <displayForm>Arbellay, Estelle</displayForm>
+      <affiliation>Tree-Ring Lab, Department of Forest and Conservation Sciences,
+                University of British Columbia, 3041-2424 Main Mall, Vancouver, BC,
+                Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ingrid</namePart>
+      <namePart type="family">Jarvis</namePart>
+      <displayForm>Jarvis, Ingrid</displayForm>
+      <affiliation>Tree-Ring Lab, Department of Forest and Conservation Sciences,
+                University of British Columbia, 3041-2424 Main Mall, Vancouver, BC,
+                Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Raphaël D</namePart>
+      <namePart type="family">Chavardès</namePart>
+      <displayForm>Chavardès, Raphaël D</displayForm>
+      <affiliation>Tree-Ring Lab, Department of Forest and Conservation Sciences,
+                University of British Columbia, 3041-2424 Main Mall, Vancouver, BC,
+                Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Lori D</namePart>
+      <namePart type="family">Daniels</namePart>
+      <displayForm>Daniels, Lori D</displayForm>
+      <affiliation>Tree-Ring Lab, Department of Forest and Conservation Sciences,
+                University of British Columbia, 3041-2424 Main Mall, Vancouver, BC,
+                Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Markus</namePart>
+      <namePart type="family">Stoffel</namePart>
+      <displayForm>Stoffel, Markus</displayForm>
+      <affiliation>Climatic Change and Climate Impacts, Institute for Environmental
+                Sciences, University of Geneva, Boulevard Carl-Vogt 66, Geneva,
+                Switzerland</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Ram</namePart>
+      <namePart type="family">Oren</namePart>
+      <displayForm>Oren, Ram</displayForm>
+      <affiliation>Tree-Ring Lab, Department of Forest and Conservation Sciences,
+                University of British Columbia, 3041-2424 Main Mall, Vancouver, BC,
+                Canada</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2018-05</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1237-1245.</extent>
+      </physicalDescription>
+      <abstract>Reconstructions of defoliation by larch bud moth (LBM, Zeiraphera
+                diniana Gn.) based on European larch (Larix decidua Mill.) tree rings have unraveled
+                outbreak patterns over exceptional temporal and spatial scales. In this study, we
+                conducted tree-ring analyses on 105 increment cores of European larch from the
+                Valais Alps, Switzerland. The well-documented history of LBM outbreaks in Valais
+                provided a solid baseline for evaluating the LBM defoliation signal in multiple
+                tree-ring parameters. First, we used tree-ring width measurements along with
+                regional records of LBM outbreaks to reconstruct the occurrence of these events at
+                two sites within the Swiss Alps. Second, we measured earlywood width, latewood width
+                and blue intensity, and compared these parameters with tree-ring width to assess the
+                capacity of each proxy to detect LBM defoliation. A total of six LBM outbreaks were
+                reconstructed for the two sites between AD 1850 and 2000. Growth suppression induced
+                by LBM was, on average, highest in latewood width (59%), followed by total ring
+                width (54%), earlywood width (51%) and blue intensity (26%). We show that latewood
+                width and blue intensity can improve the temporal accuracy of LBM outbreak
+                reconstructions, as both proxies systematically detected LBM defoliation in the
+                first year it occurred, as well as the differentiation between defoliation and
+                non-defoliation years. This study introduces blue intensity as a promising new proxy
+                of insect defoliation and encourages its use in conjunction with latewood
+                width.</abstract>
+      <subject authority="atg">
+         <topic>Larix decidua</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Zeiraphera diniana</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>defoliation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendroclimatology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>earlywood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>latewood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>moths</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phytophagous insects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree physiology</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Alps region</geographic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Switzerland</geographic>
+      </subject>
+      <subject>
+         <topic>blue intensity</topic>
+      </subject>
+      <subject>
+         <topic>insect defoliation</topic>
+      </subject>
+      <subject>
+         <topic>insect outbreak</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">http://dx.doi.org/10.1093/treephys/tpy057</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Tree physiology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Oxford University Press</publisher>
+         </originInfo>
+         <identifier type="issn">1758-4469</identifier>
+         <identifier type="local">Journal:jnl41003</identifier>
+         <identifier type="local">Journal:jnl41003</identifier>
+         <part>
+            <text>2018 May 19, v. 38, no. 8 p.1237-1245</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1093/treephys/tpy057</identifier>
+      <identifier type="control">9916296808907426</identifier>
+      <identifier type="agricola">IND606743474</identifier>
+      <extension>
+         <identifier type="local">agid:6743474</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">191025</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118115046.0</recordChangeDate>
+         <recordIdentifier>9916296808907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Simulating effects of landscape context and timber harvest on tree
+                species diversity</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jianguo</namePart>
+      <namePart type="family">Liu</namePart>
+      <displayForm>Liu, Jianguo</displayForm>
+      <affiliation>Department of Fisheries and Wildlife, Michigan State University, East
+                Lansing, Michigan 48824-1222 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Peter S.</namePart>
+      <namePart type="family">Ashton</namePart>
+      <displayForm>Ashton, Peter S.</displayForm>
+      <affiliation>Harvard Institute for International Development, and Department of
+                Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts
+                02138 USA</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1999-02</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 186-201.</extent>
+      </physicalDescription>
+      <abstract>Although the need for implementing ecosystem management across
+                boundaries has been widely recognized, little is known regarding the extent to which
+                loss of species richness resulting from timber harvesting in a focal forest could be
+                offset by the surrounding areas. Using an individual‐based, spatially explicit
+                landscape simulation model (FORMOSAIC), which considers not only the dynamics of a
+                focal forest, but also the interactions between the focal forest and the neighboring
+                areas, we found that tree species richness of a tropical forest was related to the
+                interactions between harvest impacts and immigration from adjacent areas. Simulation
+                results indicated that adjacent species‐rich forests increased species richness in a
+                focal forest, but neighboring single‐species plantations had opposite effects, and
+                these effects were enhanced by the duration of immigration. Heavier harvest impacts
+                on residual trees resulted in lower species richness, although the negative effects
+                were partially offset by immigration from species‐rich forests. Immigration after
+                heavy harvest impact led to higher species richness than did immigration before
+                harvesting, when the surroundings were species‐rich forests. Harvesting on the edges
+                of a focal forest resulted in higher species richness than harvesting at the center
+                when seed dispersal distances were short, but spatial patterns of harvesting caused
+                no differences in species richness if seeds could disperse into the focal forest
+                from more distant sources. Under the option of no harvest, immigration was more
+                important at small spatial scales than at large spatial scales. From the
+                simulations, we also noticed some unexpected results. For example, heavy harvest
+                impacts reduced a higher percentage of timber species than nontimber species.
+                Simulation results from this study could provide insights into identification of
+                alternative methods for sustainable timber production and conservation of tree
+                species richness beyond natural, management, and ownership boundaries. One potential
+                method would be to establish a species‐rich seed zone around a focal forest to
+                partially compensate for negative harvest impacts. Another option would be to
+                harvest timber trees at optimal locations and during optimal periods of time to
+                accommodate dispersal ability and availability of seeds from the
+                surroundings.</abstract>
+      <note>JOURNAL ARTICLE</note>
+      <subject authority="atg">
+         <topic>simulation models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tropical forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>species diversity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecology</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1890/1051-0761(1999)009%5B0186:SEOLCA%5D2.0.CO;2</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Ecological applications</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Ecological Society of America</publisher>
+         </originInfo>
+         <identifier type="issn"/>
+         <identifier type="local">Journal:jnl47193</identifier>
+         <identifier type="local">Journal:jnl47193</identifier>
+         <part>
+            <text>1999 Feb., v. 9, no. 1 p.186-201</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1890/1051-0761(1999)009[0186:SEOLCA]2.0.CO;2</identifier>
+      <identifier type="control">9916299182107426</identifier>
+      <identifier type="agricola">IND21979876</identifier>
+      <extension>
+         <identifier type="local">agid:2012631</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">180321</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118055817.0</recordChangeDate>
+         <recordIdentifier>9916299182107426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

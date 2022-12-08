@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial and temporal patterns of rowan (Sorbus aucuparia L.) regeneration
+        in West Carpathian subalpine spruce forest</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Magdalena</namePart>
+      <namePart type="family">Żywiec</namePart>
+      <displayForm>Żywiec, Magdalena</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Mateusz</namePart>
+      <namePart type="family">Ledwoń</namePart>
+      <displayForm>Ledwoń, Mateusz</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2008-02</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 283-291.</extent>
+      </physicalDescription>
+      <abstract>Non-random seed shadows are commonly seen in plant species whose seeds are
+        dispersed by animals, in particular by birds. The behaviour of birds can influence the
+        spatial pattern of seed dispersal and, consequently, the entire regeneration process of
+        fleshy-fruited trees. This study examined regeneration patterns in a fleshy-fruited tree
+        species, rowan (Sorbus aucuparia L.), growing in West Carpathian subalpine spruce forests,
+        focussing on two problems: the temporal relationship between rowan regeneration and gap
+        formation, and the spatial relationship between rowan regeneration and stand structure. It
+        was found that rowan seedlings and saplings were recruited in advance of gap formation.
+        Establishment of new rowan individuals in gaps was infrequent, but gaps enhanced their
+        regeneration nearby under spruce canopy, where they occurred densely in a narrow belt about
+        15 m wide. Inside spruce stands, the highest density of young rowans was directly under
+        crowns, especially near trunk bases. Few rowan saplings were found growing under mature
+        rowan trees. The presence of a rowan seedling and sapling bank determines whether rowans
+        fill spruce stand gaps. Dense rowan groves can develop mainly in extensive but slowly
+        expanding gaps.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>Picea</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Sorbus aucuparia</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>birds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>groves</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>saplings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seed dispersal</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seedlings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand structure</topic>
+      </subject>
+      <subject>
+         <topic>Dispersal limitations</topic>
+      </subject>
+      <subject>
+         <topic>Fleshy-fruited tree</topic>
+      </subject>
+      <subject>
+         <topic>Gap regeneration</topic>
+      </subject>
+      <subject>
+         <topic>Seedling bank</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="electronic resource" usage="primary">http://dx.doi.org/10.1007/s11258-007-9291-z</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Plant ecology</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn">0305-0270 0921-2973 1938-4254 1442-9985 0378-1127 1610-7403 0169-2046 1385-0237 1618-8667 0161-8202</identifier>
+         <identifier type="local">Journal:jnl3243 Journal:jnl9765 Journal:jnl3870067 Journal:19765 Journal:jnl59958 Journal:jnl9013 Journal:jnl3870061 Journal:12405 Journal:jnl55230 Journal:jnl893556 Journal:jnl7320</identifier>
+         <part>
+            <text>2008 Feb., v. 194, no. 2 p.283-291</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1007/s11258-007-9291-z</identifier>
+      <identifier type="control">9916292077007426</identifier>
+      <identifier type="agricola">IND43985474</identifier>
+      <extension>
+         <identifier type="local">agid:569706</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">071209</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118063606.0</recordChangeDate>
+         <recordIdentifier>9916292077007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

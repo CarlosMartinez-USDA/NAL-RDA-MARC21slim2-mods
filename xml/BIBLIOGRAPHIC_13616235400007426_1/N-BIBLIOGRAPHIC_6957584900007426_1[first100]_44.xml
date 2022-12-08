@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Halfway encounters: Meeting points of colonization routes among the
+                southern beeches Nothofagus pumilio and N. antarctica</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Carolina</namePart>
+      <namePart type="family">Soliani</namePart>
+      <displayForm>Soliani, Carolina</displayForm>
+      <affiliation>Instituto Nacional de Tecnología Agropecuaria – EEA Bariloche,
+                Modesta Victoria 4450, 8400 Bariloche, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Yoshiaki</namePart>
+      <namePart type="family">Tsuda</namePart>
+      <displayForm>Tsuda, Yoshiaki</displayForm>
+      <affiliation>Department of Ecology and Genetics, Evolutionary Biology Centre,
+                Uppsala University, Norbyvägen 18D, 75236 Uppsala, Sweden</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Francesca</namePart>
+      <namePart type="family">Bagnoli</namePart>
+      <displayForm>Bagnoli, Francesca</displayForm>
+      <affiliation>Institute for Sustainable Plant Protection, National Research
+                Council, Via Madonna del Piano 10, 50019 Sesto Fiorentino (Firenze),
+                Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Leonardo A.</namePart>
+      <namePart type="family">Gallo</namePart>
+      <displayForm>Gallo, Leonardo A.</displayForm>
+      <affiliation>Instituto Nacional de Tecnología Agropecuaria – EEA Bariloche,
+                Modesta Victoria 4450, 8400 Bariloche, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Giovanni G.</namePart>
+      <namePart type="family">Vendramin</namePart>
+      <displayForm>Vendramin, Giovanni G.</displayForm>
+      <affiliation>Institute of Biosciences and Bioresources, National Research Council,
+                Via Madonna del Piano 10, 50019 Sesto Fiorentino (Firenze), Italy</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <namePart type="given">Paula</namePart>
+      <namePart type="family">Marchelli</namePart>
+      <displayForm>Marchelli, Paula</displayForm>
+      <affiliation>Instituto Nacional de Tecnología Agropecuaria – EEA Bariloche,
+                Modesta Victoria 4450, 8400 Bariloche, Argentina</affiliation>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2015-04</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 197-207.</extent>
+      </physicalDescription>
+      <abstract>The Patagonian region is characterized by a complex biogeographic
+                history, with evidence of deep phylogeographic breaks shared among species. Of
+                particular interest to conservation is the nature of colonization and settlement
+                patterns after the last glacial period, including the detection of secondary contact
+                between different lineages and/or hybridization among related species around
+                phylogeographic breaks. Here we studied population demography and past hybridization
+                of two widespread tree species endemic to South America, Nothofagus pumilio and N.
+                antarctica.Using 8 nuclear microsatellites we genotyped 41 populations of both
+                species. Genetic variation and structure across the geographic region were evaluated
+                within and among species and the past demographic history of hybridization between
+                the two species was inferred using Approximate Bayesian Computation (ABC).Northern
+                and southern lineages were identified in each species, and Bayesian clustering
+                revealed their convergence at mid latitudes (42°S). Spatial genetic structure (SGS)
+                also indicated the existence of a genetic discontinuity at these latitudes, which is
+                in agreement with previous data from maternal DNA markers. Several populations
+                around 42–44°S presented high levels of genetic diversity with a decrease toward
+                southern populations. Even though the species are clearly differentiated
+                (G’ST=0.335), admixed gene pools were observed in both species. Two independent runs
+                of ABC suggested that inter species admixture-like patterns occurred within the
+                timescale of the Last Glacial Maximum (around 20,000 BP). We also provide evidences
+                of recent and bi-directional hybridization/introgression between the two Nothofagus
+                species and describe features of the populationś demography in the past. The
+                settlement of a secondary contact zone in Nothofagus species around 42–44°S
+                coincides with the phylogeographic breaks and hotspots of genetic diversity found in
+                other plant and animal species in Patagonia, highlighting its importance as
+                reservoir of diversity. The characterization of the population history of native
+                species can contribute substantially to long-term conservation and management
+                policies.</abstract>
+      <subject authority="atg">
+         <topic>Bayesian theory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Nothofagus pumilio</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>animals</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>demography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>gene pool</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic markers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>indigenous species</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>introgression</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>issues and policy</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>latitude</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>microsatellite repeats</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>phylogeography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>secondary contact</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Argentina</geographic>
+      </subject>
+      <subject>
+         <topic>Secondary contact zone</topic>
+      </subject>
+      <subject>
+         <topic>Phylogeography</topic>
+      </subject>
+      <subject>
+         <topic>Hybridization</topic>
+      </subject>
+      <subject>
+         <topic>Patagonian temperate forests</topic>
+      </subject>
+      <subject>
+         <topic>nSSRs</topic>
+      </subject>
+      <subject>
+         <topic>ABC</topic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary">https://dx.doi.org/10.1016/j.ympev.2015.01.006</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Molecular phylogenetics and evolution</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Elsevier Inc.</publisher>
+         </originInfo>
+         <identifier type="issn">1055-7903</identifier>
+         <identifier type="local">Journal:jnl3945168</identifier>
+         <identifier type="local">Journal:jnl3945168</identifier>
+         <part>
+            <text>2015 Apr., v. 85 p.197-207</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.ympev.2015.01.006</identifier>
+      <identifier type="control">9916299299007426</identifier>
+      <identifier type="agricola">IND605434945</identifier>
+      <extension>
+         <identifier type="local">agid:5434945</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">190411</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061345.0</recordChangeDate>
+         <recordIdentifier>9916299299007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Land use patterns and urbanization in the holy city of Varanasi,
+                India: a scenario</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Manoj</namePart>
+      <namePart type="family">Kumar</namePart>
+      <displayForm>Kumar, Manoj </displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Nivedita</namePart>
+      <namePart type="family">Mukherjee</namePart>
+      <displayForm>Mukherjee, Nivedita </displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">Gyan Prakash</namePart>
+      <namePart type="family">Sharma</namePart>
+      <displayForm>Sharma, Gyan Prakash </displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">A. S</namePart>
+      <namePart type="family">Raghubanshi</namePart>
+      <displayForm>Raghubanshi, A. S </displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2010-08</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 417-422.</extent>
+      </physicalDescription>
+      <abstract>Rapid urbanization and increasing land use changes due to population
+                and economic growth in selected landscapes is being witnessed of late in India and
+                other developing countries. The cities are expanding in all directions resulting in
+                large-scale urban sprawl and changes in urban land use. The spatial pattern of such
+                changes is clearly noticed on the urban fringes or city peripheral rural areas than
+                in the city center. In fact, this is reflected in changing urban land use patterns.
+                There is an urgent need to accurately describe land use changes for planning and
+                sustainable management. In the recent times, remote sensing is gaining importance as
+                vital tool in the analysis and integration of spatial data. This study intends to
+                estimate land use pattern in a planned and unplanned urban setup and also to analyze
+                the impact of change in land use pattern in the Varanasi urban environment. The
+                results indicate that the planned urban setup had a higher tree cover to that of
+                unplanned area in the Varanasi City, although a considerable disparity existed
+                within the planned urban setups. The results emphasize the need to critically review
+                concepts of urban planning and give more consideration to the preservation and
+                management of urban tree cover/greenspace.</abstract>
+      <subject authority="atg">
+         <topic>cities</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>developing countries</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscapes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rural areas</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial data</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urban areas</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urban planning</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>urbanization</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Cities</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>City Planning</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Environmental Monitoring</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Urbanization</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>India</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>India</geographic>
+      </subject>
+      <subject>
+         <topic>Planned and unplanned cities</topic>
+      </subject>
+      <subject>
+         <topic>Varanasi</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1007/s10661-009-1060-0</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Environmental monitoring and assessment</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>Dordrecht : Springer Netherlands</publisher>
+         </originInfo>
+         <identifier type="issn"/>
+         <identifier type="local">Journal:jnl33242</identifier>
+         <part>
+            <text>2010 Aug., v. 167, no. 1-4 p.417-422</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">19562495 10.1007/s10661-009-1060-0</identifier>
+      <identifier type="control">9916299450907426</identifier>
+      <identifier type="agricola">IND44397388</identifier>
+      <extension>
+         <note type="saleTape">20100709 20100807 00000000</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:2254214</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100709</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118061250.0</recordChangeDate>
+         <recordIdentifier>9916299450907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>

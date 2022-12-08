@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>A </nonSort>
+      <title>method for estimating vulnerability of Douglas-fir growth to
+                climate change in the northwestern U.S</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">J.S.</namePart>
+      <namePart type="family">Littell</namePart>
+      <displayForm>Littell, J.S.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.L.</namePart>
+      <namePart type="family">Peterson</namePart>
+      <displayForm>Peterson, D.L.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2005-05</dateIssued>
+      <issuance>continuing</issuance>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 369-374.</extent>
+      </physicalDescription>
+      <abstract>Borrowing from landscape ecology, atmospheric science, and integrated
+                assessment, we aim to understand the complex interactions that determine
+                productivity in montane forests and utilize such relationships to forecast montane
+                forest vulnerability under global climate change. Specifically, we identify
+                relationships for precipitation and temperature that govern the spatiotemporal
+                variability in Douglas-fir (Pseudotsuga menziesii (Mirb.) Franco) growth by seeking
+                similarities in patterns of growth/climate models across a significant portion of
+                the climatological range of the species. In the 21st century and beyond, sustainable
+                forestry will depend on successful adaptation to the impacts of climate change and
+                climate variability on forest structure and function. The combination of these foci
+                will allow improved prediction of the fate of montane forests over a wide range of
+                biogeoclimatic conditions in western North America and thus allow improved
+                management strategies for adapting to climate change. We describe a
+                multi-disciplinary strategy for analyzing growth variability as a function of
+                climate over a broad range of local-to-regional influences and demonstrate the
+                efficacy of this sampling method in defining regional gradients of growth-limiting
+                factors.</abstract>
+      <note>Includes references</note>
+      <note>Summary in French.</note>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>montane forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pseudotsuga menziesii</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>global warming</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscape ecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest ecology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temporal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climatic factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendrochronology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>statistical models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>regression analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>sampling</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Northwestern United States</geographic>
+      </subject>
+      <subject authority="agricola">
+         <topic>K250</topic>
+         <topic>Forest Mensuration and Description</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>B200</topic>
+         <topic>Meteorology and Climatology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>F300</topic>
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>X100</topic>
+         <topic>Mathematics and Statistics</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.5558/tfc81369-3</url>
+      </location>
+      <location>
+         <url displayLabel="Available in the National Agricultural Library PubAg search&#xA;                system">https://handle.nal.usda.gov/10113/37321</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forestry chronicle</title>
+         </titleInfo>
+         <identifier type="issn">0015-7546</identifier>
+         <identifier type="local">Journal:12176</identifier>
+         <part>
+            <text>2005 , v. 81, no. 3 p.369-374</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.5558/tfc81369-3 10113/37321</identifier>
+      <identifier type="control">9916305014907426</identifier>
+      <identifier type="agricola">IND43729093</identifier>
+      <extension>
+         <note type="saleTape">20100108 20100205 00000000</note>
+         <note type="indexer">IND LYN 2006/06/28</note>
+         <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:37321</identifier>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">050801</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118120613.0</recordChangeDate>
+         <recordIdentifier>9916305014907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </originInfo>
+</mods>
