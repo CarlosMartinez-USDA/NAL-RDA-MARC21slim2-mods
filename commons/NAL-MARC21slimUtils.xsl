@@ -340,20 +340,28 @@
 
 <xd:doc scope="component">
 	<xd:desc>
-		<xd:p><xd:b>Function: </xd:b>f:convertMARCCountry</xd:p>
-		
+		<xd:p><xd:b>Function: </xd:b>f:convertMARCCountry</xd:p>		
 		<xd:p><xd:b>Usage: </xd:b>f:convertMARCCountry([xpath/substring($controlfield008,
 			13,3)]</xd:p>
 	</xd:desc>
-	<xd:param name="marccode">MARC two or three-letter country code derived from the 008 control
-		field.</xd:param>
+	<xd:param name="marccode">MARC two or three-letter country code derived from the 008 control field.</xd:param>
 </xd:doc>
 <xsl:function name="f:convertMARCCountry" as="xs:string">
+
 	<xsl:param name="marccode" as="xs:string"/>	
-	<xsl:variable name="nodes">
-		<xsl:copy-of select="document('xml/marcCountry.xml')"/>
-	</xsl:variable>
-	<xsl:sequence select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
+   <!-- <xsl:variable name="MARCcode">-->
+		<xsl:variable name="nodes">
+			<xsl:copy-of select="document('xml/marcCountry.xml')"/>
+		</xsl:variable>
+	<!--<xsl:choose>
+     <xsl:when test="$marccode=''"/>
+	    <xsl:otherwise>-->
+	    	<xsl:value-of select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
+<!--	    </xsl:otherwise>
+		</xsl:choose>-->
+	<!--</xsl:variable>-->
+<!--	<xsl:sequence select="$MARCcode"/>-->
+	
 </xsl:function>
 
 
@@ -373,7 +381,7 @@
 		<xsl:variable name="nodes">
 			<xsl:copy-of select="document('./iso639conversion.xml')"/>
 		</xsl:variable>
-		<xsl:sequence select="$nodes/isolang:iso_languages/isolang:iso_language[isolang:iso_639-2 = $iso_639-2]/isolang:language"/>
+		<xsl:value-of select="$nodes/isolang:iso_languages/isolang:iso_language[isolang:iso_639-2 = $iso_639-2]/isolang:language"/>
 	</xsl:function>
 	
 	

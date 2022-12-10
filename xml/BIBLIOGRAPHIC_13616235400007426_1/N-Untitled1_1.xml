@@ -1,153 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:mods="http://www.loc.gov/mods/v3"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
-      version="3.4">
-   <titleInfo>
-      <title>Fire ecology and management</title>
-      <subTitle>past, present, and future of US forested ecosystems</subTitle>
-   </titleInfo>
-   <name type="personal">
-      <namePart type="given">Cathryn H.</namePart>
-      <namePart type="family">Greenberg</namePart>
-      <displayForm>Greenberg, Cathryn H.</displayForm>
-      <role>
-         <roleTerm type="text">editor</roleTerm>
-      </role>
-   </name>
-   <name type="personal">
-      <namePart type="date">1954-</namePart>
-      <namePart type="given">Beverly S.</namePart>
-      <namePart type="family">Collins</namePart>
-      <displayForm>Collins, Beverly S.</displayForm>
-      <role>
-         <roleTerm type="text">editor</roleTerm>
-      </role>
-   </name>
-   <typeOfResource>text</typeOfResource>
-   <genre authority="marcgt">encyclopedia</genre>
-   <genre authority="rdacontent">text</genre>
-   <genre authority="">Electronic books.</genre>
-   <originInfo>
-      <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
-      <issuance>monographic</issuance>
-      <originInfo displayLabel="publisher">
-         <place>
-            <placeTerm type="text">Cham, Switzerland :Springer,2021</placeTerm>
-         </place>
-         <publisher>Springer</publisher>
-         <dateIssued>2021</dateIssued>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo>
+         <title>Mapping and assessing water use in a Central Asian irrigation system by
+            utilizing MODIS remote sensing products</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Christopher</namePart>
+         <namePart type="family">Conrad</namePart>
+         <displayForm>Conrad, Christopher</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Stefan W.</namePart>
+         <namePart type="family">Dech</namePart>
+         <displayForm>Dech, Stefan W.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Mohsin</namePart>
+         <namePart type="family">Hafeez</namePart>
+         <displayForm>Hafeez, Mohsin</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">John</namePart>
+         <namePart type="family">Lamers</namePart>
+         <displayForm>Lamers, John</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Christopher</namePart>
+         <namePart type="family">Martius</namePart>
+         <displayForm>Martius, Christopher</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Günter</namePart>
+         <namePart type="family">Strunz</namePart>
+         <displayForm>Strunz, Günter</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007-12</dateIssued>
       </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
       <physicalDescription>
-         <form authority="marcform">print</form>
-         <form authority="marccategory">electronic resource</form>
-         <form authority="marcsmd">remote</form>
-         <extent>1 online resource (xvii, 502 pages) : illustrations (some color).</extent>
-         <form type="media" authority="rdamedia">computer</form>
-         <form type="carrier" authority="rdacarrier">online resource</form>
+         <extent>p. 197-218.</extent>
       </physicalDescription>
-      <abstract>This edited volume presents original scientific research and
-                knowledge synthesis covering the past, present, and potential future fire ecology of
-                major US forest types, with implications for forest management in a changing
-                climate. The editors and authors highlight broad patterns among ecoregions and
-                forest types, as well as detailed information for individual ecoregions, for fire
-                frequencies and severities, fire effects on tree mortality and regeneration, and
-                levels of fire-dependency by plant and animal communities. The foreword addresses
-                emerging ecological and fire management challenges for forests, in relation to
-                sustainable development goals as highlighted in recent government reports. An
-                introductory chapter highlights patterns of variation in frequencies, severities,
-                scales, and spatial patterns of fire across ecoregions and among forested ecosystems
-                across the US in relation to climate, fuels, topography and soils, ignition sources
-                (lightning or anthropogenic), and vegetation. Separate chapters by respected experts
-                delve into the fire ecology of major forest types within US ecoregions, with a focus
-                on the level of plant and animal fire-dependency, and the role of fire in
-                maintaining forest composition and structure. The regional chapters also include
-                discussion of historic natural (lightning-ignited) and anthropogenic (Native
-                American; settlers) fire regimes, current fire regimes as influenced by recent
-                decades of fire suppression and land use history, and fire management in relation to
-                ecosystem integrity and restoration, wildfire threat, and climate change. The
-                summary chapter combines the major points of each chapter, in a synthesis of US-wide
-                fire ecology and forest management into the future. This book provides current,
-                organized, readily accessible information for the conservation community, land
-                managers, scientists, students and educators, and others interested in how fire
-                behaviour and effects on structure and composition differ among ecoregions and
-                forest types, and what that means for forest management today and in the future.
-                .</abstract>
-      <tableOfContents>Chapter 1. Introduction to Fire Ecology across USA Forested
-                Ecosystems: Past, Present, and Future (Cathryn H. Greenberg, Beverly S. Collins,
-                Scott Goodrick, Michael C. Stambaugh, and Gary R. Wein) -- Chapter 2. The Role of
-                Fire in the Dynamics of Piedmont Vegetation (Joanna Spooner, Robert K. Peet, Michael
-                P. Schafale, Alan S. Weakley and Thomas R. Wentworth) -- Chapter 3. Fire Ecology and
-                Fire Management of Southeastern Coastal Plain Pine Ecosystems (Jeff S. Glitzenstein,
-                J. Stephen Brewer, Ronald. E. Masters, J. Morgan Varner, and J. Kevin Hiers) --
-                Chapter 4. Fire Ecology and Management in Eastern Broadleaf and Appalachian Forests
-                (Mary A. Arthur, J. Morgan Varner, Charles W. Lafon, Heather D. Alexander, Daniel C.
-                Dey, Craig A. Harper, Sally P. Horn, Todd F. Hutchinson, Tara L. Keyser, Marcus A.
-                Lashley, Christopher E. Moorman, and Callie J. Schweitzer) -- Chapter 5. Fire
-                Ecology and Management of Forest Ecosystems in the Western Central Hardwoods and
-                Prairie-Forest Border (Michael C. Stambaugh, Benjamin O. Knapp, and Daniel C. Dey)
-                -- Chapter 6. Fire in Floodplain Forests of the Southeastern USA hy (Paul R. Gagnon,
-                Loretta L. Battaglia, Brice B. Hanberry, William H. Conner, and Sammy L. King) --
-                Chapter 7. History and Future of Fire in Hardwood and Conifer Forests of the Great
-                Lakes-Northeastern Forest Region, USA(Lee E. Frelich, Craig G. Lorimer, and Michael
-                C. Stambaugh) -- Chapter 8. Fire Ecology of Rocky Mountain Forests(Sharon M. Hood,
-                Brian J. Harvey, Paula J. Fornwalt, Cameron E. Naficy, Winslow D. Hansen, Kimberley
-                T. Davis, Mike A. Battaglia, Camille Stevens-Rumann, Victoria Saab) -- Chapter 9.
-                Fire Ecology of the North American Mediterranean-Climate Zone(Hugh D. Safford,
-                Ramona J. Butz, Gabrielle N. Bohlman, Michelle Coppoletta, Becky L. Estes, Shana E.
-                Gross, Kyle E. Merriam, Marc D. Meyer, Nicole A. Molinari, and Amarina Wuenschel) --
-                Chapter 10. Fire Ecology and Management in Pacific Northwest Forests(Matthew J.
-                Reilly, Jessica E. Halofsky, Meg A. Krawchuk, Daniel C. Donato, Paul F. Hessburg,
-                James Johnston, Andrew Merschel, Mark E. Swanson, Joshua S. Halofsky, and Thomas A.
-                Spies) -- Chapter 11. Fire Ecology and Management of Southwestern Forests(Peter Z.
-                Fulé, Catrin M. Edgeley, Carol L. Chambers, Serra Hoagland, Blanca Céspedes) --
-                Chapter 12. Fire and Forests in the 21st Century: Managing Resilience under Changing
-                Climates and Fire Regimes in USA Forests(James M. Vose, David L. Peterson,
-                Christopher J. Fettig, Jessica E. Halofsky, J. Kevin Hiers, Robert E. Keane, Rachel
-                Loehman, and Michael C. Stambaugh).</tableOfContents>
-      <note type="statement of responsibility" altRepGroup="00">Cathryn H</note>
-      <note type="bibliography">Includes bibliographical references.</note>
-      <note>Online resource; title from PDF title page (SpringerLink, viewed
-                October 5, 2021).</note>
-      <subject authority="lcsh">
-         <topic>Forest fires</topic>
-         <topic>Environmental aspects</topic>
+      <abstract>Spatial and temporal patterns of water depletion in the irrigated land of
+            Khorezm, a region located in Central Asia in the lower floodplains of the Amu Darya
+            River, were mapped and monitored by means of MODIS land products. Land cover and land
+            use were classified by using a recursive partitioning and regression tree with 250 m
+            MODIS Normalized Difference Vegetation Index (NDVI) time series. Seasonal actual
+            evapotranspiration (ETact) was obtained by applying the Surface Energy Balance Algorithm
+            for Land (SEBAL) to 1 km daily MODIS data. Elements of the SEBAL based METRIC model
+            (Mapping Evapotranspiration at high Resolution and with Internalized Calibration) were
+            adopted and modified. The upstream-downstream difference in irrigation was reflected by
+            analyzing agricultural land use and amounts of depleted water (ETact) using Geographical
+            Information Systems (GIS). The validity of the MODIS albedo and emissivity used for
+            modeling ETact was assessed with data extracted from literature. The r ² value of 0.6
+            indicated a moderate but significant association between ETact and class-A-pan
+            evaporation. Deviations of ETact from the 10-day reference evapotranspiration of wheat
+            and cotton were found to be explainable. In Khorezm, seasonal maximum values superior to
+            1,200 and 1,000 mm ETact were estimated for rice and cotton fields, respectively.
+            Spatio-temporal comparisons of agricultural land use with seasonal ETact disclosed
+            unequal water consumption in Khorezm. Seasonal ETact on agricultural land decreased with
+            increasing distance to the water intake points of the irrigation system (972-712 mm).
+            Free MODIS data provided reliable, exhaustive, and consistent information on water use
+            relevant for decision support in Central Asian water management.</abstract>
+      <note>In the special issue: Emerging issues on land and water in Central Asia /
+            edited by J. Froebrich, M.G. Bos and K. Wegerich.</note>
+      <note>Includes references</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>temporal variation</topic>
       </subject>
-      <classification authority="lcc">SD421</classification>
-      <classification authority="nal">QH545.F5 F55 2021</classification>
+      <subject authority="atg">
+         <topic>cotton</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>irrigation water</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>evapotranspiration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>rice</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fields</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>irrigation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Oryza sativa</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Gossypium hirsutum</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>geographic information systems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>vegetation cover</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>floodplains</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>remote sensing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>irrigated farming</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Central Asia</geographic>
+      </subject>
+      <subject>
+         <topic>water use</topic>
+      </subject>
+      <subject>
+         <topic>seasonal actual evapotranspiration</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Irrigation and Drainage</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Water Resources and Management</topic>
+      </subject>
       <location>
-         <url displayLabel="SpringerLink" usage="primary">https://doi.org/10.1007/978-3-030-73267-7</url>
+         <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="EBSCOhost">https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=3049503</url>
+         <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1007/s10795-007-9029-z</url>
       </location>
-      <relatedItem type="series">
+      <relatedItem type="host">
          <titleInfo>
-            <title>Managing forest ecosystems ; v. 39</title>
+            <title>Irrigation and drainage systems</title>
          </titleInfo>
+         <identifier type="local">Journal:jnl40314</identifier>
+         <identifier type="issn">0168-6291</identifier>
+         <part>
+            <detail type="volume">
+               <number>21</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>3</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>197</start>
+               <end>218</end>
+            </extent>
+            <text type="year">2007</text>
+            <text type="month">Dec</text>
+         </part>
       </relatedItem>
-      <identifier type="isbn">9783030732677</identifier>
-      <identifier type="isbn">3030732673</identifier>
-      <identifier type="isbn" invalid="yes">9783030732660</identifier>
-      <identifier type="doi">10.1007/978-3-030-73267-7</identifier>
-      <identifier type="control">9915461366507426</identifier>
-      <identifier type="agricola">CAT31444502</identifier>
-      <identifier type="oclc">1273411585</identifier>
+      <identifier type="doi">10.1007/s10795-007-9029-z</identifier>
+      <identifier type="control">9916297787207426</identifier>
+      <identifier type="agricola">IND43985222</identifier>
       <extension>
-         <note type="saleTape">20211027 00000000 00000000</note>
+         <note type="saleTape">20080508 20080606 00000000</note>
+         <note type="indexer">IND RHF 2008/05/07</note>
          <note type="publicationSource">Non-US</note>
+         <identifier type="local">agid:716136 </identifier>
       </extension>
       <recordInfo>
-         <descriptionStandard>rda pn</descriptionStandard>
-         <recordContentSource authority="marcorg">GW5XE</recordContentSource>
-         <recordCreationDate encoding="marc">211005</recordCreationDate>
-         <recordChangeDate encoding="iso8601">20221101232430.0</recordChangeDate>
-         <recordIdentifier>9915461366507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">071209</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20140724000000.0</recordChangeDate>
+         <recordIdentifier>9916297787207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-marc21slim2mods%5Bproduction-preview%5D.xsl (Revision 2.03 2022/10/27)</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
       </recordInfo>
-   </originInfo>
-</mods>
+   </mods>
+</modsCollection>
