@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
+      <titleInfo>
+         <title>Value of old forest attributes related to cryptogam species richness in
+        temperate forests: A quantitative assessment</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Jeňýk</namePart>
+         <namePart type="family">Hofmeister</namePart>
+         <displayForm>Hofmeister, Jeňýk</displayForm>
+         <affiliation>Ecological Services, Areál ČOV, CZ-268 01 Hořovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jan</namePart>
+         <namePart type="family">Hošek</namePart>
+         <displayForm>Hošek, Jan</displayForm>
+         <affiliation>Ecological Services, Areál ČOV, CZ-268 01 Hořovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Marek</namePart>
+         <namePart type="family">Brabec</namePart>
+         <displayForm>Brabec, Marek</displayForm>
+         <affiliation>Department of Nonlinear Modelling, Institute of Computer Science, Academy
+        of Sciences of the Czech Republic, Pod Vodárenskou věží 2, CZ-182 07 Prague, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Daniel</namePart>
+         <namePart type="family">Dvořák</namePart>
+         <displayForm>Dvořák, Daniel</displayForm>
+         <affiliation>Department of Botany and Zoology, Faculty of Science, Masaryk University,
+        Kotlářská 267/2, CZ-611 37 Brno, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Miroslav</namePart>
+         <namePart type="family">Beran</namePart>
+         <displayForm>Beran, Miroslav</displayForm>
+         <affiliation>Museum of South Bohemia, Dukelská 1, CZ-370 51 České Budějovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Helena</namePart>
+         <namePart type="family">Deckerová</namePart>
+         <displayForm>Deckerová, Helena</displayForm>
+         <affiliation>O. Jeremiáše 1932/12, CZ-708 00 Ostrava-Poruba, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jiří</namePart>
+         <namePart type="family">Burel</namePart>
+         <displayForm>Burel, Jiří</displayForm>
+         <affiliation>Mycological Centre Jihlava, Březinova 11, CZ-586 01 Jihlava, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Martin</namePart>
+         <namePart type="family">Kříž</namePart>
+         <displayForm>Kříž, Martin</displayForm>
+         <affiliation>Department of Mycology, National Museum, Cirkusová 1740, CZ-193 00 Prague
+        9, Horní Počernice, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jan</namePart>
+         <namePart type="family">Borovička</namePart>
+         <displayForm>Borovička, Jan</displayForm>
+         <affiliation>Laboratory of Environmental Geology and Geochemistry, Institute of Geology,
+        Academy of Sciences of the Czech Republic, Rozvojová 269, CZ-165 00 Prague, Lysolaje, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jan</namePart>
+         <namePart type="family">Běťák</namePart>
+         <displayForm>Běťák, Jan</displayForm>
+         <affiliation>Mášova 21, CZ-602 00 Brno, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Martina</namePart>
+         <namePart type="family">Vašutová</namePart>
+         <displayForm>Vašutová, Martina</displayForm>
+         <affiliation>Department of Botany, Faculty of Science, University of South Bohemia,
+        Branišovská 31, CZ-370 05 České Budějovice, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jiří</namePart>
+         <namePart type="family">Malíček</namePart>
+         <displayForm>Malíček, Jiří</displayForm>
+         <affiliation>Department of Botany, Faculty of Science, Charles University, Benátská 2,
+        CZ-128 01 Prague 2, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Zdeněk</namePart>
+         <namePart type="family">Palice</namePart>
+         <displayForm>Palice, Zdeněk</displayForm>
+         <affiliation>Department of Botany, Faculty of Science, Charles University, Benátská 2,
+        CZ-128 01 Prague 2, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Lada</namePart>
+         <namePart type="family">Syrovátková</namePart>
+         <displayForm>Syrovátková, Lada</displayForm>
+         <affiliation>Department of Botany, Faculty of Science, Charles University, Benátská 2,
+        CZ-128 01 Prague 2, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jana</namePart>
+         <namePart type="family">Steinová</namePart>
+         <displayForm>Steinová, Jana</displayForm>
+         <affiliation>Technical University of Liberec, Centre for Nanomaterials, Advanced
+        Technologies and Innovations, Studentská 2, 460 01 Liberec, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Ivana</namePart>
+         <namePart type="family">Černajová</namePart>
+         <displayForm>Černajová, Ivana</displayForm>
+         <affiliation>Department of Botany, Faculty of Science, Charles University, Benátská 2,
+        CZ-128 01 Prague 2, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Eva</namePart>
+         <namePart type="family">Holá</namePart>
+         <displayForm>Holá, Eva</displayForm>
+         <affiliation>Department of Botany, Faculty of Science, University of South Bohemia,
+        Branišovská 31, CZ-370 05 České Budějovice, Czech Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Eva</namePart>
+         <namePart type="family">Novozámská</namePart>
+         <displayForm>Novozámská, Eva</displayForm>
+         <affiliation>Prague Botanic Garden, Nádvorní 134, CZ-171 00 Prague 7, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Ladislav</namePart>
+         <namePart type="family">Čížek</namePart>
+         <displayForm>Čížek, Ladislav</displayForm>
+         <affiliation>Ecological Services, Areál ČOV, CZ-268 01 Hořovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Viktor</namePart>
+         <namePart type="family">Iarema</namePart>
+         <displayForm>Iarema, Viktor</displayForm>
+         <affiliation>Ecological Services, Areál ČOV, CZ-268 01 Hořovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Kateryna</namePart>
+         <namePart type="family">Baltaziuk</namePart>
+         <displayForm>Baltaziuk, Kateryna</displayForm>
+         <affiliation>Ecological Services, Areál ČOV, CZ-268 01 Hořovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Tomáš</namePart>
+         <namePart type="family">Svoboda</namePart>
+         <displayForm>Svoboda, Tomáš</displayForm>
+         <affiliation>Ecological Services, Areál ČOV, CZ-268 01 Hořovice, Czech
+        Republic</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">x |hax |</placeTerm>

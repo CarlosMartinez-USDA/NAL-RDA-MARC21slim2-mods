@@ -349,11 +349,14 @@
 		field.</xd:param>
 </xd:doc>
 <xsl:function name="f:convertMARCCountry" as="xs:string">
-	<xsl:param name="marccode" as="xs:string"/>	
+	<xsl:param name="marccode" as="xs:string"/>
+	
 	<xsl:variable name="nodes">
 		<xsl:copy-of select="document('xml/marcCountry.xml')"/>
 	</xsl:variable>
+	
 	<xsl:sequence select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
+	
 </xsl:function>
 
 

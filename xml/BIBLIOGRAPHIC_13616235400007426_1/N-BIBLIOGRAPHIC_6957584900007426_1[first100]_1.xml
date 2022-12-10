@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">&gt;
-                        <mods version="3.5">
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <mods version="3.4">
       <titleInfo>
          <title>Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in
-                relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and
+                relation to Nantuckfet pine tip moth (Lepidoptera: Tortricidae) egg density and
                 location</title>
       </titleInfo>
       <name type="personal" usage="primary">
@@ -24,7 +24,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 355-359.</extent>
@@ -147,7 +147,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Frequent, low-amplitude disturbances drive high tree turnover rates
                 on a remote, cyclone-prone Polynesian island</title>
@@ -173,7 +173,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1240-1252.</extent>
@@ -286,7 +286,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Burn weather and three-dimensional fuel structure determine post-fire
                 tree mortality</title>
@@ -350,7 +350,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 859-878.</extent>
@@ -466,7 +466,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Geographic Variation in Songs of the Tree Pipit (Anthus trivialis) at
                 Two Spatial Scales</title>
@@ -508,7 +508,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 274-282.</extent>
@@ -592,7 +592,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Is the spatial pattern of a tree population in a seasonally dry
                 tropical climate explained by density‐dependent mortality?</title>
@@ -641,7 +641,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 191-202.</extent>
@@ -764,7 +764,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Long-term impacts of road disturbance on old-growth coast redwood
                 forests</title>
@@ -920,7 +920,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
          <title>Crown Shape of an Evergreen Oak, Quercus glauca, in a Hardwood
@@ -1070,7 +1070,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Assessing riparian vegetation structure and the influence of land use
                 using landscape metrics and geostatistical tools</title>
@@ -1250,7 +1250,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial and temporal patterns of rowan (Sorbus aucuparia L.)
                 regeneration in West Carpathian subalpine spruce forest</title>
@@ -1271,7 +1271,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 283-291.</extent>
@@ -1384,7 +1384,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Tree canopy change and neighborhood stability: A comparative analysis
                 of Washington, D.C. and Baltimore, MD</title>
@@ -1465,7 +1465,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 363-372.</extent>
@@ -1580,7 +1580,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Extreme mitochondrial population subdivision in southern Appalachian
                 paleoendemic spiders (Araneae: Hypochilidae: Hypochilus), with implications for
@@ -1612,7 +1612,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 167-181.</extent>
@@ -1733,7 +1733,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Aggregations of Sphodros rufipes (Araneae: Atypidae) in an urban
                 forest</title>
@@ -1774,7 +1774,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 503-505.</extent>
@@ -1848,7 +1848,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
          <title>“sun-effect”: microclimatic alterations predispose forest edges
@@ -1887,7 +1887,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 453-465.</extent>
@@ -2022,7 +2022,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Interpreting multiscale domains of tree cover disturbance patterns in
                 North America</title>
@@ -2064,7 +2064,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 147-152.</extent>
@@ -2157,7 +2157,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatiotemporal characterization of megaregional poly-centrality:
                 Evidence for new urban hypotheses and implications for polycentric
@@ -2229,7 +2229,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 712-731.</extent>
@@ -2337,7 +2337,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Predicting spatial and seasonal patterns of
                 wildlife&amp;#x2013;vehicle collisions in high-risk areas&lt;a
@@ -2381,7 +2381,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 428-437.</extent>
@@ -2555,7 +2555,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Temporal homogenization of functional and beta diversity in bird
                 communities of the Swiss Alps</title>
@@ -2604,7 +2604,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 900-911.</extent>
@@ -2754,7 +2754,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial Patterns of Brown Rot Epidemics and Development of
                 Microsatellite Markers for Analyzing Fine-Scale Genetic Structure of Monilinia
@@ -2806,7 +2806,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <abstract>To better understand the fine-scale spatial dynamics of brown rot
                 disease and corresponding fungal genotypes, we analyzed three-dimensional spatial
@@ -2896,9 +2896,6 @@
                <number>1</number>
                <caption>no.</caption>
             </detail>
-            <extent unit="pages">
-               <total> v. 13, no. 1</total>
-            </extent>
             <text type="year"/>
             <text type="month"/>
          </part>
@@ -2920,7 +2917,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Methodology to assess and map the potential development of forest
                 ecosystems exposed to climate change and atmospheric nitrogen deposition: A pilot
@@ -3097,7 +3094,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial patterns of nineteenth century fire severity persist after
                 fire exclusion and a twenty-first century wildfire in a mixed conifer forest
@@ -3160,7 +3157,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 2777-2790.</extent>
@@ -3263,7 +3260,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
          <title>extent of edge effects in fragmented landscapes: Insights from
@@ -3305,7 +3302,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 196-204.</extent>
@@ -3442,7 +3439,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Development of a Local Size Hierarchy Causes Regular Spacing of Trees
                 in an Even-aged Abies Forest: Analyses Using Spatial Autocorrelation and the Mark
@@ -3469,7 +3466,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 435-441.</extent>
@@ -3582,7 +3579,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Species-specific spatial structure, species coexistence and mortality
                 pattern in natural, uneven-aged Scots pine (Pinus sylvestris L.)-dominated
@@ -3615,7 +3612,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1-16.</extent>
@@ -3734,7 +3731,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Environmental correlates for tropical tree diversity and distribution
                 patterns in Borneo</title>
@@ -3825,7 +3822,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 523-532.</extent>
@@ -3977,7 +3974,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Age-class distribution and spatial patterns in an old-growth
                 hemlock-hardwood forest</title>
@@ -3998,7 +3995,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1939-1947.</extent>
@@ -4102,7 +4099,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Seed regeneration of Scots pine in boreal forest stands dominated by
                 lichen and feather moss</title>
@@ -4252,7 +4249,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Summer rainfall variability in European Mediterranean mountains from
                 the sixteenth to the twentieth century reconstructed from tree rings</title>
@@ -4305,7 +4302,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1627-1639.</extent>
@@ -4413,7 +4410,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial variation in tree regeneration in the forest-tundra ecotone,
                 Rocky Mountain National Park, Colorado</title>
@@ -4434,7 +4431,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1326-1339.</extent>
@@ -4568,7 +4565,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Social Sensing for Urban Land Use Identification</title>
       </titleInfo>
@@ -4707,9 +4704,6 @@
                <number>9</number>
                <caption>no.</caption>
             </detail>
-            <extent unit="pages">
-               <total>. 15, v. 9, no. 9</total>
-            </extent>
             <text type="year">2020</text>
             <text type="month">Sept</text>
          </part>
@@ -4731,7 +4725,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Monitoring changes in the impervious surfaces of urban functional
                 zones using multisource remote sensing data: a case study of Tianjin,
@@ -4928,7 +4922,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Tree-ring proxies of larch bud moth defoliation: latewood width and
                 blue intensity are more precise than tree-ring width</title>
@@ -5119,7 +5113,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Topographic variation in tree group and gap structure in Sierra
                 Nevada mixed-conifer forests with active fire regimes</title>
@@ -5305,7 +5299,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>A </nonSort>
          <title>Bayesian analysis of topographic influences on the presence and
@@ -5512,7 +5506,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Mapping and assessing water use in a Central Asian irrigation system
                 by utilizing MODIS remote sensing products</title>
@@ -5553,7 +5547,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 197-218.</extent>
@@ -5699,7 +5693,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Using 3D architectural models to assess light availability and root
                 bulkiness in coconut agroforestry systems</title>
@@ -5735,7 +5729,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 63-74.</extent>
@@ -5901,7 +5895,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Chloroplast DNA phylogeography reveals the island colonisation route
                 of Eucalyptus urophylla (Myrtaceae)</title>
@@ -5927,7 +5921,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 673-683.</extent>
@@ -6060,7 +6054,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Morphological and molecular variation in Conospermum triplinervium
                 (Proteaceae), the tree smokebush: implications for bushland restoration</title>
@@ -6091,7 +6085,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 451-460.</extent>
@@ -6210,7 +6204,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Kernel Intensity Estimation of 2-Dimensional Spatial Poisson Point
                 Processes From k-Tree Sampling</title>
@@ -6263,7 +6257,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 357-372.</extent>
@@ -6360,7 +6354,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Characteristics of tree damage by the grey red-backed vole (Myodes
                 rufocanus bedfordiae) in a deciduous forest in Hokkaido, Japan</title>
@@ -6513,7 +6507,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Low genetic diversity and fragmentation effects in a wind-pollinated
                 tree, Polylepis multijuga Plige (Rosaceae) in the high Andes</title>
@@ -6550,7 +6544,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 593-603.</extent>
@@ -6677,7 +6671,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>INTEGRATION OF GIS DATA AND CLASSIFIED SATELLITE IMAGERY FOR REGIONAL
                 FOREST ASSESSMENT</title>
@@ -6722,7 +6716,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1072-1083.</extent>
@@ -6821,7 +6815,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Simulating effects of landscape context and timber harvest on tree
                 species diversity</title>
@@ -6853,7 +6847,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 186-201.</extent>
@@ -6950,7 +6944,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Predicting effects of habitat destruction on plant communities: a
                 test of a model using amazonian trees</title>
@@ -6995,7 +6989,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 548-554.</extent>
@@ -7097,7 +7091,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Halfway encounters: Meeting points of colonization routes among the
                 southern beeches Nothofagus pumilio and N. antarctica</title>
@@ -7169,7 +7163,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 197-207.</extent>
@@ -7307,7 +7301,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Molecular phylogeny and diversification of a widespread Neotropical
                 rainforest bird group: The Buff-throated Woodcreeper complex, Xiphorhynchus
@@ -7390,7 +7384,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 131-140.</extent>
@@ -7524,7 +7518,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Predicting alpha diversity of African rain forests: models based on
                 climate and satellite-derived data do not perform better than a purely spatial
@@ -7726,7 +7720,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1164-1176.</extent>
@@ -7852,7 +7846,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Land use patterns and urbanization in the holy city of Varanasi,
                 India: a scenario</title>
@@ -7883,7 +7877,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 417-422.</extent>
@@ -8009,7 +8003,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Salmon abundance and patterns of forest greenness as measured by
                 satellite imagery</title>
@@ -8179,7 +8173,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial heterogeneity of a parasitic plant drives the seed‐dispersal
                 pattern of a zoochorous plant community in a generalist dispersal system</title>
@@ -8216,7 +8210,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 459-467.</extent>
@@ -8359,7 +8353,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Assessment of Gini-, entropy- and ratio-based classification trees
                 for groundwater potential modelling and prediction</title>
@@ -8551,7 +8545,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Neither host-specific nor random: Vascular epiphytes on three tree
                 species in a Panamanian lowland forest</title>
@@ -8572,7 +8566,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1103-1114.</extent>
@@ -8741,7 +8735,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Differences between soil ammonium and nitrate spatial pattern in six
                 plant communities. simulated effect on plant populations</title>
@@ -8767,7 +8761,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 333-346.</extent>
@@ -8877,7 +8871,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Uncertainty of biomass stocks in Spanish forests: a comprehensive
                 comparison of allometric equations</title>
@@ -8919,7 +8913,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 395-407.</extent>
@@ -9030,7 +9024,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Data, data everywhere: detecting spatial patterns in fine-scale
                 ecological information collected across a continent</title>
@@ -9074,7 +9068,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 67-84.</extent>
@@ -9186,7 +9180,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Seedling establishment of deciduous trees in various topographic
                 positions</title>
@@ -9227,7 +9221,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 35-44.</extent>
@@ -9348,7 +9342,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Remote sensing of forest die-off in the Anthropocene: From plant
                 ecophysiology to canopy structure</title>
@@ -9551,7 +9545,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
          <title>capability of species-related forest stand characteristics
@@ -9744,7 +9738,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Integrating multi-sensor remote sensing and species distribution
                 modeling to map the spread of emerging forest disease and tree mortality</title>
@@ -9973,7 +9967,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Seed traits, landscape and environmental parameters as predictors of
                 species occurrence in fragmented urban railway habitats</title>
@@ -10010,7 +10004,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 29-37.</extent>
@@ -10111,7 +10105,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>RAPD marker diversity within and among natural populations of the
                 clonal tree Cryptomeria japonica D. Don</title>
@@ -10137,7 +10131,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 75-90.</extent>
@@ -10227,7 +10221,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Detection of coastal wetland change in China: a case study in
                 Hangzhou Bay</title>
@@ -10294,7 +10288,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 103-124.</extent>
@@ -10396,7 +10390,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>A </nonSort>
          <title>large-scale change monitoring of wetlands using time series Landsat
@@ -10615,7 +10609,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>A </nonSort>
          <title>unifying study of phenotypic and molecular genetic variability in
@@ -10671,7 +10665,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 123-132.</extent>
@@ -10830,7 +10824,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatio-temporal critical source area patterns of runoff pollution
                 from agricultural practices in the Colombian Andes</title>
@@ -11051,7 +11045,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>The </nonSort>
          <title>relationship between soil organic carbon and soil surface
@@ -11091,7 +11085,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">||</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">g</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 297-307.</extent>
@@ -11245,7 +11239,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Does natural stand dynamics generate an aggregated pattern of canopy
                 openness? A case study in Abies-Picea-Fagus old-growth forests</title>
@@ -11423,7 +11417,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Genome-wide analysis of WRKY transcription factors in Solanum
                 lycopersicum</title>
@@ -11502,7 +11496,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 495-513.</extent>
@@ -11659,7 +11653,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Pathogen life-cycle leaves footprint on the spatial distribution of
                 recruitment of their host plants</title>
@@ -11722,7 +11716,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <abstract>Interactions between established and recruiting plants play an
                 important role in species coexistence in natural plant communities. However, our
@@ -11833,7 +11827,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <nonSort>A </nonSort>
          <title>method for estimating vulnerability of Douglas-fir growth to
@@ -11855,7 +11849,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 369-374.</extent>
@@ -11995,7 +11989,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Microclimate and land surface temperature in a biodiversity enriched
                 oil palm plantation</title>
@@ -12273,7 +12267,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Controls on stand transpiration and soil water utilization along a
                 tree density gradient in a Neotropical savanna</title>
@@ -12498,7 +12492,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Trend surface analysis of spatial patterns of tree size, microsite
                 effects, and competitive stress</title>
@@ -12514,7 +12508,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 279-282.</extent>
@@ -12588,7 +12582,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatiotemporal Patterns and Dynamics of Species Richness and
                 Abundance of Woody Plant Functional Groups in a Tropical Forest Landscape of Hainan
@@ -12615,7 +12609,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 547-558.</extent>
@@ -12752,7 +12746,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Comparative efficiency and accuracy of variable area transects versus
                 square plots for sampling tree diversity and density</title>
@@ -12778,7 +12772,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 223-236.</extent>
@@ -12929,7 +12923,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Interactions between macroclimate, microclimate, and anthropogenic
                 disturbance affect the distribution of aspen near its northern edge in Quebec:
@@ -13137,7 +13131,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatio-temporal water uptake patterns of tree saplings are not
                 altered by interspecific interaction in the early stage of a subtropical
@@ -13333,7 +13327,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Climate extremes during high competition contribute to mortality in
                 unmanaged self-thinning Norway spruce stands in Bulgaria</title>
@@ -13556,7 +13550,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Ecohydrological implications of drought for forests in the United
                 States</title>
@@ -13847,7 +13841,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Can airborne laser scanning assist in mapping and monitoring natural
                 forests?</title>
@@ -14034,7 +14028,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Growth Patterns and Spatial Distribution of Common Ash (Fraxinus
                 excelsior L.) in Latvia</title>
@@ -14176,7 +14170,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Regeneration of three pine species in a Mediterranean forest: A study
                 to test predictions from species distribution models under changing
@@ -14384,7 +14378,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Understory plant diversity under variable overstory cover in
                 Mediterranean forests at different spatial scales</title>
@@ -14616,7 +14610,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial patterns of total and available N and P at alpine
                 treeline</title>
@@ -14654,7 +14648,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 127-140.</extent>
@@ -14761,7 +14755,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial patterns of logging-related disturbance events: a multi-scale
                 analysis on forest management units located in the Brazilian Amazon</title>
@@ -14824,7 +14818,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 2083-2100.</extent>
@@ -14912,7 +14906,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial Distribution of Organic Matter and Nitrogen in the Entic
                 Podzols of the Prioksko-Terrasnyi Reserve and Its Relationship with the Structure of
@@ -14974,7 +14968,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1021-1032.</extent>
@@ -15080,7 +15074,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Effects of species' similarity and dominance on the functional and
                 phylogenetic structure of a plant meta‐community</title>
@@ -15123,7 +15117,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 143-153.</extent>
@@ -15214,7 +15208,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Influence of forest structure and experimental green-tree retention
                 on northern flying squirrel (Glaucomys sabrinus) abundance</title>
@@ -15416,7 +15410,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Using codispersion analysis to quantify and understand spatial
                 patterns in species–environment relationships</title>
@@ -15481,7 +15475,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 735-749.</extent>
@@ -15568,7 +15562,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Rainfall interception and spatial distribution of throughfall in a
                 pine forest planted in an arid zone</title>
@@ -15739,7 +15733,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>On the link between tree size and ecosystem carbon sequestration
                 capacity across continental forests</title>
@@ -15800,7 +15794,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <abstract>The asymptotic height (Hₘₐₓ) and the size‐scaling exponent (β),
                 proxies of tree size and important forest architectural parameters of the
@@ -15897,9 +15891,6 @@
                <number>6</number>
                <caption>no.</caption>
             </detail>
-            <extent unit="pages">
-               <total>e4079</total>
-            </extent>
             <text type="year">2022</text>
             <text type="month">June</text>
          </part>
@@ -15921,7 +15912,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Humans rather than Eurasian lynx (Lynx lynx) shape ungulate browsing
                 patterns in a temperate forest</title>
@@ -15982,7 +15973,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <abstract>The recolonization of human‐dominated landscapes by large carnivores
                 has been followed with considerable scientific interest; however, little is known
@@ -16064,9 +16055,6 @@
                <number>2</number>
                <caption>no.</caption>
             </detail>
-            <extent unit="pages">
-               <total>e3931</total>
-            </extent>
             <text type="year">2022</text>
             <text type="month">Feb</text>
          </part>
@@ -16088,7 +16076,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Pollen-detected altitudinal migration of forests during the Holocene
                 in the mountainous forest–steppe ecotone in northern China</title>
@@ -16257,7 +16245,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Comparative spatial analysis of the sooty blotch/flyspeck disease
                 complex, bullâ&#x80;&#x99;s eye and bitter rots of apples</title>
@@ -16304,7 +16292,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 271-280.</extent>
@@ -16406,7 +16394,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Optimisation of spatial allocation patterns in lianas compared to
                 trees used for support</title>
@@ -16432,7 +16420,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 295-304.</extent>
@@ -16547,7 +16535,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>ASCAT IB: A radar-based vegetation optical depth retrieved from the
                 ASCAT scatterometer satellite</title>
@@ -16679,7 +16667,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <abstract>Vegetation optical depth (VOD), as a microwave-based vegetation index
                 for vegetation water and biomass content, is increasingly used to study the impact
@@ -16800,7 +16788,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Landscape genetic structure of Olea europaea subsp. cuspidata in
                 Ethiopian highland forest fragments</title>
@@ -16835,7 +16823,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 1463-1474.</extent>
@@ -16959,7 +16947,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Emerging patterns in the comparative analysis of phylogenetic
                 community structure</title>
@@ -16990,7 +16978,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 572-592.</extent>
@@ -17109,7 +17097,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Large‐scale disturbance legacies and the climate sensitivity of
                 primary Picea abies forests</title>
@@ -17274,7 +17262,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 2169-2181.</extent>
@@ -17405,7 +17393,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial patterns of living and dead small trees in subalpine Norway
                 spruce forest reserves in Switzerland</title>
@@ -17584,7 +17572,7 @@
          </languageOfCataloging>
       </recordInfo>
    </mods>
-   <mods version="3.5">
+   <mods version="3.4">
       <titleInfo>
          <title>Spatial and temporal distribution of trunk‐injected 14C‐imidacloprid
                 in Fraxinus trees</title>
@@ -17637,7 +17625,7 @@
          <issuance>continuing</issuance>
       </originInfo>
       <language>
-         <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </language>
       <physicalDescription>
          <extent>p. 529-536.</extent>

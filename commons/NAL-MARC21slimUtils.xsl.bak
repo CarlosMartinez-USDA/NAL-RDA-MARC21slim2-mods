@@ -330,16 +330,12 @@
 </xd:doc>
 <xsl:function name="f:subjCatCode" as="xs:string">
 	<xsl:param name="code" as="xs:string"/>
-	<xsl:variable name="subjCatCode" as="xs:string">
-		<xsl:if test="$code!=''">
-			<xsl:value-of select="$code"/>
-		</xsl:if>
-	</xsl:variable>
 	<xsl:variable name="nodes">
 		<xsl:copy-of select="document('xml/nalSubjCat.xml')"/>
 	</xsl:variable>
 	<xsl:sequence
-		select="$nodes/nalsubcat:agricola/nalsubcat:subject[nalsubcat:code = $subjCatCode]/nalsubcat:category"/>
+		select="$nodes/nalsubcat:agricola/nalsubcat:subject[nalsubcat:code = $code]/nalsubcat:category"
+	/>
 </xsl:function>
 
 <xd:doc scope="component">
@@ -353,11 +349,14 @@
 		field.</xd:param>
 </xd:doc>
 <xsl:function name="f:convertMARCCountry" as="xs:string">
-	<xsl:param name="marccode" as="xs:string"/>	
+	<xsl:param name="marccode" as="xs:string"/>
+	<xsl:if test="$marccode=''"/>
 	<xsl:variable name="nodes">
 		<xsl:copy-of select="document('xml/marcCountry.xml')"/>
 	</xsl:variable>
+	
 	<xsl:sequence select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
+	
 </xsl:function>
 
 

@@ -11,10 +11,12 @@
     <!-- includes -->
 
     <xsl:include href="commons/NAL-MARC21slimUtils.xsl"/>
+    <xsl:include href="commons/params.xsl"/>
 
     <!-- outputs -->
 
     <xsl:output encoding="UTF-8" indent="yes" method="xml"/>
+    <!--saxon:next-in-chain="fix_characters.xsl"/>-->
 
     <!-- whitespace control -->
     <xsl:strip-space elements="*"/>
@@ -23,14 +25,15 @@
 
     
 
-	<xd:doc>
-		<xd:desc> Maintenance note: For each revision, change the content of &lt;recordInfo&gt;&lt;recordOrigin&gt; to reflect the new revision number.
+	   <!-- Maintenance note: For each revision, change the content of &lt;recordInfo&gt;&lt;recordOrigin&gt; to reflect the new revision number.
 			MARC21slim2MODS3-4 (Revision 1.98) 20141216
-			REvision 2.04 cm3 2022 added if test to originInfo producer
 			
-			Revision 2.05 - controlField008-35-37replace, uses replace function and regex to pinpoint 3 letter strin cm3 2022/12/05
-			Revision 2.04 - Added full xpath to originInfo elements cm3 2022/10/05
-			Revision 2.03 - Added if tests to originInfo producer elemetns to avoid empty tags. 
+    		Revision 2.08 - Commented out condiontal statements within issuance element for serials, contininuing resources, and integrating resources. cm3 2022/12/08	
+            Revision 2.07 - used substring-before function to get subfield b (ie., publisher) and subfield c (i.e., dateIssued). cm3 2022/12/08
+			Revision 2.06 - added conditional statement outside of issuance element to allow monographs, multipart monographs, and single items only. cm3 2022/12/08 
+			Revision 2.05 - controlField008-35-37replace, uses replace function and regex to capture 3 letter string. cm3 2022/12/05
+			Revision 2.04 - Added full xpath to originInfo elements. cm3 2022/10/05
+			Revision 2.03 - Added if tests to originInfo producer elements to avoid empty tags.  2022/11/08
 			Revision 2.02 - analyze-string 008 to pull out 2-3 letter text and apply custom marc country conversion function
 			Revision 2.01 - Removed marc: prefix from XSLT to accomodate prefix-less elements from Alma 
 			Revision 2.00 - Upgraded stylesheet to use XSLT 2.0 cm3 2022/10/05 
@@ -133,9 +136,12 @@
 			Revision 1.05 - MODS2 to MODS3 updates, language unstacking and de-duping, chopPunctuation expanded  2003/10/02 16:18:58  ntra
 			Revision 1.03 - Additional Changes not related to MODS Version 2.0 by ntra
 			Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
-		</xd:desc>
-	</xd:doc>
-	<xsl:template match="/">
+		-->
+	
+    <xd:doc id="root" scope="stylesheet">
+        <xd:desc>Processes the marcRecord Template</xd:desc>
+    </xd:doc>
+    <xsl:template match="/">
         <xsl:choose>
             <xsl:when test="//collection">
                 <xsl:result-document encoding="UTF-8" version="1.0" method="xml"
@@ -144,20 +150,20 @@
                     <modsCollection xmlns="http://www.loc.gov/mods/v3"
                         xmlns:xlink="http://www.w3.org/1999/xlink"
                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">>
+                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
                         <xsl:for-each select="//collection/record">
-                            <mods version="3.5">
-                                <xsl:call-template name="marcRecord"/>
-                            </mods>
+                         <mods version="3.4">
+                             <xsl:call-template name="marcRecord"/>
+                         </mods>
                         </xsl:for-each>
                     </modsCollection>
                 </xsl:result-document>
             </xsl:when>
             <xsl:otherwise>
-                <mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5"
+                <mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     xmlns="http://www.loc.gov/mods/v3"
-                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
                     <xsl:for-each select="//record">
                         <xsl:call-template name="marcRecord"/>
                     </xsl:for-each>
@@ -681,28 +687,44 @@
                 <xsl:call-template name="z2xx880"/>
             </xsl:for-each>
             <!-- cm3 edit, Revision 2.02 apply marc country conversion function-->
-
-            <xsl:variable name="MARCpublicationCode">
-                <xsl:analyze-string select="self::node()" regex="(\d+[a-z]\d+)([a-z]{{2,3}})">
+         
+            <xsl:variable name="MARCpublicationCode2">
+                <xsl:analyze-string select="replace($controlField008,'(\d+[a-z]\d+)(\D{2,3})','$2')" regex="(\d+[a-z]\d+)([a-z]{{2,3}})">
                     <xsl:matching-substring>
+                        <xsl:if test="matches(., '[a-z]{2,3}')">
                         <xsl:value-of select="normalize-space(regex-group(2))"/>
+                        </xsl:if>
                     </xsl:matching-substring>
+                    <xsl:non-matching-substring>
+                        <xsl:variable name="MARCpublicationCode"
+                            select="normalize-space(translate(substring($controlField008,16,3),'|',' '))"/>
+                        <xsl:if test="starts-with($MARCpublicationCode,'0123455789')">
+                            <xsl:value-of select="translate($MARCpublicationCode,'0123456789',' ')"/>
+                            <place>
+                                <placeTerm>
+                                    <xsl:attribute name="type">code</xsl:attribute>
+                                    <xsl:attribute name="authority">marccountry</xsl:attribute>
+                                    <xsl:value-of select="$MARCpublicationCode"/>
+                                </placeTerm>
+                            </place>
+                        </xsl:if>
+                    </xsl:non-matching-substring>
                 </xsl:analyze-string>
             </xsl:variable>
 
             <!--			<xsl:if test="translate($MARCpublicationCode, '|', '')">-->
-            <xsl:if test="matches($MARCpublicationCode, '[a-z]{2,3}')">
+            <xsl:if test="matches($MARCpublicationCode2, '[a-z]{2,3}')">
                 <place>
                     <!-- marccountry code -->
                     <placeTerm>
                         <xsl:attribute name="type">code</xsl:attribute>
                         <xsl:attribute name="authority">marccountry</xsl:attribute>
-                        <xsl:value-of select="$MARCpublicationCode"/>
+                        <xsl:value-of select="$MARCpublicationCode2"/>
                     </placeTerm>
                     <!-- decodes MARC Country Codes -->
                     <placeTerm>
                         <xsl:attribute name="type">text</xsl:attribute>
-                        <xsl:value-of select="f:convertMARCCountry($MARCpublicationCode)"/>
+                        <xsl:value-of select="f:convertMARCCountry($MARCpublicationCode2)"/>
                     </placeTerm>
                 </place>
             </xsl:if>
@@ -881,14 +903,27 @@
                     test="($controlField008-6 = 'e' or $controlField008-6 = 'p' or $controlField008-6 = 'r' or $controlField008-6 = 's' or $controlField008-6 = 't') and not($marcLeader6 = 'd' or $marcLeader6 = 'f' or $marcLeader6 = 'p' or $marcLeader6 = 't')">
                     <!-- use substring to limit for dates-->
                     <xsl:variable name="NALcontrolField008"
-                        select="substring(controlfield[@tag = '008'], 1, 13)"/>
+                        select="substring(controlfield[@tag = '008'], 1, 15)"/>
                     <xsl:choose>
                         <xsl:when test="matches($NALcontrolField008, '(\d+)(\w)(.*)')">
-                            <xsl:analyze-string select="substring($NALcontrolField008, 1, 13)"
+                            <xsl:analyze-string select="substring($NALcontrolField008, 1, 15)"
                                 regex="(\d+)(\w)(\d+)">
                                 <xsl:matching-substring>
                                     <dateIssued encoding="w3cdtf" keyDate="yes">
                                         <xsl:choose>
+                                            <xsl:when test="matches(regex-group(3), '\d{8}')">
+                                                <!--YYYY-->
+                                                <xsl:number value="substring(regex-group(3), 1, 4)"
+                                                    format="0001"/>
+                                                <xsl:text>-</xsl:text>
+                                                <!--MM-->
+                                                <xsl:number value="substring(regex-group(3), 5, 6)"
+                                                    format="01"/>
+                                             	<xsl:text>-</xsl:text>
+                                                <!--DD-->
+                                                <xsl:number value="substring(regex-group(3), 7, 8)"
+                                                    format="01"/>
+                                            </xsl:when>
                                             <xsl:when test="matches(regex-group(3), '\d{6}')">
                                                 <!--YYYY-->
                                                 <xsl:number value="substring(regex-group(3), 1, 4)"
@@ -1007,24 +1042,22 @@
             </xsl:for-each>
 
             <!--1.94 -->
-
+            <xsl:if test="$marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm' or $marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c') or $marcLeader7 = 'm' and ($marcLeader19 = '#')">
             <xsl:for-each select="leader">
                 <issuance>
                     <xsl:choose>
                         <xsl:when
-                            test="$marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm'"
-                            >monographic</xsl:when>
-                        <xsl:when test="$marcLeader7 = 'b'">continuing</xsl:when>
+                            test="$marcLeader7 = 'a' or $marcLeader7 = 'c' or $marcLeader7 = 'd' or $marcLeader7 = 'm'">monographic</xsl:when>
+<!--                        <xsl:when test="$marcLeader7 = 'b'">continuing</xsl:when>-->
                         <xsl:when
-                            test="$marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c')"
-                            >multipart monograph</xsl:when>
-                        <xsl:when test="$marcLeader7 = 'm' and ($marcLeader19 = '#')">single
-                            unit</xsl:when>
-                        <xsl:when test="$marcLeader7 = 'i'">integrating resource</xsl:when>
-                        <xsl:when test="$marcLeader7 = 'b' or $marcLeader7 = 's'">serial</xsl:when>
+                            test="$marcLeader7 = 'm' and ($marcLeader19 = 'a' or $marcLeader19 = 'b' or $marcLeader19 = 'c')">multipart monograph</xsl:when>
+                        <xsl:when test="$marcLeader7 = 'm' and ($marcLeader19 = '#')">single unit</xsl:when>
+                        <!--<xsl:when test="$marcLeader7 = 'i'">integrating resource</xsl:when>
+                        <xsl:when test="$marcLeader7 = 'b' or $marcLeader7 = 's'">serial</xsl:when>-->
                     </xsl:choose>
                 </issuance>
             </xsl:for-each>
+            </xsl:if>
             <xsl:for-each select="datafield[@tag = 310] | datafield[@tag = 321]">
                 <frequency authority="marcfrequency">
                     <xsl:call-template name="subfieldSelect">
@@ -1083,10 +1116,10 @@
         <!-- originInfo - 264 -->
 
         <xsl:for-each select="datafield[@tag = 264][@ind2 = 0]">
-            <!-- Revision 2.03 cm3 2022 added if test to originInfo producer -->
+            <!-- Revision 2.03 added if test to originInfo producer cm3 2022/10 -->
             <originInfo displayLabel="producer">
                 <!-- Template checks for altRepGroup - 880 $6 -->
-                <!-- Revision 2.04 cm3 2022-12-05 added full xpath to originInfo elements -->
+              
                 <xsl:call-template name="xxx880"/>
                 <xsl:if test="subfield[@code = 'a'] != ''">
                     <place>
@@ -1109,6 +1142,7 @@
         </xsl:for-each>
         <xsl:for-each select="datafield[@tag = 264][@ind2 = 1]">
             <originInfo displayLabel="publisher">
+                <!-- Revision 2.07 used substring-before function to get subfield b (ie., publisher) and subfield c (i.e., dateIssued) 2022/12/08 -->
                 <!-- Template checks for altRepGroup - 880 $6 1.88 20130829 added chopPunc-->
                 <xsl:call-template name="xxx880"/>
                 <place>
@@ -1256,23 +1290,26 @@
 
         <!-- language 041 -->
         <!--Revision 2.05 controlField008-35-37replace, uses replace function and regex to pinpoint 3 letter string-->
-        <xsl:variable name="controlField008-35-37"
-            select="normalize-space(translate(substring($controlField008, 36, 3), '|#', ''))"/>
+        <xsl:variable name="controlField008-36-38"
+            select="normalize-space(translate(substring($controlField008, 36, 3), '|', ''))"/>
+	    <xsl:variable name="controlField008-35-37"
+	        select="normalize-space(translate(substring($controlField008, 35, 3), '|', ''))"/>
   <xsl:choose>
-      <xsl:when test="not(ends-with($controlField008-35-37, '|'))">
+      <xsl:when test="matches(translate($controlField008-36-38, '|',' '),'[a-z]{3}')">
             <language>
                 <languageTerm authority="iso639-2b" type="code">
-                    <xsl:value-of select="substring($controlField008, 36, 3)"/>
+                    <xsl:value-of select="$controlField008-36-38"/>
                 </languageTerm>
             </language>
         </xsl:when>
       <xsl:otherwise>
           <language>
               <languageTerm authority="iso639-2b" type="code">
-                  <xsl:value-of select="substring($controlField008, 35, 3)"/>
+                  <xsl:value-of select="$controlField008-35-37"/>
               </languageTerm>
           </language>
       </xsl:otherwise>
+  </xsl:choose>
         <xsl:for-each select="datafield[@tag = 041]">
             <xsl:for-each
                 select="subfield[@code = 'a' or @code = 'b' or @code = 'd' or @code = 'e' or @code = 'f' or @code = 'g' or @code = 'h']">
@@ -2120,10 +2157,10 @@
      <xsl:if test="matches(.,'[A-Z]\d{3}')">
 		    <subject authority="agricola">
                 <topic>
-                    <xsl:value-of select="subfield[@code = 'a']"/>
+                    <xsl:value-of select="normalize-space(subfield[@code = 'a'])"/>
                 </topic>
             	<topic>
-                	<xsl:value-of select="f:subjCatCode(subfield[@code = 'a'])"/>
+                	<xsl:value-of select="f:subjCatCode(normalize-space(subfield[@code = 'a']))"/>
                 </topic>
             </subject>
      </xsl:if>
@@ -2901,7 +2938,7 @@
 				</recordIdentifier>
 			</xsl:for-each>
 
-			<!-- cm3 Revision 2.03 updated recordOrigin to reflect the XSLT filename used in transform -->
+			<!-- cm3 Revision 2.04 updated recordOrigin to reflect the XSLT filename used in transform cm 2022/12/08 -->
 			<recordOrigin>
 				<xsl:variable name="transform"
 					select="string(tokenize(base-uri(document('')), '/')[last()])" as="xs:string"/>
@@ -3073,11 +3110,12 @@
     				                                </extent>
     				                            </xsl:when>
     				                            <xsl:otherwise>
-    				                                <extent unit="pages">
+    				                                <xsl:if test="matches(.,'(.*p.)(\d{1,7})\-')">    				                                <extent unit="pages">
     				                                    <total>
-    				                                        <xsl:value-of select="replace(regex-group(2), '(.*p.)(\w{1,7})\-', '$2')"/>
+    				                                        <xsl:value-of select="replace(regex-group(2), '(.*p.)(\d{1,7})\-', '$2')"/>
     				                                    </total>
     				                                </extent>
+    				                                </xsl:if>
     				                            </xsl:otherwise>
     				                        </xsl:choose>
 
@@ -5632,7 +5670,7 @@
 							<xsl:text>marcgac</xsl:text>
 						</xsl:if>
 						<xsl:if test="@code = 'b'">
-							<xsl:value-of select="following-sibling::subfield[@code = 2]"/>
+							<xsl:value-of select="following-sibling::subfield[@code = '2']"/>
 						</xsl:if>
 						<xsl:if test="@code = 'c'">
 							<xsl:text>iso3166</xsl:text>
@@ -5830,9 +5868,9 @@
 
 		<subject>
 			<xsl:call-template name="xxx880"/>
-			<xsl:if test="subfield[@code = 2]">
+			<xsl:if test="subfield[@code = '2']">
 				<xsl:attribute name="authority">
-					<xsl:value-of select="subfield[@code = 2]"/>
+					<xsl:value-of select="subfield[@code = '2']"/>
 				</xsl:attribute>
 			</xsl:if>
 			<xsl:call-template name="uri"/>
