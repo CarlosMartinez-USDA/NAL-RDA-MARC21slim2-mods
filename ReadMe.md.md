@@ -8,9 +8,9 @@ This XLST has been used to transform MARC21 records to MODS since 2003. It was a
 File name: NAL-MARC21slim_MODS3-4.xsl
 Last revised: 2014-12-06
 Version: XSLT 1.0
-Includes: http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl
+Includes: []http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl
 
-| Production XSLT       | Example|           
+| NAL Fields      | Example|           
 |-----------------------|----------------|
 |001 - NAL Voyager Bib #  |    "692859"  |
 |070 - NAL Classification Number|"‡a 290‡b B312"|
@@ -26,6 +26,6 @@ Includes: http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE2MTE3MSwtMTkxMjI1MDY3NCwtNz
-I0ODcwNzgxXX0=
+eyJoaXN0b3J5IjpbLTQ3OTA0MTg4MywtMTk2MTYxMTcxLC0xOT
+EyMjUwNjc0LC03MjQ4NzA3ODFdfQ==
 -->
