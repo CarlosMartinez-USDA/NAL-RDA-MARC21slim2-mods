@@ -8,7 +8,7 @@ This XLST has been used to transform MARC21 records to MODS since 2003. It was a
 File name: NAL-MARC21slim_MODS3-4.xsl
 Last revised: 2014-12-06
 Version: XSLT 1.0
-Includes: []http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl
+xsl:includes: [MARC21slimUtils.xsl](http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl)
 
 | NAL Fields      | Example|           
 |-----------------------|----------------|
@@ -26,6 +26,6 @@ Includes: []http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTA0MTg4MywtMTk2MTYxMTcxLC0xOT
+eyJoaXN0b3J5IjpbMTM1ODYyOTIxMiwtMTk2MTYxMTcxLC0xOT
 EyMjUwNjc0LC03MjQ4NzA3ODFdfQ==
 -->
