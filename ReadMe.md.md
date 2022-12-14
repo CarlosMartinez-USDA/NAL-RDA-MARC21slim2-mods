@@ -9,7 +9,7 @@ File name: NAL-MARC21slim_MODS3-4.xsl
 Last revised: 2014-12-06
 Version: XSLT 1.0
 \<xsl:include\>: [MARC21slimUtils.xsl](http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl)
-Customization:  Added the following local
+Customization:  Added the following local.
 | NAL Fields      | Example|           
 |-----------------------|----------------|
 |001 - NAL Voyager Bib #  |    "692859"  |
@@ -26,6 +26,6 @@ Customization:  Added the following local
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTI4NzMzMSwtMTk2MTYxMTcxLC0xOT
-EyMjUwNjc0LC03MjQ4NzA3ODFdfQ==
+eyJoaXN0b3J5IjpbODY3MTY3NzE5LC0xOTYxNjExNzEsLTE5MT
+IyNTA2NzQsLTcyNDg3MDc4MV19
 -->
