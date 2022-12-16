@@ -692,38 +692,64 @@
 	            select="datafield[(@tag = 260 or @tag = 250) and subfield[@code = 'a' or code = 'b' or @code = 'c' or code = 'g']]">
 	            <xsl:call-template name="z2xx880"/>
 	        </xsl:for-each>
-	        <!-- 2.02 cm3 -->
-	     
-	     
-	        <xsl:variable name="MARCpublicationCode">
-	            <xsl:analyze-string select="$controlField008" regex="(\d+[a-z]\d+.?)([a-z]{{2,3}})">
+	       
+	        <xsl:variable name="controlField008-07-16" select="normalize-space(translate(replace($controlField008,'(\d+[a-z]\d{0,8})(\D{3,4})(.*[a-z]\|\|)','$2'),'0123456789|',' '))"/>
+	        <!--<xsl:variable name="MARCpublicationCode">
+	            <xsl:analyze-string select="$controlField008-07-16" regex="([x]{{2}})|([a-z]{{2,3}})|([a-z]{{4}})">
 	                <xsl:matching-substring>
-	                    <xsl:value-of select="normalize-space(regex-group(2))"/>
+	                    <xsl:choose>
+	                       <!-\- <xsl:when test="regex-group(1)">
+	                            <xsl:value-of select="normalize-space(regex-group(1))"/>	                            
+	                        </xsl:when> -\->
+	                        <xsl:when test="regex-group(2)">
+	                        <xsl:value-of select="normalize-space(regex-group(2))"/>
+	                        </xsl:when>
+	                         <!-\- <xsl:when test="regex-group(3)">
+	                             <xsl:value-of select="normalize-space(regex-group(3))"/>
+	                          </xsl:when>-\->
+	                      <xsl:otherwise/>
+	                    </xsl:choose>	                   
 	                </xsl:matching-substring>
+	                <xsl:non-matching-substring>
+	                    <xsl:variable name="MARCpublicationCode"
+	                        select="normalize-space(substring($controlField008,16,3))"/>
+	                    <xsl:if test="translate($MARCpublicationCode,'|','')">
+	                        <place>
+	                            <placeTerm>
+	                                <xsl:attribute name="type">code</xsl:attribute>
+	                                <xsl:attribute name="authority">marccountry</xsl:attribute>
+	                                <xsl:value-of select="$MARCpublicationCode"/>
+	                            </placeTerm>
+	                        </place>
+	                    </xsl:if>
+	                </xsl:non-matching-substring>
 	            </xsl:analyze-string>
-	        </xsl:variable>
+	        </xsl:variable>-->
 	        
-	        <!--<xsl:if test="translate($MARCpublicationCode, '|', '')">-->
-	        <xsl:choose>
-	            <xsl:when test="matches($MARCpublicationCode,'xx')"/>
-	            <xsl:when test="matches($MARCpublicationCode, '[a-z]{2,3}')">
-	            <place>
-	                <!-- marccountry code -->
-	                <placeTerm>
-	                    <xsl:attribute name="type">code</xsl:attribute>
-	                    <xsl:attribute name="authority">marccountry</xsl:attribute>
-	                    <xsl:value-of select="$MARCpublicationCode"/>
-	                </placeTerm>
+	        <xsl:if test="translate($controlField008-07-16, '|', '')">
+	          
+	                <xsl:choose>
+	                    <xsl:when test="contains($controlField008-07-16,'xx')"/>
+	                    <xsl:when test="matches($controlField008-07-16, '[a-z]{3}')">
+	                   <place>
+	                    <!-- marccountry code -->
+	                     <placeTerm>
+	                       <xsl:attribute name="type">code</xsl:attribute>
+	                       <xsl:attribute name="authority">marccountry</xsl:attribute>
+	                       <xsl:value-of select="$controlField008-07-16"/>
+	                    </placeTerm>
 	                <!-- decodes MARC Country Codes -->
-	                <placeTerm>
-	                    <xsl:attribute name="type">text</xsl:attribute>
-	                    <xsl:value-of select="f:convertMARCCountry($MARCpublicationCode)"/>
-	                </placeTerm>
-	            </place>
-	        </xsl:when>
-	            <xsl:otherwise/>
-	        </xsl:choose>
-	      <!--  <xsl:variable name="marcCountryCode">
+	                    <placeTerm>
+	                       <xsl:attribute name="type">text</xsl:attribute>
+	                       <xsl:value-of select="f:convertMARCCountry($controlField008-07-16)"/>
+	                    </placeTerm>
+	                   </place>
+	             </xsl:when>
+	          </xsl:choose>
+	            
+	        </xsl:if>
+	          
+	        <!--  <xsl:variable name="marcCountryCode">
 	            <xsl:analyze-string select="self::node()" regex="(/d{{4,8}}[a-z]/d{{4,8}})([a-z])">
 	                <xsl:matching-substring>
 	                    <xsl:value-of select="normalize-space(regex-group(2))"/>

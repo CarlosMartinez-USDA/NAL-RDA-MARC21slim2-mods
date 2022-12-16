@@ -331,7 +331,7 @@
 <xsl:function name="f:subjCatCode" as="xs:string">
 	<xsl:param name="code" as="xs:string"/>
 	<xsl:variable name="nodes">
-		<xsl:copy-of select="document('xml/nalSubjCat.xml')"/>
+		<xsl:copy-of select="document('commons/xml/nalSubjCat.xml')"/>
 	</xsl:variable>
 	<xsl:sequence
 		select="$nodes/nalsubcat:agricola/nalsubcat:subject[nalsubcat:code = $code]/nalsubcat:category"
@@ -341,32 +341,26 @@
 <xd:doc scope="component">
 	<xd:desc>
 		<xd:p><xd:b>Function: </xd:b>f:convertMARCCountry</xd:p>		
-		<xd:p><xd:b>Usage: </xd:b>f:convertMARCCountry([xpath/substring($controlfield008,
-			13,3)]</xd:p>
+		<xd:p><xd:b>Usage: </xd:b>f:convertMARCCountry([$MARCPublication](variable))</xd:p>
 	</xd:desc>
 	<xd:param name="marccode">MARC two or three-letter country code derived from the 008 control field.</xd:param>
 </xd:doc>
 <xsl:function name="f:convertMARCCountry" as="xs:string">
-
 	<xsl:param name="marccode" as="xs:string"/>	
-   <!-- <xsl:variable name="MARCcode">-->
+    <xsl:variable name="MARCcode">
 		<xsl:variable name="nodes">
-			<xsl:copy-of select="document('xml/marcCountry.xml')"/>
+			<xsl:copy-of select="document('commons/xml/marcCountry.xml')"/>
 		</xsl:variable>
-	<!--<xsl:choose>
+	<xsl:choose>
      <xsl:when test="$marccode=''"/>
-	    <xsl:otherwise>-->
+	<xsl:otherwise>
 	    	<xsl:value-of select="$nodes/marccountry:marcCountry/marccountry:value[marccountry:code = $marccode]/marccountry:country"/>
-<!--	    </xsl:otherwise>
-		</xsl:choose>-->
-	<!--</xsl:variable>-->
-<!--	<xsl:sequence select="$MARCcode"/>-->
-	
+    </xsl:otherwise>
+		</xsl:choose>
+	</xsl:variable>
+	<xsl:sequence select="$MARCcode"/>	
 </xsl:function>
 
-
-	
-	
 	<!-- f:isoTwo2Lang -->
 	<xd:doc scope="component">
 		<xd:desc>
@@ -378,11 +372,36 @@
 	</xd:doc>   	
 	<xsl:function name="f:isoTwo2Lang" as="xs:string">
 		<xsl:param name="iso_639-2"/>
+		<xsl:variable name="iso639-2b">
 		<xsl:variable name="nodes">
-			<xsl:copy-of select="document('./iso639conversion.xml')"/>
+			<xsl:copy-of select="document('commons/xml/iso639conversion.xml')"/>
 		</xsl:variable>
-		<xsl:value-of select="$nodes/isolang:iso_languages/isolang:iso_language[isolang:iso_639-2 = $iso_639-2]/isolang:language"/>
+			<xsl:choose>
+				<xsl:when test="$iso_639-2 =''"/>
+				<xsl:otherwise>
+					<xsl:sequence select="$nodes/isolang:iso_languages/isolang:iso_language[isolang:iso_639-2 = $iso_639-2]/isolang:language"/>
+				</xsl:otherwise>
+			</xsl:choose>
+		</xsl:variable>
+		<xsl:sequence select="$iso639-2b"/>
 	</xsl:function>
+	
+	<!--f:isoOne2Two-->
+	<xd:doc scope="component">
+		<xd:desc>
+			<xd:p><xd:b>Function: </xd:b>f:isoOne2Two</xd:p>
+			<xd:p><xd:b>Usage: </xd:b>f:isoOne2Two(iso 639-1 code)</xd:p>
+			<xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-1 two-letter codes into ISO 639-2b three-letter codes.</xd:p>            
+		</xd:desc>
+		<xd:param name="iso_639-1">two-letter language code to match against</xd:param>
+	</xd:doc>   	
+	<xsl:function name="f:isoOne2Two" as="xs:string">
+		<xsl:param name="iso_639-1"/>
+		<xsl:variable name="nodes">
+			<xsl:copy-of select="document('commons/xml/iso639conversion.xml')"/>
+		</xsl:variable>
+		<xsl:sequence select="$nodes/isolang:isolanguages/isolang:isolanguage[isolang:iso_639-1 = $iso_639-1]/isolang:iso_639-2"/>
+	</xsl:function>	
 	
 	
 	<!--f:capitalize-first-->
@@ -475,24 +494,6 @@
 		<xsl:param name="regex" as="xs:string"/>
 		<xsl:sequence select="tokenize($arg, $regex)[1]"/>
 	</xsl:function>
-	
-	
-	<xd:doc scope="component">
-		<xd:desc>
-			<xd:p><xd:b>Function: </xd:b>f:isoOne2Two</xd:p>
-			<xd:p><xd:b>Usage: </xd:b>f:isoOne2Two(iso 639-1 code)</xd:p>
-			<xd:p><xd:b>Purpose: </xd:b>Convert ISO 639-1 two-letter codes into ISO 639-2b three-letter codes.</xd:p>            
-		</xd:desc>
-			<xd:param name="iso_639-1">two-letter language code to match against</xd:param>
-	</xd:doc>   	
-	<xsl:function name="f:isoOne2Two" as="xs:string">
-		<xsl:param name="iso_639-1"/>
-		<xsl:variable name="nodes">
-			<xsl:copy-of select="document('./iso639conversion.xml')"/>
-		</xsl:variable>
-		<xsl:sequence select="$nodes/isolang:isolanguages/isolang:isolanguage[isolang:iso_639-1 = $iso_639-1]/isolang:iso_639-2"/>
-	</xsl:function>
-	
 	
 	
 </xsl:stylesheet>
