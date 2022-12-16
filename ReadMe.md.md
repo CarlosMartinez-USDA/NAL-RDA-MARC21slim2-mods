@@ -19,13 +19,13 @@ Customization:  Added the following local.
 |910 - Submission source              |  |  
 |930 - Sale Tape                      |‡a 20141216 ‡b 20141217 ‡c 00000000 |
 |945 - Indexer                        |IND YNL|
-|946 - Publication Source             |  |
-|974 - Local identifier (agid:#)      |  |
+|946 - Publication Source             | USDA  |
+|974 - Local identifier (agid:#)      | agid: |
 
 
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MTY3NzE5LC0xOTYxNjExNzEsLTE5MT
-IyNTA2NzQsLTcyNDg3MDc4MV19
+eyJoaXN0b3J5IjpbLTE1ODUyODc5NzcsODY3MTY3NzE5LC0xOT
+YxNjExNzEsLTE5MTIyNTA2NzQsLTcyNDg3MDc4MV19
 -->
