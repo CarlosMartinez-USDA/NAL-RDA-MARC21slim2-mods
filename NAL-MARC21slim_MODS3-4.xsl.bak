@@ -3240,7 +3240,7 @@
                                     <xsl:choose>
                                         <xsl:when test="matches(regex-group(2),'\d+\-\d+')">
                                             <extent unit="pages">
-                                                <start>
+                                                <start type="regex">
                                                     <xsl:value-of select="replace(regex-group(2), '(.*)(p.)(\d+)(\-)(\d+)', '$3')"/>
                                                 </start>
                                                 <end>
