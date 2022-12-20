@@ -18,14 +18,15 @@ Customization:  Added the following local.
 |024 - Digital Object Identifier (DOI)|10.1111/j.1654-1103.2002.tb02088.x  |
 |910 - Submission source              |  |  
 |930 - Sale Tape                      |‡a 20141216 ‡b 20141217 ‡c 00000000 |
-|945 - Indexer                        |IND YNL|
-|946 - Publication Source             | ‡a Non-US  |
-|974 - Local identifier (agid:#)      | agid: |
+|945 - Indexer                        |‡a IND YNL|
+|946 - Publication Source             | ‡a Non-US|
+|974 - Local identifier (agid:#)      | ‡a agid:1224980|
 
 
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMTQyMTA4LDg2NzE2NzcxOSwtMTk2MT
-YxMTcxLC0xOTEyMjUwNjc0LC03MjQ4NzA3ODFdfQ==
+eyJoaXN0b3J5IjpbLTQ4OTQ2MjMyLDg2MTE0MjEwOCw4NjcxNj
+c3MTksLTE5NjE2MTE3MSwtMTkxMjI1MDY3NCwtNzI0ODcwNzgx
+XX0=
 -->
