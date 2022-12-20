@@ -13,7 +13,7 @@ Customization:  Added the following local.
 | NAL Fields      | Example|           
 |-----------------------|----------------|
 |001 - NAL Voyager Bib #  |    "692859"  |
-|070 - NAL Classification Number|"‡a 290‡b B312"|
+|070 - NAL Classification Number|"‡a 290 ‡b B312"|
 |072 - Agricola subject category code |"E700"|
 |024 - Digital Object Identifier (DOI)|10.1111/j.1654-1103.2002.tb02088.x  |
 |910 - Submission source              |  |  
@@ -26,7 +26,7 @@ Customization:  Added the following local.
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTQ2MjMyLDg2MTE0MjEwOCw4NjcxNj
-c3MTksLTE5NjE2MTE3MSwtMTkxMjI1MDY3NCwtNzI0ODcwNzgx
-XX0=
+eyJoaXN0b3J5IjpbLTUyMjczODg2NCw4NjExNDIxMDgsODY3MT
+Y3NzE5LC0xOTYxNjExNzEsLTE5MTIyNTA2NzQsLTcyNDg3MDc4
+MV19
 -->
