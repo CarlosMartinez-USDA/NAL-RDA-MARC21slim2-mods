@@ -3050,7 +3050,7 @@
 				            <!-- issue is not present-->
     				                       <detail type="volume">
     				                            <number>
-    				                                <xsl:value-of select="replace(regex-group(2), '(.*, v\.\s)(\d+)(.*)', '$2')"/>
+    				                                <xsl:value-of select="substring-before(substring-after(regex-group(2), 'v. '),', ')"/>
     				                            </number>
     				                            <caption>v.</caption>
     				                        </detail>
