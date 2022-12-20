@@ -10,13 +10,13 @@ Last revised: 2014-12-06
 Version: XSLT 1.0
 \<xsl:include\>: [MARC21slimUtils.xsl](http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl)
 Customization:  Added the following local.
-| NAL Fields      | Example|           
+| NAL Fields      | Example|            
 |-----------------------|----------------|
-|001 - NAL Voyager Bib #  |    "‡a 692859"  |
+|001 - NAL Voyager Bib #  |    ‡a 692859  |
 |070 - NAL Classification Number|‡a 290 ‡b B312|
 |072 - Agricola subject category code |‡a  E700|
 |024 - Digital Object Identifier (DOI)|‡a 10.1111/j.1654-1103.2002.tb02088.x  |
-|910 - Submission source              |  |  
+|910 - Submission source              | ***???*** |  
 |930 - Sale Tape                      |‡a 20141216 ‡b 20141217 ‡c 00000000 |
 |945 - Indexer                        |‡a IND YNL|
 |946 - Publication Source             | ‡a Non-US|
@@ -26,7 +26,7 @@ Customization:  Added the following local.
 A series of updates is necessary to allow this stylesheet to transform MARC21 records exported form Alma into MODS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDgzMTIyNCw4NjExNDIxMDgsODY3MT
+eyJoaXN0b3J5IjpbMTI4MDU4OTY0Nyw4NjExNDIxMDgsODY3MT
 Y3NzE5LC0xOTYxNjExNzEsLTE5MTIyNTA2NzQsLTcyNDg3MDc4
 MV19
 -->
