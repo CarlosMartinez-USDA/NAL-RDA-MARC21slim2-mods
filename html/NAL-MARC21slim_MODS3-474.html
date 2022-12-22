@@ -1,0 +1,511 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Stylesheet documentation for: xxx880</title>
+      <link rel="stylesheet" href="docHtml.css" type="text/css" /><script type="text/javascript"><!--
+        
+        
+        
+        var usedByBoxes= new Array('uB_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl');
+
+        var docBoxes= new Array('dS_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl');
+
+        var sourceBoxes= new Array('src_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl');
+
+        
+        
+        
+        
+        
+        
+        
+        var button_prefix = 'bt_';
+        
+        /**
+        * Get all DIV elements with a specified class name.
+        *
+        * @param className The class name. 
+        */
+        function getElementsByClassName(className) {
+            var results = [];
+    
+             if (document.getElementsByClassName == undefined) {
+                var allElements = document.getElementsByTagName("div");
+                var element;
+                for (var i = 0; i < allElements.length; i++) {
+                    var element = allElements[i];
+                	var elementClass = element.className;
+                	if (elementClass == className) { 
+                		results.push(element);
+                	}
+                }
+             } else {
+                results = document.getElementsByClassName(className);
+             }
+    
+            return results;
+        }
+            
+        /**
+        * Returns an element in the current HTML document.
+        *
+        * @param elementID Identifier of HTML element
+        * @return               HTML element object
+        */
+        function getElementObject(elementID) {
+            var elemObj = null;
+            if (document.getElementById) {
+                elemObj = document.getElementById(elementID);
+            }
+            return elemObj;
+        }
+        
+        /**
+        * Switches the state of a collapseable box, e.g.
+        * if it's opened, it'll be closed, and vice versa.
+        *
+        * @param boxID Identifier of box
+        */
+        function switchState(boxID) {
+            var boxObj = getElementObject(boxID);
+            var buttonObj = getElementObject(button_prefix + boxID);
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else if (boxObj.style.display == "none") {
+                // Box is closed, so open it
+                openBox(boxObj, buttonObj);
+            } else if (boxObj.style.display == "block") {
+                // Box is opened, so close it
+                closeBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+        * Opens a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function openBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "block";
+                
+                // Change text of button
+                if (boxObj.style.display == "block") {
+                    buttonObj.src = "img/btM.gif";
+                }
+            }
+        }
+        
+        /**
+        * Closes a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function closeBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "none";
+                
+                // Change text of button
+                if (boxObj.style.display == "none") {
+                    buttonObj.src = "img/btP.gif";
+                }
+            }
+        }
+
+       /**
+        * Switch between the compact list representation and the clasic list representation.
+        */
+       function switchMode(checkBox) {
+            if (checkBox == null) {
+                // Checkbox not found
+            } else if (checkBox.checked == 1) {
+                // Compact mode
+                var divs = getElementsByClassName('refItemBlock');
+                for (var i = 0; i < divs.length; i ++) {
+                    divs[i].style.display = "inline";
+                    var children = divs[i].children;
+                    var refItemSep = children[children.length - 1];
+                    if (refItemSep.className == "refItemSep") {
+                        children[children.length - 1].style.display = "inline";
+                    }
+                }
+            } else {
+                // Expanded mode
+                var divs = getElementsByClassName('refItemBlock');
+                for (var i = 0; i < divs.length; i ++) {
+                    divs[i].style.display = "block";
+                    var children = divs[i].children;
+                    var refItemSep = children[children.length - 1];
+                    if (refItemSep.className == "refItemSep") {
+                        children[children.length - 1].style.display = "none";
+                    }
+                }
+            }
+        }
+
+       function switchStateForAll(buttonObj, boxList) {
+            if (buttonObj == null) {
+                // button not found
+            } else if (buttonObj.value == "+") {
+                // Expand all
+                expandAll(boxList);
+                buttonObj.value = "-";
+            } else if (buttonObj.value == "-") {
+                // Collapse all
+                collapseAll(boxList);
+                buttonObj.value = "+";
+            }
+        }
+        
+        /**
+        * Closes all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function collapseAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                closeBox(boxObj, buttonObj);
+            }
+        }
+            
+        /**
+        * Open all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function expandAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                openBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+         * Update the message presented in the title of the html page.
+         * - If the documentation was splited by namespace we present something like: "Documentation for namespace 'ns'"
+         * - If the documentation was splited by location we present somehing like: "Documentation for 'Schema.xsd'"
+         * - If no split we always present: "Documentation for 'MainSchema.xsd'"
+         */
+        function updPT(message) {
+            top.document.title = "Stylesheet documentation for: " + message;
+        }
+        
+          
+                    
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function findAndFloat(id, x_displacement, y_displacement){
+
+            var element = getElementObject(id);            
+            
+            window[id + "_obj"] = element;
+            
+            if(document.layers) {
+               element.style = element;
+            }
+            
+            element.current_y = y_displacement;      
+            element.first_time = true;
+         
+            element.floatElement = function(){
+               // It may be closed by an user action.
+                
+               // Target X and Y coordinates.
+               var x, y;
+               
+               var myWidth = 0, myHeight = 0;
+               if( typeof( window.innerWidth ) == 'number' ) {
+                  //Non-IE
+                  myWidth = window.innerWidth;
+                  myHeight = window.innerHeight;
+               } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+                  //IE 6+ in 'standards compliant mode'
+                  myWidth = document.documentElement.clientWidth;
+                  myHeight = document.documentElement.clientHeight;
+               } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+                  //IE 4 compatible
+                  myWidth = document.body.clientWidth;
+                  myHeight = document.body.clientHeight;
+               }
+               
+               
+               x = myWidth - x_displacement;
+               
+               var ns = (navigator.appName.indexOf("Netscape") != -1);               
+               y = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+                  document.documentElement.scrollTop : document.body.scrollTop;               
+               y = y + y_displacement;               
+               
+               // The current y is the current coordinate of the floating element.
+               // This should be at the limit the y target coordinate.
+               this.current_y += (y - this.current_y)/1.25;
+               
+               // Add the pixels constant after the values
+               // and move the element.
+               var px = document.layers ? "" : "px";
+               this.style.left =  x + px;
+               this.style.top =  this.current_y + px;
+                              
+               setTimeout(this.id + "_obj.floatElement()", 100);
+            }
+            
+            element.floatElement();
+            return element;
+          }
+
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function selectTOCGroupBy(id){
+         var selectIds = new Array('toc_group_by_location', 'toc_group_by_component_type', 'toc_group_by_namespace', 'toc_group_by_mode');
+            // Make all the tabs invisible.
+            for (i = 0; i < 4; i++){
+               var tab = getElementObject(selectIds[i]);
+               tab.style.display = 'none';
+            }
+            var selTab = getElementObject(id);
+            selTab.style.display = 'block';            
+         }
+          
+
+    
+                    //--></script></head>
+   <body><a id="T_xxx880S_NAL-MARC21slim_MODS3-4.xsl"></a><div class="cmpT">Template
+         <span class="titleTemplateName">xxx880</span></div>
+      <table class="rt">
+         <tr>
+            <td class="rt_cTL"></td>
+            <td class="rt_lT"></td>
+            <td class="rt_cTR"></td>
+         </tr>
+         <tr>
+            <td class="rt_lL"></td>
+            <td class="rt_cnt">
+               <table class="component">
+                  <tbody>
+                     <tr>
+                        <td class="fCol">
+                           <div class="flL">Documentation</div>
+                           <div class="flR"><input id="bt_dS_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl" type="image" src="img/btM.gif" value="-" onclick="switchState('dS_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl');" class="control" /></div>
+                        </td>
+                        <td>
+                           <div id="dS_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl" style="display:block">
+                              <div id="xxx880">
+                                 <h3>Description</h3> tmee 20100927 for 880s &amp; corresponding fields 20101123 scriptCode </div>
+                           </div>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">Namespace</td>
+                        <td>No namespace</td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">
+                           <div class="flL">Used by</div>
+                           <div class="flR"><input id="bt_uB_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl" type="image" src="img/btM.gif" value="-" onclick="switchState('uB_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl');" class="control" /></div>
+                        </td>
+                        <td>
+                           <div id="uB_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl" style="display:block">
+                              <table class="uBT">
+                                 <tr>
+                                    <td class="fCol">Templates</td>
+                                    <td>
+                                       <div class="listGrouping">
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-415.html#T_createAbstractFrom520S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createAbstractFrom520')"><span class="nRf">createAbstractFrom520</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-433.html#T_createAccessConditionFrom506S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createAccessConditionFrom506')"><span class="nRf">createAccessConditionFrom506</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-434.html#T_createAccessConditionFrom540S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createAccessConditionFrom540')"><span class="nRf">createAccessConditionFrom540</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4107.html#T_createClassificationFrom050S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createClassificationFrom050')"><span class="nRf">createClassificationFrom050</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-425.html#T_createClassificationFrom060S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createClassificationFrom060')"><span class="nRf">createClassificationFrom060</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-426.html#T_createClassificationFrom080S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createClassificationFrom080')"><span class="nRf">createClassificationFrom080</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-427.html#T_createClassificationFrom082S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createClassificationFrom082')"><span class="nRf">createClassificationFrom082</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-428.html#T_createClassificationFrom084S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createClassificationFrom084')"><span class="nRf">createClassificationFrom084</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4108.html#T_createClassificationFrom086S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createClassificationFrom086')"><span class="nRf">createClassificationFrom086</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-411.html#T_createGenreFrom047S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createGenreFrom047')"><span class="nRf">createGenreFrom047</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-412.html#T_createGenreFrom336S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createGenreFrom336')"><span class="nRf">createGenreFrom336</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-413.html#T_createGenreFrom655S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createGenreFrom655')"><span class="nRf">createGenreFrom655</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-464.html#T_createNameFrom100S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNameFrom100')"><span class="nRf">createNameFrom100</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-465.html#T_createNameFrom110S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNameFrom110')"><span class="nRf">createNameFrom110</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-466.html#T_createNameFrom111S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNameFrom111')"><span class="nRf">createNameFrom111</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-467.html#T_createNameFrom700S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNameFrom700')"><span class="nRf">createNameFrom700</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-468.html#T_createNameFrom710S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNameFrom710')"><span class="nRf">createNameFrom710</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-469.html#T_createNameFrom711S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNameFrom711')"><span class="nRf">createNameFrom711</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-479.html#T_createNoteFrom362S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom362')"><span class="nRf">createNoteFrom362</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-480.html#T_createNoteFrom500S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom500')"><span class="nRf">createNoteFrom500</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-481.html#T_createNoteFrom502S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom502')"><span class="nRf">createNoteFrom502</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-482.html#T_createNoteFrom504S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom504')"><span class="nRf">createNoteFrom504</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-483.html#T_createNoteFrom508S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom508')"><span class="nRf">createNoteFrom508</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-484.html#T_createNoteFrom511S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom511')"><span class="nRf">createNoteFrom511</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-485.html#T_createNoteFrom515S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom515')"><span class="nRf">createNoteFrom515</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-486.html#T_createNoteFrom518S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom518')"><span class="nRf">createNoteFrom518</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-487.html#T_createNoteFrom524S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom524')"><span class="nRf">createNoteFrom524</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-488.html#T_createNoteFrom530S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom530')"><span class="nRf">createNoteFrom530</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-489.html#T_createNoteFrom533S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom533')"><span class="nRf">createNoteFrom533</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-490.html#T_createNoteFrom535S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom535')"><span class="nRf">createNoteFrom535</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-491.html#T_createNoteFrom536S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom536')"><span class="nRf">createNoteFrom536</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-492.html#T_createNoteFrom538S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom538')"><span class="nRf">createNoteFrom538</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-493.html#T_createNoteFrom541S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom541')"><span class="nRf">createNoteFrom541</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-494.html#T_createNoteFrom545S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom545')"><span class="nRf">createNoteFrom545</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-495.html#T_createNoteFrom546S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom546')"><span class="nRf">createNoteFrom546</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-496.html#T_createNoteFrom561S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom561')"><span class="nRf">createNoteFrom561</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-497.html#T_createNoteFrom562S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom562')"><span class="nRf">createNoteFrom562</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-498.html#T_createNoteFrom581S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom581')"><span class="nRf">createNoteFrom581</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-499.html#T_createNoteFrom583S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom583')"><span class="nRf">createNoteFrom583</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4100.html#T_createNoteFrom585S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom585')"><span class="nRf">createNoteFrom585</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4101.html#T_createNoteFrom5XXS_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createNoteFrom5XX')"><span class="nRf">createNoteFrom5XX</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-429.html#T_createRelatedItemFrom490S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createRelatedItemFrom490')"><span class="nRf">createRelatedItemFrom490</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-423.html#T_createSubChronFrom648S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubChronFrom648')"><span class="nRf">createSubChronFrom648</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-454.html#T_createSubFrom656S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubFrom656')"><span class="nRf">createSubFrom656</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-418.html#T_createSubGeoFrom034S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubGeoFrom034')"><span class="nRf">createSubGeoFrom034</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4102.html#T_createSubGeoFrom043S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubGeoFrom043')"><span class="nRf">createSubGeoFrom043</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4104.html#T_createSubGeoFrom255S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubGeoFrom255')"><span class="nRf">createSubGeoFrom255</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-453.html#T_createSubGeoFrom651S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubGeoFrom651')"><span class="nRf">createSubGeoFrom651</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-455.html#T_createSubGeoFrom662752S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubGeoFrom662752')"><span class="nRf">createSubGeoFrom662752</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-419.html#T_createSubNameFrom600S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubNameFrom600')"><span class="nRf">createSubNameFrom600</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-420.html#T_createSubNameFrom610S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubNameFrom610')"><span class="nRf">createSubNameFrom610</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-421.html#T_createSubNameFrom611S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubNameFrom611')"><span class="nRf">createSubNameFrom611</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-4103.html#T_createSubTemFrom045S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubTemFrom045')"><span class="nRf">createSubTemFrom045</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-422.html#T_createSubTitleFrom630S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubTitleFrom630')"><span class="nRf">createSubTitleFrom630</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-424.html#T_createSubTopFrom650S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createSubTopFrom650')"><span class="nRf">createSubTopFrom650</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-414.html#T_createTOCFrom505S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTOCFrom505')"><span class="nRf">createTOCFrom505</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-416.html#T_createTargetAudienceFrom521S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTargetAudienceFrom521')"><span class="nRf">createTargetAudienceFrom521</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-47.html#T_createTitleInfoFrom210S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTitleInfoFrom210')"><span class="nRf">createTitleInfoFrom210</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-452.html#T_createTitleInfoFrom240S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTitleInfoFrom240')"><span class="nRf">createTitleInfoFrom240</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-48.html#T_createTitleInfoFrom245S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTitleInfoFrom245')"><span class="nRf">createTitleInfoFrom245</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-49.html#T_createTitleInfoFrom246S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTitleInfoFrom246')"><span class="nRf">createTitleInfoFrom246</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-410.html#T_createTitleInfoFrom740S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('createTitleInfoFrom740')"><span class="nRf">createTitleInfoFrom740</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-43.html#T_marcRecordS_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('marcRecord')"><span class="nRf">marcRecord</span></a><span class="refItemSep">;</span></div>
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-447.html#M_datafieldtag656S_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('datafield[@tag = 656]')"><span class="mRf">datafield[@tag = 656]</span></a></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </div>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">Import precedence</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">
+                           <div class="flL">Source</div>
+                           <div class="flR"><input id="bt_src_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl" type="image" src="img/btM.gif" value="-" onclick="switchState('src_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl');" class="control" /></div>
+                        </td>
+                        <td>
+                           <div id="src_T_xxx880S_NAL-MARC21slim_MODS3-4.xsl" style="display:block">
+                              <table class="pWCont">
+                                 <tr>
+                                    <td width="100%">
+                                       <pre><span class="tXSLEl">&lt;xsl:template</span><span class="tAN"> name=</span><span class="tAV">"xxx880"</span><span class="tXSLEl">&gt;</span><span class="tI">
+  </span><span class="tXSLEl">&lt;xsl:if</span><span class="tAN"> test=</span><span class="tAV">"child::subfield[@code = '6']"</span><span class="tXSLEl">&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:variable</span><span class="tAN"> name=</span><span class="tAV">"sf06"</span><span class="tAN"> select=</span><span class="tAV">"normalize-space(child::subfield[@code = '6'])"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:variable</span><span class="tAN"> name=</span><span class="tAV">"sf06a"</span><span class="tAN"> select=</span><span class="tAV">"substring($sf06, 1, 3)"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:variable</span><span class="tAN"> name=</span><span class="tAV">"sf06b"</span><span class="tAN"> select=</span><span class="tAV">"substring($sf06, 5, 2)"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:variable</span><span class="tAN"> name=</span><span class="tAV">"sf06c"</span><span class="tAN"> select=</span><span class="tAV">"substring($sf06, 7)"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:variable</span><span class="tAN"> name=</span><span class="tAV">"scriptCode"</span><span class="tAN"> select=</span><span class="tAV">"substring($sf06, 8, 2)"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:if</span><span class="tAN"> test=</span><span class="tAV">"//datafield/subfield[@code = '6']"</span><span class="tXSLEl">&gt;</span><span class="tI">
+      </span><span class="tXSLEl">&lt;xsl:attribute</span><span class="tAN"> name=</span><span class="tAV">"altRepGroup"</span><span class="tXSLEl">&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;xsl:value-of</span><span class="tAN"> select=</span><span class="tAV">"$sf06b"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+      </span><span class="tXSLEl">&lt;/xsl:attribute&gt;</span><span class="tI">
+      </span><span class="tXSLEl">&lt;xsl:attribute</span><span class="tAN"> name=</span><span class="tAV">"script"</span><span class="tXSLEl">&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;xsl:choose</span><span class="tXSLEl">&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = ''"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Latn</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(3'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Arab</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(4'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Arab</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(B'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Latn</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '!E'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Latn</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '$1'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">CJK</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(N'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Cyrl</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(Q'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Cyrl</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(2'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Hebr</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"$scriptCode = '(S'"</span><span class="tXSLEl">&gt;</span><span class="tT" style="white-space:normal">Grek</span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;/xsl:choose&gt;</span><span class="tI">
+      </span><span class="tXSLEl">&lt;/xsl:attribute&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;/xsl:if&gt;</span><span class="tI">
+  </span><span class="tXSLEl">&lt;/xsl:if&gt;</span><span class="tI">
+</span><span class="tXSLEl">&lt;/xsl:template&gt;</span></pre>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+            <td class="rt_lR"></td>
+         </tr>
+         <tr>
+            <td class="rt_cBL"></td>
+            <td class="rt_lB"></td>
+            <td class="rt_cBR"></td>
+         </tr>
+      </table>
+      <div class="footer">
+         <hr />
+         <div align="center">Stylesheet documentation generated by <a href="http://www.oxygenxml.com" target="_parent"><span class="oXygenLogo"><span class="redX">&lt;</span>o<span class="redX">X</span>ygen<span class="redX">/&gt;</span></span></a><sup>®</sup> XML Editor.</div>
+      </div><script type="text/javascript"><!--
+                    // The namespace is the selected option in the TOC combo.
+                    
+                    // The corresponding div is already visible conf. to its style attr.                     
+                    
+                            var selectToc = getElementObject('selectTOC');
+                            if(selectToc != null){
+                            // It can be null when having chunking, the combo of the TOC is in another frame.
+                            selectToc.selectedIndex = 1;
+                            }
+                        
+                    
+                    // Floats the toolbar.
+                    var globalControls = getElementObject("global_controls"); 
+                    
+                    if(globalControls != null){
+                    var browser=navigator.appName;
+                    var version = parseFloat(navigator.appVersion.split('MSIE')[1]);
+                    
+                    var IE6 = false;
+                    if ((browser=="Microsoft Internet Explorer") && (version < 7)){
+                    IE6 = true;
+                    }
+                    
+                    //alert (IE6 + " |V| " + version);
+                    
+                    if(IE6){
+                    // On IE 6 the 'fixed' property is not supported. We must use javascript. 
+                    globalControls.style.position='absolute';                         
+                    // The global controls will do not exist in the TOC frame, when chunking.
+                    findAndFloat("global_controls", 225, 30);    
+                    } else {
+                    globalControls.style.position='fixed';                     	
+                    }
+                    
+                    globalControls.style.right='0';                       
+                    }
+                //--></script></body>
+</html>
