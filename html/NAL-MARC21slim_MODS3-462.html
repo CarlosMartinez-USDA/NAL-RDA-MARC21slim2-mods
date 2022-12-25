@@ -1,0 +1,582 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Stylesheet documentation for: template</title>
+      <link rel="stylesheet" href="docHtml.css" type="text/css" /><script type="text/javascript"><!--
+        
+        
+        
+        
+        var docBoxes= new Array('dS_M_S_NAL-MARC21slim_MODS3-4.xsl');
+
+        var sourceBoxes= new Array('src_M_S_NAL-MARC21slim_MODS3-4.xsl');
+
+        
+        
+        var referencesBoxes= new Array('refs_M_S_NAL-MARC21slim_MODS3-4.xsl');
+
+        
+        
+        
+        
+        var button_prefix = 'bt_';
+        
+        /**
+        * Get all DIV elements with a specified class name.
+        *
+        * @param className The class name. 
+        */
+        function getElementsByClassName(className) {
+            var results = [];
+    
+             if (document.getElementsByClassName == undefined) {
+                var allElements = document.getElementsByTagName("div");
+                var element;
+                for (var i = 0; i < allElements.length; i++) {
+                    var element = allElements[i];
+                	var elementClass = element.className;
+                	if (elementClass == className) { 
+                		results.push(element);
+                	}
+                }
+             } else {
+                results = document.getElementsByClassName(className);
+             }
+    
+            return results;
+        }
+            
+        /**
+        * Returns an element in the current HTML document.
+        *
+        * @param elementID Identifier of HTML element
+        * @return               HTML element object
+        */
+        function getElementObject(elementID) {
+            var elemObj = null;
+            if (document.getElementById) {
+                elemObj = document.getElementById(elementID);
+            }
+            return elemObj;
+        }
+        
+        /**
+        * Switches the state of a collapseable box, e.g.
+        * if it's opened, it'll be closed, and vice versa.
+        *
+        * @param boxID Identifier of box
+        */
+        function switchState(boxID) {
+            var boxObj = getElementObject(boxID);
+            var buttonObj = getElementObject(button_prefix + boxID);
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else if (boxObj.style.display == "none") {
+                // Box is closed, so open it
+                openBox(boxObj, buttonObj);
+            } else if (boxObj.style.display == "block") {
+                // Box is opened, so close it
+                closeBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+        * Opens a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function openBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "block";
+                
+                // Change text of button
+                if (boxObj.style.display == "block") {
+                    buttonObj.src = "img/btM.gif";
+                }
+            }
+        }
+        
+        /**
+        * Closes a collapseable box.
+        *
+        * @param boxObj       Collapseable box
+        * @param buttonObj Button controlling box
+        */
+        function closeBox(boxObj, buttonObj) {
+            if (boxObj == null || buttonObj == null) {
+                // Box or button not found
+            } else {
+                // Change 'display' CSS property of box
+                boxObj.style.display = "none";
+                
+                // Change text of button
+                if (boxObj.style.display == "none") {
+                    buttonObj.src = "img/btP.gif";
+                }
+            }
+        }
+
+       /**
+        * Switch between the compact list representation and the clasic list representation.
+        */
+       function switchMode(checkBox) {
+            if (checkBox == null) {
+                // Checkbox not found
+            } else if (checkBox.checked == 1) {
+                // Compact mode
+                var divs = getElementsByClassName('refItemBlock');
+                for (var i = 0; i < divs.length; i ++) {
+                    divs[i].style.display = "inline";
+                    var children = divs[i].children;
+                    var refItemSep = children[children.length - 1];
+                    if (refItemSep.className == "refItemSep") {
+                        children[children.length - 1].style.display = "inline";
+                    }
+                }
+            } else {
+                // Expanded mode
+                var divs = getElementsByClassName('refItemBlock');
+                for (var i = 0; i < divs.length; i ++) {
+                    divs[i].style.display = "block";
+                    var children = divs[i].children;
+                    var refItemSep = children[children.length - 1];
+                    if (refItemSep.className == "refItemSep") {
+                        children[children.length - 1].style.display = "none";
+                    }
+                }
+            }
+        }
+
+       function switchStateForAll(buttonObj, boxList) {
+            if (buttonObj == null) {
+                // button not found
+            } else if (buttonObj.value == "+") {
+                // Expand all
+                expandAll(boxList);
+                buttonObj.value = "-";
+            } else if (buttonObj.value == "-") {
+                // Collapse all
+                collapseAll(boxList);
+                buttonObj.value = "+";
+            }
+        }
+        
+        /**
+        * Closes all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function collapseAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                closeBox(boxObj, buttonObj);
+            }
+        }
+            
+        /**
+        * Open all boxes in a given list.
+        *
+        * @param boxList Array of box IDs
+        */
+        function expandAll(boxList) {
+            var idx;
+            for (idx = 0; idx < boxList.length; idx++) {
+                var boxObj = getElementObject(boxList[idx]);
+                var buttonObj = getElementObject(button_prefix + boxList[idx]);
+                openBox(boxObj, buttonObj);
+            }
+        }
+        
+        /**
+         * Update the message presented in the title of the html page.
+         * - If the documentation was splited by namespace we present something like: "Documentation for namespace 'ns'"
+         * - If the documentation was splited by location we present somehing like: "Documentation for 'Schema.xsd'"
+         * - If no split we always present: "Documentation for 'MainSchema.xsd'"
+         */
+        function updPT(message) {
+            top.document.title = "Stylesheet documentation for: " + message;
+        }
+        
+          
+                    
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function findAndFloat(id, x_displacement, y_displacement){
+
+            var element = getElementObject(id);            
+            
+            window[id + "_obj"] = element;
+            
+            if(document.layers) {
+               element.style = element;
+            }
+            
+            element.current_y = y_displacement;      
+            element.first_time = true;
+         
+            element.floatElement = function(){
+               // It may be closed by an user action.
+                
+               // Target X and Y coordinates.
+               var x, y;
+               
+               var myWidth = 0, myHeight = 0;
+               if( typeof( window.innerWidth ) == 'number' ) {
+                  //Non-IE
+                  myWidth = window.innerWidth;
+                  myHeight = window.innerHeight;
+               } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+                  //IE 6+ in 'standards compliant mode'
+                  myWidth = document.documentElement.clientWidth;
+                  myHeight = document.documentElement.clientHeight;
+               } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+                  //IE 4 compatible
+                  myWidth = document.body.clientWidth;
+                  myHeight = document.body.clientHeight;
+               }
+               
+               
+               x = myWidth - x_displacement;
+               
+               var ns = (navigator.appName.indexOf("Netscape") != -1);               
+               y = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+                  document.documentElement.scrollTop : document.body.scrollTop;               
+               y = y + y_displacement;               
+               
+               // The current y is the current coordinate of the floating element.
+               // This should be at the limit the y target coordinate.
+               this.current_y += (y - this.current_y)/1.25;
+               
+               // Add the pixels constant after the values
+               // and move the element.
+               var px = document.layers ? "" : "px";
+               this.style.left =  x + px;
+               this.style.top =  this.current_y + px;
+                              
+               setTimeout(this.id + "_obj.floatElement()", 100);
+            }
+            
+            element.floatElement();
+            return element;
+          }
+
+         /**
+          * Finds an HTML element by its ID and makes it floatable over the normal content.
+          *
+          * @param x_displacement The difference in pixels to the right side of the window from 
+          *           the left side of the element.
+          * @param y_displacement The difference in pixels to the right side of the window from 
+          *           the top of the element.          
+          */
+         function selectTOCGroupBy(id){
+         var selectIds = new Array('toc_group_by_location', 'toc_group_by_component_type', 'toc_group_by_namespace', 'toc_group_by_mode');
+            // Make all the tabs invisible.
+            for (i = 0; i < 4; i++){
+               var tab = getElementObject(selectIds[i]);
+               tab.style.display = 'none';
+            }
+            var selTab = getElementObject(id);
+            selTab.style.display = 'block';            
+         }
+          
+
+    
+                    //--></script></head>
+   <body><a id="M_S_NAL-MARC21slim_MODS3-4.xsl"></a><div class="cmpT">Template
+         <span class="titleTemplateMatch">/</span></div>
+      <table class="rt">
+         <tr>
+            <td class="rt_cTL"></td>
+            <td class="rt_lT"></td>
+            <td class="rt_cTR"></td>
+         </tr>
+         <tr>
+            <td class="rt_lL"></td>
+            <td class="rt_cnt">
+               <table class="component">
+                  <tbody>
+                     <tr>
+                        <td class="fCol">
+                           <div class="flL">Documentation</div>
+                           <div class="flR"><input id="bt_dS_M_S_NAL-MARC21slim_MODS3-4.xsl" type="image" src="img/btM.gif" value="-" onclick="switchState('dS_M_S_NAL-MARC21slim_MODS3-4.xsl');" class="control" /></div>
+                        </td>
+                        <td>
+                           <div id="dS_M_S_NAL-MARC21slim_MODS3-4.xsl" style="display:block">
+                              <div>
+                                 <h3>Description</h3>
+                                 <pre> Maintenance note: For each revision, change the content of &amp;lt;recordInfo&amp;gt;&amp;lt;recordOrigin&amp;gt; to reflect the new revision number.
+			MARC21slim2MODS3-4 (Revision 1.98) 20141216
+			
+			Revision 2.12 - added conditional statement above issuance to focus on monographs, single part items and multipart monographs cm3 12/08/2022
+	        Revision 2.11 - added condtional statement if agid:# is empty from 773, use 914 subfield a cm3 12/09/2022
+	        Revision 2.10 - added condtional statement if ISSN is empty from 773, use 914 subfield b cm3 12/09/2022
+    		Revision 2.09 - added custom function to map Category Code to Subject. cm3 2022/12/08
+    		Revision 2.08 - Commented out condiontal statements within issuance element for serials, contininuing resources, and integrating resources. cm3 2022/12/08	
+            Revision 2.07 - used substring-before function to get subfield b (ie., publisher) and subfield c (i.e., dateIssued). cm3 2022/12/08
+			Revision 2.06 - added conditional statement outside of issuance element to allow monographs, multipart monographs, and single items only. cm3 2022/12/08 
+			Revision 2.05 - controlField008-35-37replace, uses replace function and regex to capture 3 letter string. cm3 2022/12/05
+			Revision 2.04 - updated recordOrigin to reflect the XSLT filename used in transform. cm3 2022/12/08
+			Revision 2.03 - Added if tests to originInfo producer elements to avoid empty tag cm3 2022/11/10
+			Revision 2.02 - used analyze-string function 008 to pull out 2-3 letter text and apply custom marc country conversion function
+			Revision 2.01 - Removed marc: prefix from XSLT to accomodate prefix-less elements from Alma 
+			Revision 2.00 - Upgraded stylesheet to use XSLT 2.0 cm3 2022/10/05 
+			Revision 1.99 - Fixed dateIssued to include year only date from the 008  JG 2014/12/16
+			Revision 1.98 - Fixed dateIssued to include month and date from the 008  JG 2014/08/18
+			Revision 1.97 - Added displayForm to 700 JG 2014/05/29
+			Revision 1.96 - Added subject from 072, classification from 070, identifier from 024, identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23
+		&lt;== NAL Revisions ==&gt;
+			Revision 1.95 - Added a xsl:when to deal with '#' and ' ' in $marcLeader19 and $controlField008-18 - ws 2014/12/19
+			Revision 1.94 - Leader 07 b mapping changed from "continuing" to "serial" tmee 2014/02/21
+			Revision 1.93 - Fixed personal name transform for ind1=0 tmee 2014/01/31
+			Revision 1.92 - Removed duplicate code for 856 1.51 tmee tmee 2014/01/31
+			Revision 1.91 - Fixed createnameFrom720 duplication tmee tmee 2014/01/31
+			Revision 1.90 - Fixed 520 displayLabel tmee tmee 2014/01/31
+			Revision 1.89 - Fixed 008-06 when value = 's' for cartographics tmee tmee 2014/01/31
+			Revision 1.88 - Fixed 510c mapping - tmee 2013/08/29
+			Revision 1.87 - Fixed expressions of &amp;lt;accessCondition&amp;gt; type values - tmee 2013/08/29
+			Revision 1.86 - Fixed 008 &amp;lt;frequency&amp;gt; subfield to occur w/i &amp;lt;originiInfo&amp;gt; - tmee 2013/08/29
+			Revision 1.85 - Fixed 245 $c - tmee 2013/03/07
+			Revision 1.84 - Fixed 1.35 and 1.36 date mapping for 008 when 008/06=e,p,r,s,t so only 008/07-10 displays, rather than 008/07-14 - tmee 2013/02/01
+			Revision 1.83 - Deleted mapping for 534 to note - tmee 2013/01/18
+			Revision 1.82 - Added mapping for 264 ind 0,1,2,3 to originInfo - 2013/01/15 tmee
+			Revision 1.81 - Added mapping for 336$a$2, 337$a$2, 338$a$2 - 2012/12/03 tmee
+			Revision 1.80 - Added 100/700 mapping for "family" - 2012/09/10 tmee
+			Revision 1.79 - Added 245 $s mapping - 2012/07/11 tmee
+			Revision 1.78 - Fixed 852 mapping &amp;lt;shelfLocation&amp;gt; was changed to &amp;lt;shelfLocator&amp;gt; - 2012/05/07 tmee
+			Revision 1.77 - Fixed 008-06 when value = 's' - 2012/04/19 tmee
+			Revision 1.76 - Fixed 242 - 2012/02/01 tmee
+			Revision 1.75 - Fixed 653 - 2012/01/31 tmee
+			Revision 1.74 - Fixed 510 note - 2011/07/15 tmee
+			Revision 1.73 - Fixed 506 540 - 2011/07/11 tmee
+			Revision 1.72 - Fixed frequency error - 2011/07/07 and 2011/07/14 tmee
+			Revision 1.71 - Fixed subject titles for subfields t - 2011/04/26 tmee
+			Revision 1.70 - Added mapping for OCLC numbers in 035s to go into &amp;lt;identifier type="oclc"&amp;gt; 2011/02/27 - tmee
+			Revision 1.69 - Added mapping for untyped identifiers for 024 - 2011/02/27 tmee
+			Revision 1.68 - Added &amp;lt;subject&amp;gt;&amp;lt;titleInfo&amp;gt; mapping for 600/610/611 subfields t,p,n - 2010/12/22 tmee
+			Revision 1.67 - Added frequency values and authority="marcfrequency" for 008/18 - 2010/12/09 tmee
+			Revision 1.66 - Fixed 008/06=c,d,i,m,k,u, from dateCreated to dateIssued - 2010/12/06 tmee
+			Revision 1.65 - Added back marcsmd and marccategory for 007 cr- 2010/12/06 tmee
+			Revision 1.64 - Fixed identifiers - removed isInvalid template - 2010/12/06 tmee
+			Revision 1.63 - Fixed descriptiveStandard value from aacr2 to aacr - 2010/12/06 tmee
+			Revision 1.62 - Fixed date mapping for 008/06=e,p,r,s,t - 2010/12/01 tmee
+			Revision 1.61 - Added 007 mappings for marccategory - 2010/11/12 tmee
+			Revision 1.60 - Added altRepGroups and 880 linkages for relevant fields, see mapping - 2010/11/26 tmee
+			Revision 1.59 - Added scriptTerm type=text to language for 546b and 066c - 2010/09/23 tmee
+			Revision 1.58 - Expanded script template to include code conversions for extended scripts - 2010/09/22 tmee
+			Revision 1.57 - Added Ldr/07 and Ldr/19 mappings - 2010/09/17 tmee
+			Revision 1.56 - Mapped 1xx usage="primary" - 2010/09/17 tmee
+			Revision 1.55 - Mapped UT 240/1xx nameTitleGroup - 2010/09/17 tmee
+			MODS 3.4
+			Revision 1.54 - Fixed 086 redundancy - 2010/07/27 tmee
+			Revision 1.53 - Added direct href for MARC21slimUtils - 2010/07/27 tmee
+			Revision 1.52 - Mapped 046 subfields c,e,k,l - 2010/04/09 tmee
+			Revision 1.51 - Corrected 856 transform - 2010/01/29 tmee
+			Revision 1.50 - Added 210 $2 authority attribute in &amp;lt;titleInfo type=”abbreviated”&amp;gt; 2009/11/23 tmee
+			Revision 1.49 - Aquifer revision 1.14 - Added 240s (version) data to &amp;lt;titleInfo type="uniform"&amp;gt;&amp;lt;title&amp;gt; 2009/11/23 tmee
+			Revision 1.48 - Aquifer revision 1.27 - Added mapping of 242 second indicator (for nonfiling characters) to &amp;lt;titleInfo&amp;gt;&amp;lt;nonSort &amp;gt; subelement  2007/08/08 tmee/dlf
+			Revision 1.47 - Aquifer revision 1.26 - Mapped 300 subfield f (type of unit) - and g (size of unit) 2009 ntra
+			Revision 1.46 - Aquifer revision 1.25 - Changed mapping of 767 so that &amp;lt;type="otherVersion&amp;gt;  2009/11/20  tmee
+			Revision 1.45 - Aquifer revision 1.24 - Changed mapping of 765 so that &amp;lt;type="otherVersion&amp;gt;  2009/11/20  tmee
+			Revision 1.44 - Added &amp;lt;recordInfo&amp;gt;&amp;lt;recordOrigin&amp;gt; canned text about the version of this stylesheet 2009 ntra
+			Revision 1.43 - Mapped 351 subfields a,b,c 2009/11/20 tmee
+			Revision 1.42 - Changed 856 second indicator=1 to go to &amp;lt;location&amp;gt;&amp;lt;url displayLabel=”electronic resource”&amp;gt; instead of to &amp;lt;relatedItem type=”otherVersion”&amp;gt;&amp;lt;url&amp;gt; 2009/11/20 tmee
+			Revision 1.41 - Aquifer revision 1.9 Added variable and choice protocol for adding usage=”primary display” 2009/11/19 tmee
+			Revision 1.40 - Dropped &amp;lt;note&amp;gt; for 510 and added &amp;lt;relatedItem type="isReferencedBy"&amp;gt; for 510 2009/11/19 tmee
+			Revision 1.39 - Aquifer revision 1.23 Changed mapping for 762 (Subseries Entry) from &amp;lt;relatedItem type="series"&amp;gt; to &amp;lt;relatedItem type="constituent"&amp;gt; 2009/11/19 tmee
+			Revision 1.38 - Aquifer revision 1.29 Dropped 007s for electronic versions 2009/11/18 tmee
+			Revision 1.37 - Fixed date redundancy in output (with questionable dates) 2009/11/16 tmee
+			Revision 1.36 - If mss material (Ldr/06=d,p,f,t) map 008 dates and 260$c/$g dates to dateCreated 2009/11/24, otherwise map 008 and 260$c/$g to dateIssued 2010/01/08 tmee
+			Revision 1.35 - Mapped appended detailed dates from 008/07-10 and 008/11-14 to dateIssued or DateCreated w/encoding="marc" 2010/01/12 tmee
+			Revision 1.34 - Mapped 045b B.C. and C.E. date range info to iso8601-compliant dates in &amp;lt;subject&amp;gt;&amp;lt;temporal&amp;gt; 2009/01/08 ntra
+			Revision 1.33 - Mapped Ldr/06 "o" to &amp;lt;typeOfResource&amp;gt;kit 2009/11/16 tmee
+			Revision 1.32 - Mapped specific note types from the MODS Note Type list &amp;lt;http://www.loc.gov/standards/mods/mods-notes.html&amp;gt; tmee 2009/11/17
+			Revision 1.31 - Mapped 540 to &amp;lt;accessCondition type="use and reproduction"&amp;gt; and 506 to &amp;lt;accessCondition type="restriction on access"&amp;gt; and delete mappings of 540 and 506 to &amp;lt;note&amp;gt;
+			Revision 1.30 - Mapped 037c to &amp;lt;identifier displayLabel=""&amp;gt; 2009/11/13 tmee
+			Revision 1.29 - Corrected schemaLocation to 3.3 2009/11/13 tmee
+			Revision 1.28 - Changed mapping from 752,662 g going to mods:hierarchicalGeographic/area instead of "region" 2009/07/30 ntra
+			Revision 1.27 - Mapped 648 to &amp;lt;subject&amp;gt; 2009/03/13 tmee
+			Revision 1.26 - Added subfield $s mapping for 130/240/730  2008/10/16 tmee
+			Revision 1.25 - Mapped 040e to &amp;lt;descriptiveStandard&amp;gt; and Leader/18 to &amp;lt;descriptive standard&amp;gt;aacr2  2008/09/18 tmee
+			Revision 1.24 - Mapped 852 subfields $h, $i, $j, $k, $l, $m, $t to &amp;lt;shelfLocation&amp;gt; and 852 subfield $u to &amp;lt;physicalLocation&amp;gt; with @xlink 2008/09/17 tmee
+			Revision 1.23 - Commented out xlink/uri for subfield 0 for 130/240/730, 100/700, 110/710, 111/711 as these are currently unactionable  2008/09/17 tmee
+			Revision 1.22 - Mapped 022 subfield $l to type "issn-l" subfield $m to output identifier element with corresponding @type and @invalid eq 'yes'2008/09/17 tmee
+			Revision 1.21 - Mapped 856 ind2=1 or ind2=2 to &amp;lt;relatedItem&amp;gt;&amp;lt;location&amp;gt;&amp;lt;url&amp;gt;  2008/07/03 tmee
+			Revision 1.20 - Added genre w/@auth="contents of 2" and type= "musical composition"  2008/07/01 tmee
+			Revision 1.19 - Added genre offprint for 008/24+ BK code 2  2008/07/01  tmee
+			Revision 1.18 - Added xlink/uri for subfield 0 for 130/240/730, 100/700, 110/710, 111/711  2008/06/26 tmee
+			Revision 1.17 - Added mapping of 662 2008/05/14 tmee
+			Revision 1.16 - Changed @authority from "marc" to "marcgt" for 007 and 008 codes mapped to a term in &amp;lt;genre&amp;gt; 2007/07/10 tmee
+			Revision 1.15 - For field 630, moved call to part template outside title element  2007/07/10 tmee
+			Revision 1.14 - Fixed template isValid and fields 010, 020, 022, 024, 028, and 037 to output additional identifier elements with corresponding @type and @invalid eq 'yes' when subfields z or y (in the case of 022) exist in the MARCXML ::: 2007/01/04 17:35:20 cred
+			Revision 1.13 - Changed order of output under cartographics to reflect schema  2006/11/28 tmee
+			Revision 1.12 - Updated to reflect MODS 3.2 Mapping  2006/10/11 tmee
+			Revision 1.11 - The attribute objectPart moved from &amp;lt;languageTerm&amp;gt; to &amp;lt;language&amp;gt;  2006/04/08  jrad
+			Revision 1.10 - MODS 3.1 revisions to language and classification elements (plus ability to find collection embedded in wrapper elements such as SRU zs: wrappers)  2006/02/06  ggar
+			Revision 1.09 - Subfield $y was added to field 242 2004/09/02 10:57 jrad
+			Revision 1.08 - Subject chopPunctuation expanded and attribute fixes 2004/08/12 jrad
+			Revision 1.07 - 2004/03/25 08:29 jrad
+			Revision 1.06 - Various validation fixes 2004/02/20 ntra
+			Revision 1.05 - MODS2 to MODS3 updates, language unstacking and de-duping, chopPunctuation expanded  2003/10/02 16:18:58  ntra
+			Revision 1.03 - Additional Changes not related to MODS Version 2.0 by ntra
+			Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
+		</pre>
+                              </div>
+                           </div>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">Namespace</td>
+                        <td>No namespace</td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">Match</td>
+                        <td>/</td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">Mode</td>
+                        <td>#default</td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">
+                           <div class="flL">References</div>
+                           <div class="flR"><input id="bt_refs_M_S_NAL-MARC21slim_MODS3-4.xsl" type="image" src="img/btM.gif" value="-" onclick="switchState('refs_M_S_NAL-MARC21slim_MODS3-4.xsl');" class="control" /></div>
+                        </td>
+                        <td>
+                           <div id="refs_M_S_NAL-MARC21slim_MODS3-4.xsl" style="display:block">
+                              <table class="uBT">
+                                 <tr>
+                                    <td class="fCol">Output</td>
+                                    <td>
+                                       <div class="listGrouping">
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-463.html#O_saxonS_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('saxon')">saxon</a></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td class="fCol">Template</td>
+                                    <td>
+                                       <div class="listGrouping">
+                                          <div class="refItemBlock"><a href="NAL-MARC21slim_MODS3-43.html#T_marcRecordS_NAL-MARC21slim_MODS3-4.xsl" target="_self" title="No namespace" onclick="updPT('marcRecord')"><span class="nRf">marcRecord</span></a></div>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </div>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">Import precedence</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td class="fCol">
+                           <div class="flL">Source</div>
+                           <div class="flR"><input id="bt_src_M_S_NAL-MARC21slim_MODS3-4.xsl" type="image" src="img/btM.gif" value="-" onclick="switchState('src_M_S_NAL-MARC21slim_MODS3-4.xsl');" class="control" /></div>
+                        </td>
+                        <td>
+                           <div id="src_M_S_NAL-MARC21slim_MODS3-4.xsl" style="display:block">
+                              <table class="pWCont">
+                                 <tr>
+                                    <td width="100%">
+                                       <pre><span class="tXSLEl">&lt;xsl:template</span><span class="tAN"> match=</span><span class="tAV">"/"</span><span class="tXSLEl">&gt;</span><span class="tI">
+  </span><span class="tXSLEl">&lt;xsl:choose</span><span class="tXSLEl">&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"//collection"</span><span class="tXSLEl">&gt;</span><span class="tI">
+      </span><span class="tXSLEl">&lt;xsl:result-document</span><span class="tAN"> encoding=</span><span class="tAV">"UTF-8"</span><span class="tAN"> version=</span><span class="tAV">"1.0"</span><span class="tAN"> method=</span><span class="tAV">"xml"</span><span class="tAN"> media-type=</span><span class="tAV">"text/xml"</span><span class="tAN"> indent=</span><span class="tAV">"yes"</span><span class="tAN"> format=</span><span class="tAV">"saxon"</span><span class="tAN"> href=</span><span class="tAV">"{replace(saxon:system-id(),'(.*/)(.*)(\.xml)','$1')}N-{replace(saxon:system-id(),'(.*/)(.*)(\.xml)','$2')}_{position()}.xml"</span><span class="tXSLEl">&gt;</span><span class="tI">
+        </span><span class="tEl">&lt;modsCollection</span><span class="tAN"> xmlns=</span><span class="tAV">"http://www.loc.gov/mods/v3"</span><span class="tAN"> xmlns:mods=</span><span class="tAV">"http://www.loc.gov/mods/v3"</span><span class="tAN"> xmlns:xlink=</span><span class="tAV">"http://www.w3.org/1999/xlink"</span><span class="tAN"> xmlns:xsi=</span><span class="tAV">"http://www.w3.org/2001/XMLSchema-instance"</span><span class="tAN"> xsi:schemaLocation=</span><span class="tAV">"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"</span><span class="tEl">&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:for-each</span><span class="tAN"> select=</span><span class="tAV">"//collection/record"</span><span class="tXSLEl">&gt;</span><span class="tI">
+            </span><span class="tEl">&lt;mods</span><span class="tAN"> version=</span><span class="tAV">"3.4"</span><span class="tEl">&gt;</span><span class="tI">
+              </span><span class="tXSLEl">&lt;xsl:call-template</span><span class="tAN"> name=</span><span class="tAV">"marcRecord"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+            </span><span class="tEl">&lt;/mods&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;/xsl:for-each&gt;</span><span class="tI">
+        </span><span class="tEl">&lt;/modsCollection&gt;</span><span class="tI">
+      </span><span class="tXSLEl">&lt;/xsl:result-document&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:when</span><span class="tAN"> test=</span><span class="tAV">"node()"</span><span class="tXSLEl">&gt;</span><span class="tI">
+      </span><span class="tEl">&lt;mods</span><span class="tAN"> xmlns:xlink=</span><span class="tAV">"http://www.w3.org/1999/xlink"</span><span class="tAN"> version=</span><span class="tAV">"3.4"</span><span class="tAN"> xmlns:xsi=</span><span class="tAV">"http://www.w3.org/2001/XMLSchema-instance"</span><span class="tAN"> xmlns=</span><span class="tAV">"http://www.loc.gov/mods/v3"</span><span class="tAN"> xmlns:mods=</span><span class="tAV">"http://www.loc.gov/mods/v3"</span><span class="tAN"> xsi:schemaLocation=</span><span class="tAV">"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"</span><span class="tEl">&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;xsl:for-each</span><span class="tAN"> select=</span><span class="tAV">"//record"</span><span class="tXSLEl">&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:call-template</span><span class="tAN"> name=</span><span class="tAV">"marcRecord"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;/xsl:for-each&gt;</span><span class="tI">
+      </span><span class="tEl">&lt;/mods&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;/xsl:when&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;xsl:otherwise</span><span class="tXSLEl">&gt;</span><span class="tI">
+      </span><span class="tEl">&lt;mods</span><span class="tAN"> xmlns:xlink=</span><span class="tAV">"http://www.w3.org/1999/xlink"</span><span class="tAN"> version=</span><span class="tAV">"3.4"</span><span class="tAN"> xmlns:xsi=</span><span class="tAV">"http://www.w3.org/2001/XMLSchema-instance"</span><span class="tAN"> xmlns=</span><span class="tAV">"http://www.loc.gov/mods/v3"</span><span class="tAN"> xsi:schemaLocation=</span><span class="tAV">"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"</span><span class="tEl">&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;xsl:for-each</span><span class="tAN"> select=</span><span class="tAV">"//record"</span><span class="tXSLEl">&gt;</span><span class="tI">
+          </span><span class="tXSLEl">&lt;xsl:call-template</span><span class="tAN"> name=</span><span class="tAV">"marcRecord"</span><span class="tXSLEl">/&gt;</span><span class="tI">
+        </span><span class="tXSLEl">&lt;/xsl:for-each&gt;</span><span class="tI">
+      </span><span class="tEl">&lt;/mods&gt;</span><span class="tI">
+    </span><span class="tXSLEl">&lt;/xsl:otherwise&gt;</span><span class="tI">
+  </span><span class="tXSLEl">&lt;/xsl:choose&gt;</span><span class="tI">
+</span><span class="tXSLEl">&lt;/xsl:template&gt;</span></pre>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+            <td class="rt_lR"></td>
+         </tr>
+         <tr>
+            <td class="rt_cBL"></td>
+            <td class="rt_lB"></td>
+            <td class="rt_cBR"></td>
+         </tr>
+      </table>
+      <div class="footer">
+         <hr />
+         <div align="center">Stylesheet documentation generated by <a href="http://www.oxygenxml.com" target="_parent"><span class="oXygenLogo"><span class="redX">&lt;</span>o<span class="redX">X</span>ygen<span class="redX">/&gt;</span></span></a><sup>®</sup> XML Editor.</div>
+      </div><script type="text/javascript"><!--
+                    // The namespace is the selected option in the TOC combo.
+                    
+                    // The corresponding div is already visible conf. to its style attr.                     
+                    
+                            var selectToc = getElementObject('selectTOC');
+                            if(selectToc != null){
+                            // It can be null when having chunking, the combo of the TOC is in another frame.
+                            selectToc.selectedIndex = 1;
+                            }
+                        
+                    
+                    // Floats the toolbar.
+                    var globalControls = getElementObject("global_controls"); 
+                    
+                    if(globalControls != null){
+                    var browser=navigator.appName;
+                    var version = parseFloat(navigator.appVersion.split('MSIE')[1]);
+                    
+                    var IE6 = false;
+                    if ((browser=="Microsoft Internet Explorer") && (version < 7)){
+                    IE6 = true;
+                    }
+                    
+                    //alert (IE6 + " |V| " + version);
+                    
+                    if(IE6){
+                    // On IE 6 the 'fixed' property is not supported. We must use javascript. 
+                    globalControls.style.position='absolute';                         
+                    // The global controls will do not exist in the TOC frame, when chunking.
+                    findAndFloat("global_controls", 225, 30);    
+                    } else {
+                    globalControls.style.position='fixed';                     	
+                    }
+                    
+                    globalControls.style.right='0';                       
+                    }
+                //--></script></body>
+</html>

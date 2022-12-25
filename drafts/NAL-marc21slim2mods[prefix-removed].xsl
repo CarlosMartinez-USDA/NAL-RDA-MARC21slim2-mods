@@ -144,7 +144,7 @@
                     <modsCollection xmlns="http://www.loc.gov/mods/v3"
                         xmlns:xlink="http://www.w3.org/1999/xlink"
                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">>
+                        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
                         <xsl:for-each select="//collection/record">
                             <mods version="3.5">
                                 <xsl:call-template name="marcRecord"/>

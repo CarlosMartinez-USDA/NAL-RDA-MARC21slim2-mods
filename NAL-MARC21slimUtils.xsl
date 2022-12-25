@@ -425,19 +425,19 @@
 			"
 		/>
 	</xsl:function>
-	<!--f:format-case-->
+	<!--f:sentence-case-->
 	<xd:doc>
 		<xd:desc>
-			<xd:p><xd:b>Function: </xd:b>f:format-case</xd:p>
-			<xd:p><xd:b>Usage: </xd:b>f:format-case(XPath)</xd:p>
-			<xd:p><xd:b>Purpose:</xd:b>The f:format-case function  treats a string like
+			<xd:p><xd:b>Function: </xd:b>f:sentence-case</xd:p>
+			<xd:p><xd:b>Usage: </xd:b>f:sentence-case(XPath)</xd:p>
+			<xd:p><xd:b>Purpose:</xd:b>The f:sentence-case function  treats a string like
 				two parts; the first character of $arg is capitalized, the rest of the string is
 				lowercase. (e.g. "STRING THEORY" ---> "String theory"). Thus, even if the second letter of $arg is not
 				a lowercase letter, the rest of the string is still lowercase. </xd:p>
 		</xd:desc>
 		<xd:param name="arg"/>
 	</xd:doc>
-	<xsl:function name="f:format-case" as="xs:string?">
+	<xsl:function name="f:sentence-case" as="xs:string?">
 		<xsl:param name="arg" as="xs:string?"/>
 		<xsl:sequence
 			select="
@@ -449,40 +449,29 @@
 	<!--f:format-names-->
 	<xd:doc>
 		<xd:desc>
-			<xd:p><xd:b>Function: </xd:b>f:format-names</xd:p>
-			<xd:p><xd:b>Usage: </xd:b>f:formatNames(XPath)</xd:p>
-			<xd:p><xd:b>Purpose: </xd:b>The f:formatNames function performs a "choose when" test
+			<xd:p><xd:b>Function: </xd:b>f:proper-case</xd:p>
+			<xd:p><xd:b>Usage: </xd:b>f:proper-case(XPath)</xd:p>
+			<xd:p><xd:b>Purpose: </xd:b>The f:proper-case function performs a "choose when" test
 				first determining if a string contains two substrings, when it does, it capitalizes
 				the first character of each substring. when it does not, it capitalizes the first
 				character of the substring, and the rest of the string is lowercase, making use of
-				<xd:i>f:format-case</xd:i>function in both instances</xd:p>
+				<xd:i>f:proper-case</xd:i>function in both instances</xd:p>
 			<xd:p>
-				<xd:b>Parameters &amp; Variables </xd:b>
+				<xd:b>Parameters</xd:b>
 			</xd:p>
 		</xd:desc>
 		<xd:param name="arg"/>
 	</xd:doc>
-	<xsl:function name="f:formatNames">
+	<xsl:function name="f:proper-case">
 		<xsl:param name="arg" as="xs:string?"/>
 		<xsl:variable name="white-space" as="xs:string" select="(' ')"/>
-		<!--   <xsl:variable name="regex" select="contains('.','\s*|\-') "/>-->
-		<xsl:choose>
-			<xsl:when test="(matches($arg, $white-space))">
-				<xsl:variable name="substring1" select="substring-before($arg, $white-space)"/>
-				<xsl:variable name="substring2" select="substring-after($arg, $white-space)"/>
-				<xsl:sequence
-					select="
-					if (contains($arg, $white-space))
-					then
-					concat(f:format-case($substring1), ($white-space), (f:format-case($substring2)))
-				    else
-					$arg"
+		<xsl:variable name="substring1" select="substring-before($arg, $white-space)"/>
+		<xsl:variable name="substring2" select="substring-after($arg, $white-space)"/>
+			<xsl:sequence select="
+				if (contains($arg, $white-space))
+				then concat(f:sentence-case($substring1), ($white-space), (f:sentence-case($substring2)))
+				else f:sentence-case($arg)"
 				/>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:value-of select="f:format-case($arg)"/>
-			</xsl:otherwise>
-		</xsl:choose>
 	</xsl:function>
 	<xd:doc>
 		<xd:desc/>
