@@ -238,8 +238,203 @@
 			</xsl:if>
 		</xsl:if>
 	</xsl:template>
+	<!--for prefixed elements-->
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="tag"/>
+		<xd:param name="ind1"/>
+		<xd:param name="ind2"/>
+		<xd:param name="subfields"/>
+	</xd:doc>
+	<xsl:template name="marcDatafield" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		<xsl:param name="tag"/>
+		<xsl:param name="ind1">
+			<xsl:text> </xsl:text>
+		</xsl:param>
+		<xsl:param name="ind2">
+			<xsl:text> </xsl:text>
+		</xsl:param>
+		<xsl:param name="subfields"/>
+		<xsl:element name="datafield">
+			<xsl:attribute name="tag">
+				<xsl:value-of select="$tag"/>
+			</xsl:attribute>
+			<xsl:attribute name="ind1">
+				<xsl:value-of select="$ind1"/>
+			</xsl:attribute>
+			<xsl:attribute name="ind2">
+				<xsl:value-of select="$ind2"/>
+			</xsl:attribute>
+			<xsl:copy-of select="$subfields"/>
+		</xsl:element>
+	</xsl:template>
 	
-
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="codes"/>
+		<xd:param name="delimeter"/>
+	</xd:doc>
+	<xsl:template name="marcSubfieldSelect" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		<xsl:param name="codes">abcdefghijklmnopqrstuvwxyz</xsl:param>
+		<xsl:param name="delimeter">
+			<xsl:text> </xsl:text>
+		</xsl:param>
+		<xsl:variable name="str">
+			<xsl:for-each select="subfield">
+				<xsl:if test="contains($codes, @code)">
+					<xsl:value-of select="text()"/>
+					<xsl:value-of select="$delimeter"/>
+				</xsl:if>
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:value-of select="substring($str,1,string-length($str)-string-length($delimeter))"/>
+	</xsl:template>
+	
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="spaces"/>
+		<xd:param name="char"/>
+	</xd:doc>
+	<xsl:template name="marcBuildSpaces" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		<xsl:param name="spaces"/>
+		<xsl:param name="char">
+			<xsl:text> </xsl:text>
+		</xsl:param>
+		<xsl:if test="$spaces>0">
+			<xsl:value-of select="$char"/>
+			<xsl:call-template name="marcBuildSpaces">
+				<xsl:with-param name="spaces" select="$spaces - 1"/>
+				<xsl:with-param name="char" select="$char"/>
+			</xsl:call-template>
+		</xsl:if>
+	</xsl:template>
+	
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="chopString"/>
+		<xd:param name="punctuation"/>
+	</xd:doc>
+	<xsl:template name="marcChopPunctuation" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		<xsl:param name="chopString"/>
+		<xsl:param name="punctuation">
+			<xsl:text>.:,;/ </xsl:text>
+		</xsl:param>
+		<xsl:variable name="length" select="string-length($chopString)"/>
+		<xsl:choose>
+			<xsl:when test="$length=0"/>
+			<xsl:when test="contains($punctuation, substring($chopString,$length,1))">
+				<xsl:call-template name="marcChopPunctuation">
+					<xsl:with-param name="chopString" select="substring($chopString,1,$length - 1)"/>
+					<xsl:with-param name="punctuation" select="$punctuation"/>
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:when test="not($chopString)"/>
+			<xsl:otherwise>
+				<xsl:value-of select="$chopString"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+	
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="chopString"/>
+	</xd:doc>
+	<xsl:template name="marcChopPunctuationFront" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		<xsl:param name="chopString"/>
+		<xsl:variable name="length" select="string-length($chopString)"/>
+		<xsl:choose>
+			<xsl:when test="$length=0"/>
+			<xsl:when test="contains('.:,;/[ ', substring($chopString,1,1))">
+				<xsl:call-template name="marcChopPunctuationFront">
+					<xsl:with-param name="chopString" select="substring($chopString,2,$length - 1)"
+					/>
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:when test="not($chopString)"/>
+			<xsl:otherwise>
+				<xsl:value-of select="$chopString"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+	
+	<xd:doc>
+		<xd:desc/>
+		<xd:param name="chopString"/>
+		<xd:param name="punctuation"/>
+	</xd:doc>
+	<xsl:template name="marcChopPunctuationBack" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		<xsl:param name="chopString"/>
+		<xsl:param name="punctuation">
+			<xsl:text>.:,;/] </xsl:text>
+		</xsl:param>
+		<xsl:variable name="length" select="string-length($chopString)"/>
+		<xsl:choose>
+			<xsl:when test="$length=0"/>
+			<xsl:when test="contains($punctuation, substring($chopString,$length,1))">
+				<xsl:call-template name="marcChopPunctuation">
+					<xsl:with-param name="chopString" select="substring($chopString,1,$length - 1)"/>
+					<xsl:with-param name="punctuation" select="$punctuation"/>
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:when test="not($chopString)"/>
+			<xsl:otherwise>
+				<xsl:value-of select="$chopString"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+	
+	
+	<xd:doc>
+		<xd:desc> nate added 12/14/2007 for lccn.loc.gov: url encode ampersand, etc. </xd:desc>
+		<xd:param name="str"/>
+	</xd:doc>
+	<xsl:template name="marc-url-encode" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+		
+		<xsl:param name="str"/>
+		
+		<xsl:if test="$str">
+			<xsl:variable name="first-char" select="substring($str,1,1)"/>
+			<xsl:choose>
+				<xsl:when test="contains($safe,$first-char)">
+					<xsl:value-of select="$first-char"/>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:variable name="codepoint">
+						<xsl:choose>
+							<xsl:when test="contains($ascii,$first-char)">
+								<xsl:value-of
+									select="string-length(substring-before($ascii,$first-char)) + 32"
+								/>
+							</xsl:when>
+							<xsl:when test="contains($latin1,$first-char)">
+								<xsl:value-of
+									select="string-length(substring-before($latin1,$first-char)) + 160"/>
+								<!-- was 160 -->
+							</xsl:when>
+							<xsl:otherwise>
+								<xsl:message terminate="no">Warning: string contains a character
+									that is out of range! Substituting "?".</xsl:message>
+								<xsl:text>63</xsl:text>
+							</xsl:otherwise>
+						</xsl:choose>
+					</xsl:variable>
+					<xsl:variable name="hex-digit1"
+						select="substring($hex,floor($codepoint div 16) + 1,1)"/>
+					<xsl:variable name="hex-digit2" select="substring($hex,$codepoint mod 16 + 1,1)"/>
+					<!-- <xsl:value-of select="concat('%',$hex-digit2)"/> -->
+					<xsl:value-of select="concat('%',$hex-digit1,$hex-digit2)"/>
+				</xsl:otherwise>
+			</xsl:choose>
+			<xsl:if test="string-length($str) &gt; 1">
+				<xsl:call-template name="url-encode">
+					<xsl:with-param name="str" select="substring($str,2)"/>
+				</xsl:call-template>
+			</xsl:if>
+		</xsl:if>
+	</xsl:template>
+	
+	
+	
 <!-- Stylus Studio meta-information - (c)1998-2002 eXcelon Corp.
 <metaInformation>
 <scenarios/><MapperInfo srcSchemaPath="" srcSchemaRoot="" srcSchemaPathIsRelative="yes" srcSchemaInterpretAsXML="no" destSchemaPath="" destSchemaRoot="" destSchemaPathIsRelative="yes" destSchemaInterpretAsXML="no"/>
