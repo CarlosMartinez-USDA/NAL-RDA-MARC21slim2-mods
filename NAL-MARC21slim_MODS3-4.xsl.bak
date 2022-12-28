@@ -148,6 +148,18 @@
     </xd:doc>
     <xsl:template match="/">
     <xsl:choose>
+<xsl:when test="//marc:collection/marc:record">
+    <xsl:result-document encoding="UTF-8" version="1.0" method="xml"
+        media-type="text/xml" indent="yes" format="saxon"
+        href="file:///{$workingDir}N-{replace($originalFilename,'(.*/)(.*)(\.xml)','$2')}_{position()}.xml">
+        <xsl:call-template name="marcPrefix">
+            <xsl:with-param name="marcPrefixedElement" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+                <xsl:value-of select="."/>
+            </xsl:with-param>
+        </xsl:call-template>
+    </xsl:result-document>
+</xsl:when>
+
         <xsl:when test="//collection/record">
                 <xsl:result-document encoding="UTF-8" version="1.0" method="xml"
                     media-type="text/xml" indent="yes" format="saxon"
@@ -172,29 +184,20 @@
                         xmlns="http://www.loc.gov/mods/v3"
                         xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
                         version="3.4" >
-                        <xsl:call-template name="marcRecord"/>
+                   <xsl:call-template name="marcRecord"/>
                     </mods>
                 </xsl:for-each>
             </xsl:when>
-            <xsl:when test="//marc:collection/marc:record">
-                <mods xmlns:xlink="http://www.w3.org/1999/xlink" 
+        <xsl:otherwise>   
+                    <mods xmlns:xlink="http://www.w3.org/1999/xlink" 
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     xmlns="http://www.loc.gov/mods/v3"
                     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
                     version="3.4" >
-                    <xsl:call-template name="marcPrefix-marcRecord" xpath-default-namespace="http://www.loc.gov/MARC21/slim"/>
-                </mods>
-            </xsl:when>
-                 <xsl:otherwise>
-                     <xsl:for-each select="//marc:record">
-                         <mods xmlns:xlink="http://www.w3.org/1999/xlink" 
-                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             xmlns="http://www.loc.gov/mods/v3"
-                             xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
-                             version="3.4">
-                             <xsl:call-template name="marcPrefix-marcRecord"/>
-                         </mods>
-                     </xsl:for-each>
+                        <xsl:for-each select="//record">
+                            <xsl:call-template name="marcPrefix" xpath-default-namespace="http://www.loc.gov/MARC21/slim"/>
+                        </xsl:for-each>
+                    </mods>
                  </xsl:otherwise>
     </xsl:choose>
         
